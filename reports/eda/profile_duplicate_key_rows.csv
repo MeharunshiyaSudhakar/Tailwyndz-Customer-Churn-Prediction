@@ -1,0 +1,17 @@
+CUSTOMER_ID,SIGNUP_DATE,AGE,GENDER,CITY,MEMBERSHIP_TIER,MARKETING_OPT_IN,PREFERRED_STORE_ID,PREFERRED_CATEGORY,HOME_STORE_PRICE_TIER
+500079,2023-06-09 00:00:00,63,F,Spokane,Silver,1,112,Produce,Value
+500205,2021-09-03 00:00:00,35,M,Tulsa,Gold,1,125,Household,Value
+500453,2021-12-21 00:00:00,63,F,Nashville,Silver,0,101,Beverages,Mainstream
+501209,2023-10-16 00:00:00,35,M,Denver,Gold,1,115,Produce,Mainstream
+501216,2023-02-04 00:00:00,61,M,Portland,Silver,1,140,Produce,Value
+501599,2022-10-09 00:00:00,32,M,Tulsa,Silver,1,137,Produce,Mainstream
+502000,2024-04-15 00:00:00,53,M,Tulsa,Silver,0,112,Beverages,Value
+502379,2021-10-20 00:00:00,74,F,Austin,Silver,1,140,Household,Value
+502000,2024-04-15 00:00:00,53,M,Tulsa,Silver,0,112,Beverages,Value
+501599,2022-10-09 00:00:00,32,M,Tulsa,Silver,1,137,Produce,Mainstream
+500453,2021-12-21 00:00:00,63,F,Nashville,Silver,0,101,Beverages,Mainstream
+502379,2021-10-20 00:00:00,74,F,Austin,Silver,1,140,Household,Value
+501216,2023-02-04 00:00:00,61,M,Portland,Silver,1,140,Produce,Value
+501209,2023-10-16 00:00:00,35,M,Denver,Gold,1,115,Produce,Mainstream
+500079,2023-06-09 00:00:00,63,F,Spokane,Silver,1,112,Produce,Value
+500205,2021-09-03 00:00:00,35,M,Tulsa,Gold,1,125,Household,Value

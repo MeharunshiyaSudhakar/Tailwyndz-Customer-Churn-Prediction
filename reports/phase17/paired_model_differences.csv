@@ -1,0 +1,7 @@
+model_1,model_2,metric,mean_split_difference,std_split_difference,splits_model_1_won,splits_tied,splits_model_2_won
+positive_transaction_recency_in_window,existing_observed_activity_recency,f1,0.0123,0.0075,5,0,0
+positive_transaction_recency_in_window,existing_observed_activity_recency,roc_auc,0.0025,0.0022,5,0,0
+positive_transaction_recency_in_window,existing_observed_activity_recency,pr_auc_average_precision,0.0065,0.0045,5,0,0
+positive_transaction_recency_in_window,no_recency_feature,f1,0.1178,0.0252,5,0,0
+positive_transaction_recency_in_window,no_recency_feature,roc_auc,0.0407,0.0109,5,0,0
+positive_transaction_recency_in_window,no_recency_feature,pr_auc_average_precision,0.0817,0.0131,5,0,0

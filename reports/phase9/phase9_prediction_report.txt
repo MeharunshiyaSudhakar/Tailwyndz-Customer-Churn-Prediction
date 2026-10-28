@@ -1,0 +1,36 @@
+CORE TASK 7 — HELD-OUT CHURN PROBABILITIES
+====================================================
+Feature dataset: C:\Tailwyndz_Churn_Prediction\data\processed\customer_features_pre_apr2024.csv
+Phase 7 split: C:\Tailwyndz_Churn_Prediction\reports\phase7\phase7_customer_split.csv
+Selected model: Logistic Regression
+Model selection basis: highest PR-AUC in initial internal validation
+Training customers used to fit model: 1781
+Held-out customers predicted: 446
+Predictor columns: 36
+Numeric predictors: 31
+Categorical predictors: 5
+Prediction threshold: 0.50
+
+PREDICTION SUMMARY
+----------------------------------------------------
+Predicted churned: 134
+Predicted not churned: 312
+Mean predicted churn probability: 0.328931
+Median predicted churn probability: 0.069994
+Minimum predicted churn probability: 0.000002
+Maximum predicted churn probability: 0.999941
+Actual churned in held-out set (for later evaluation): 133
+Actual not churned in held-out set (for later evaluation): 313
+
+SAFETY AND LIMITATIONS
+- Model fitting used training customers only.
+- The held-out test set was not used to fit preprocessing or the model.
+- Actual labels are included only for later evaluation.
+- The 0.50 threshold is a provisional threshold, not a tuned business decision.
+- Probabilities are estimates and are not guaranteed to be calibrated.
+- Earlier validation scores were unusually high; audit feature/label relationships before trusting results.
+- This uses the existing random holdout, not a true future-time holdout.
+
+OUTPUT FILES
+C:\Tailwyndz_Churn_Prediction\reports\phase9\phase9_heldout_churn_predictions.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase9\phase9_prediction_report.txt

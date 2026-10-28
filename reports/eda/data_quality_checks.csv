@@ -1,0 +1,19 @@
+CHECK,VALUE,STATUS,NOTE
+profile: required columns,All present,PASS,
+activity: required columns,All present,PASS,
+churn: required columns,All present,PASS,
+profile: missing customer IDs,0,PASS,
+activity: missing customer IDs,0,PASS,
+churn: missing customer IDs,0,PASS,
+profile: SIGNUP_DATE invalid dates,0,PASS,Missing source dates: 0
+activity: MONTH invalid dates,0,PASS,Missing source dates: 0
+churn: OBSERVATION_END_DATE invalid dates,0,PASS,Missing source dates: 0
+churn: LAST_PURCHASE_DATE invalid dates,0,PASS,Missing source dates: 120
+Activity: Negative transactions,0,PASS,
+Activity: Negative average basket,0,PASS,
+"Activity: Promo percentage outside [0,1]",0,PASS,
+"Activity: Complaint flag outside {0,1}",0,PASS,
+Activity: Negative total spend,24,REVIEW,"Negative spend may represent refunds/adjustments; investigate, do not auto-delete."
+Churn: invalid CHURNED values,0,PASS,
+Churn: invalid history flags,0,PASS,
+Churn: MONTHS_OBSERVED outside 1–18,0,PASS,

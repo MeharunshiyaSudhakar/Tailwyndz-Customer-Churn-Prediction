@@ -1,0 +1,5 @@
+table,column,missing_count,missing_percentage
+customer_profile,AGE,78,3.0
+customer_profile,GENDER,52,2.0
+customer_profile,HOME_STORE_PRICE_TIER,130,5.0
+churn_label,LAST_PURCHASE_DATE,120,4.62

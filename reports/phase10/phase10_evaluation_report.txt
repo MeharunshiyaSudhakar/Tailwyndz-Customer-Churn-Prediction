@@ -1,0 +1,50 @@
+CORE TASK 8 — HELD-OUT EVALUATION AND CLASS IMBALANCE
+============================================================
+Input predictions: C:\Tailwyndz_Churn_Prediction\reports\phase9\phase9_heldout_churn_predictions.csv
+Customers evaluated: 446
+Evaluation uses the saved Phase 9 predictions; no model was retrained.
+
+CONFUSION MATRIX
+------------------------------------------------------------
+Rows = actual class; columns = predicted class
+True negatives (TN): 296
+False positives (FP): 17
+False negatives (FN): 16
+True positives (TP): 117
+
+METRICS
+------------------------------------------------------------
+Actual churn rate: 29.8206%
+Predicted churn rate: 30.0448%
+Mean predicted probability: 0.328931
+Accuracy: 0.9260
+Precision: 0.8731
+Recall / sensitivity: 0.8797
+Specificity: 0.9457
+F1-score: 0.8764
+Balanced accuracy: 0.9127
+ROC-AUC: 0.9628
+PR-AUC / average precision: 0.9383
+Matthews correlation coefficient: 0.8236
+
+MAJORITY-CLASS BASELINE
+------------------------------------------------------------
+Majority class in this evaluation set: 0
+Baseline accuracy: 0.7018
+Baseline precision: 0.0000
+Baseline recall: 0.0000
+Baseline F1-score: 0.0000
+
+INTERPRETATION NOTES
+- Accuracy must be interpreted alongside recall, precision and PR-AUC.
+- False negatives are churned customers the model missed.
+- False positives are non-churned customers flagged as churned.
+- Average precision summarizes precision-recall ranking performance.
+- This evaluates one held-out set; it does not prove future-period performance.
+- High scores should prompt a leakage audit before business deployment.
+- Probabilities have not been checked for calibration in this phase.
+
+OUTPUT FILES
+C:\Tailwyndz_Churn_Prediction\reports\phase10\phase10_metrics.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase10\phase10_confusion_matrix.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase10\phase10_evaluation_report.txt

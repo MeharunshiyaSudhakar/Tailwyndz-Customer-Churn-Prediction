@@ -1,0 +1,11 @@
+CHECK,VALUE
+Profile source rows,2608
+Profile unique customer IDs,2600
+Profile exact duplicate rows,8
+Activity source rows,28073
+Activity unique customer IDs,2594
+Churn source rows,2605
+Churn exact duplicate rows,5
+Churn unique customer IDs,2600
+Customers with conflicting labels,0
+Customers with consistent labels,2600

@@ -1,0 +1,6 @@
+column,missing_values,distinct_values,values
+GENDER,52,3,F | M | Other
+CITY,0,30,AUSTIN | Austin | BOISE | Boise | COLUMBUS | Columbus | DENVER | Denver | MADISON | Madison | NASHVILLE | Nashville | PORTLAND | Portland | RALEIGH | Raleigh | SPOKANE | Spokane | TULSA | Tulsa | austin | boise | columbus | denver | madison | nashville | portland | raleigh | spokane | tulsa
+MEMBERSHIP_TIER,0,9,GOLD | Gold | PLATINUM | Platinum | SILVER | Silver | gold | platinum | silver
+PREFERRED_CATEGORY,0,8,Bakery | Beverages | Dairy | Frozen Foods | Household | Personal Care | Produce | Snacks
+HOME_STORE_PRICE_TIER,130,3,Mainstream | Upscale | Value

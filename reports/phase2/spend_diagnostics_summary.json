@@ -1,0 +1,11 @@
+{
+    "total_rows": 28015,
+    "missing_spend": 0,
+    "negative_spend_rows": 24,
+    "zero_spend_rows": 2350,
+    "positive_spend_rows": 25641,
+    "negative_spend_transactions_positive": 24,
+    "negative_spend_avg_basket_positive": 24,
+    "repeated_customer_month_rows": 4,
+    "conflicting_customer_month_groups": 2
+}

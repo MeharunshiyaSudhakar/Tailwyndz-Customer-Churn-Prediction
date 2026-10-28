@@ -1,0 +1,6 @@
+CHECK,CUSTOMER_COUNT,CUSTOMER_IDS
+Profile IDs missing from activity,6,"500754, 501092, 501216, 501563, 502014, 502550"
+Activity IDs missing from profile,0,
+Profile IDs missing from churn labels,0,
+Churn IDs missing from profile,0,
+Churn IDs missing from activity,6,"500754, 501092, 501216, 501563, 502014, 502550"

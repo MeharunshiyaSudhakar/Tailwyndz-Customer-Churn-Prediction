@@ -1,0 +1,24 @@
+{
+    "customer_profile_rows": 2600,
+    "monthly_activity_rows": 28015,
+    "churn_label_rows": 2600,
+    "profile_unique_customer_ids": 2600,
+    "activity_unique_customer_ids": 2594,
+    "churn_unique_customer_ids": 2600,
+    "profile_exact_duplicate_rows": 0,
+    "activity_exact_duplicate_rows": 0,
+    "churn_exact_duplicate_rows": 0,
+    "negative_spend_rows": 24,
+    "repeated_customer_month_rows": 4,
+    "conflicting_customer_month_groups": 2,
+    "missing_profile_cells": 260,
+    "missing_activity_cells": 0,
+    "missing_churn_cells": 120,
+    "cleaning_policy": {
+        "exact_duplicates": "Removed in the previous Phase 2 step",
+        "negative_spend": "Flagged and retained; not converted to positive",
+        "conflicting_customer_months": "Flagged and retained; do not choose a value without evidence",
+        "missing_values": "Reported and retained; handling depends on field and use",
+        "last_purchase_date": "Not used as a modelling feature because it may leak the label"
+    }
+}

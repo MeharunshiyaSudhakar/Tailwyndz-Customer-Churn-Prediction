@@ -1,0 +1,70 @@
+PHASE 13 — RETENTION SCENARIO ANALYSIS
+=================================================================
+Held-out customers: 446
+Actual held-out churners: 133
+Observed overall churn rate: 29.8206%
+Sum of predicted churn probabilities: 146.703
+
+TARGETING SCENARIOS
+-----------------------------------------------------------------
+Customers are ranked by predicted churn probability.
+Targeting groups use the highest-risk customers first.
+
+Target top 10%:
+  Customers targeted: 45
+  Mean predicted risk: 99.8862%
+  Expected churn from probabilities: 44.95
+  Actual churners in held-out sample: 44
+  Observed targeted-group churn rate: 97.7778%
+  Actual churners captured: 33.08%
+  Lift vs overall observed churn rate: 3.28x
+
+Target top 20%:
+  Customers targeted: 90
+  Mean predicted risk: 99.4486%
+  Expected churn from probabilities: 89.50
+  Actual churners in held-out sample: 87
+  Observed targeted-group churn rate: 96.6667%
+  Actual churners captured: 65.41%
+  Lift vs overall observed churn rate: 3.24x
+
+Target top 30%:
+  Customers targeted: 134
+  Mean predicted risk: 92.0833%
+  Expected churn from probabilities: 123.39
+  Actual churners in held-out sample: 117
+  Observed targeted-group churn rate: 87.3134%
+  Actual churners captured: 87.97%
+  Lift vs overall observed churn rate: 2.93x
+
+ILLUSTRATIVE INTERVENTION EFFECTIVENESS SCENARIOS
+-----------------------------------------------------------------
+These values are assumptions, not measured treatment effects.
+They do not account for incentive costs, margin, or customer response.
+
+Target 10%, assumed effectiveness 5%: illustrative churn prevented=2.25; expected churn after intervention=42.70
+Target 10%, assumed effectiveness 10%: illustrative churn prevented=4.49; expected churn after intervention=40.45
+Target 10%, assumed effectiveness 20%: illustrative churn prevented=8.99; expected churn after intervention=35.96
+Target 20%, assumed effectiveness 5%: illustrative churn prevented=4.48; expected churn after intervention=85.03
+Target 20%, assumed effectiveness 10%: illustrative churn prevented=8.95; expected churn after intervention=80.55
+Target 20%, assumed effectiveness 20%: illustrative churn prevented=17.90; expected churn after intervention=71.60
+Target 30%, assumed effectiveness 5%: illustrative churn prevented=6.17; expected churn after intervention=117.22
+Target 30%, assumed effectiveness 10%: illustrative churn prevented=12.34; expected churn after intervention=111.05
+Target 30%, assumed effectiveness 20%: illustrative churn prevented=24.68; expected churn after intervention=98.71
+
+LIMITATIONS
+-----------------------------------------------------------------
+1. Results describe the existing random held-out sample.
+2. Targeting performance may differ in a future customer cohort.
+3. Predicted probabilities have not been calibrated.
+4. Expected churn is the sum of model probabilities, not a count of known outcomes.
+5. Intervention effectiveness is assumed and not causally estimated.
+6. Cost, margin, offer eligibility, and customer treatment data were not supplied.
+7. Use a randomized retention experiment to measure actual incremental impact.
+
+OUTPUT FILES
+C:\Tailwyndz_Churn_Prediction\reports\phase13\phase13_ranked_customers.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase13\phase13_targeting_comparison.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase13\phase13_intervention_scenarios.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase13\phase13_risk_bands.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase13\phase13_retention_report.txt

@@ -1,0 +1,4 @@
+table,rows,unique_customer_ids,missing_customer_ids,repeated_id_rows
+customer_profile,2608,2600,0,8
+monthly_activity,28073,2594,0,25479
+churn_label,2605,2600,0,5

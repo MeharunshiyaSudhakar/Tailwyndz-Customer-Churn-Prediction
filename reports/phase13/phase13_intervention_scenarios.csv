@@ -1,0 +1,10 @@
+TARGETING_SHARE,CUSTOMERS_TARGETED,ASSUMED_INTERVENTION_EFFECTIVENESS,EXPECTED_CHURN_WITHOUT_INTERVENTION,ILLUSTRATIVE_CHURN_PREVENTED,ILLUSTRATIVE_EXPECTED_CHURN_AFTER_INTERVENTION,ASSUMPTION_NOTE
+0.1,45,0.05,44.94879159999999,2.2474395799999995,42.701352019999995,Assumed proportional reduction in churn among targeted customers; not experimentally validated.
+0.1,45,0.1,44.94879159999999,4.494879159999999,40.453912439999996,Assumed proportional reduction in churn among targeted customers; not experimentally validated.
+0.1,45,0.2,44.94879159999999,8.989758319999998,35.95903327999999,Assumed proportional reduction in churn among targeted customers; not experimentally validated.
+0.2,90,0.05,89.50375093999997,4.475187546999999,85.02856339299997,Assumed proportional reduction in churn among targeted customers; not experimentally validated.
+0.2,90,0.1,89.50375093999997,8.950375093999998,80.55337584599998,Assumed proportional reduction in churn among targeted customers; not experimentally validated.
+0.2,90,0.2,89.50375093999997,17.900750187999996,71.60300075199999,Assumed proportional reduction in churn among targeted customers; not experimentally validated.
+0.3,134,0.05,123.3916754,6.16958377,117.22209163,Assumed proportional reduction in churn among targeted customers; not experimentally validated.
+0.3,134,0.1,123.3916754,12.33916754,111.05250786,Assumed proportional reduction in churn among targeted customers; not experimentally validated.
+0.3,134,0.2,123.3916754,24.67833508,98.71334032,Assumed proportional reduction in churn among targeted customers; not experimentally validated.

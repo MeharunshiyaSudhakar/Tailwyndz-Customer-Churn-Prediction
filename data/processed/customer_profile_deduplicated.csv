@@ -1,0 +1,2601 @@
+CUSTOMER_ID,SIGNUP_DATE,AGE,GENDER,CITY,MEMBERSHIP_TIER,MARKETING_OPT_IN,PREFERRED_STORE_ID,PREFERRED_CATEGORY,HOME_STORE_PRICE_TIER
+500001,2022-08-17 00:00:00,36,F,Madison,Silver,1,140,Frozen Foods,Value
+500002,2023-06-24 00:00:00,37,F,Spokane,Silver,0,119,Beverages,Mainstream
+500003,2021-03-31 00:00:00,53,,Tulsa,Gold,0,119,Frozen Foods,Mainstream
+500004,2021-07-08 00:00:00,52,F,Spokane,Gold,1,106,Snacks,Upscale
+500005,2023-09-28 00:00:00,19,F,Portland,Gold,1,118,Bakery,Mainstream
+500006,2022-09-14 00:00:00,44,F,Nashville,Silver,0,128,Snacks,Upscale
+500007,2021-04-29 00:00:00,39,F,Tulsa,Platinum,1,116,Frozen Foods,Mainstream
+500008,2021-08-15 00:00:00,50,M,Boise,Platinum,0,118,Beverages,
+500009,2022-01-25 00:00:00,53,F,Tulsa,Silver,0,131,Dairy,Mainstream
+500010,2022-04-15 00:00:00,18,F,Boise,Platinum,0,128,Personal Care,Upscale
+500011,2024-03-14 00:00:00,21,F,Austin,Silver,0,116,Household,Mainstream
+500012,2021-12-17 00:00:00,46,Other,Columbus,Silver,1,108,Frozen Foods,Upscale
+500013,2022-10-26 00:00:00,65,F,Denver,Silver,0,135,Personal Care,Mainstream
+500014,2024-01-16 00:00:00,30,M,Austin,Gold,1,110,Snacks,Mainstream
+500015,2023-07-21 00:00:00,24,F,Raleigh,Platinum,1,119,Personal Care,Mainstream
+500016,2022-08-08 00:00:00,39,M,Boise,Platinum,1,104,Snacks,Value
+500017,2022-01-03 00:00:00,33,F,Austin,Silver,1,111,Snacks,Mainstream
+500018,2022-09-16 00:00:00,22,F,Spokane,Gold,1,137,Personal Care,Mainstream
+500019,2022-05-16 00:00:00,70,F,Madison,Silver,1,104,Frozen Foods,Value
+500020,2021-07-18 00:00:00,55,M,Spokane,Silver,0,128,Produce,Upscale
+500021,2022-02-20 00:00:00,63,F,Raleigh,Gold,0,131,Frozen Foods,Mainstream
+500022,2023-03-07 00:00:00,68,F,Portland,Silver,0,113,Personal Care,Value
+500023,2022-04-11 00:00:00,54,F,Raleigh,Silver,1,117,Frozen Foods,Upscale
+500024,2022-06-03 00:00:00,38,M,Denver,Silver,1,103,Produce,Mainstream
+500025,2023-12-28 00:00:00,18,F,Raleigh,Gold,1,111,Frozen Foods,Mainstream
+500026,2024-02-23 00:00:00,23,,Portland,Gold,1,114,Dairy,Mainstream
+500027,2022-03-22 00:00:00,35,M,Denver,Silver,0,102,Household,Upscale
+500028,2023-02-04 00:00:00,53,M,Denver,Gold,1,132,Frozen Foods,Value
+500029,2022-06-02 00:00:00,55,M,Denver,silver,1,127,Produce,Mainstream
+500030,2023-04-21 00:00:00,25,F,Spokane,Platinum,0,136,Dairy,Value
+500031,2023-08-12 00:00:00,32,F,Columbus,Silver,0,126,Personal Care,Mainstream
+500032,2023-11-09 00:00:00,68,F,Portland,Platinum,0,107,Produce,Value
+500033,2023-02-11 00:00:00,34,F,Nashville,Silver,1,104,Beverages,Value
+500034,2021-09-20 00:00:00,24,Other,Madison,Gold,1,137,Bakery,Mainstream
+500035,2023-01-19 00:00:00,31,F,Denver,Gold,0,127,Bakery,Mainstream
+500036,2023-02-14 00:00:00,38,F,Columbus,Silver,0,109,Frozen Foods,Mainstream
+500037,2022-06-29 00:00:00,46,M,Tulsa,Silver,0,139,Personal Care,Upscale
+500038,2021-03-14 00:00:00,46,Other, Spokane ,Silver,1,102,Snacks,Upscale
+500039,2023-01-30 00:00:00,24,M,Tulsa,Silver,1,123,Dairy,Mainstream
+500040,2022-06-12 00:00:00,24,F,Nashville,Silver,1,106,Dairy,Upscale
+500041,2022-12-05 00:00:00,29,F,Madison,Silver,1,101,Personal Care,Mainstream
+500042,2022-05-26 00:00:00,36,M,Madison,Gold,1,101,Frozen Foods,Mainstream
+500043,2022-11-28 00:00:00,73,M,SPOKANE,Silver,0,113,Snacks,Value
+500044,2022-04-17 00:00:00,33,M,Raleigh,Silver,0,110,Personal Care,Mainstream
+500045,2022-08-01 00:00:00,38,Other,Columbus,Silver,1,132,Household,Value
+500046,2022-03-03 00:00:00,58,M,Boise,Platinum,1,131,Bakery,Mainstream
+500047,2021-04-09 00:00:00,37,F, Raleigh ,Gold,1,135,Dairy,Mainstream
+500048,2023-11-08 00:00:00,74,M,Denver,Silver,0,120,Produce,Upscale
+500049,2022-07-15 00:00:00,45,F,Madison,Silver,1,103,Beverages,Mainstream
+500050,2022-12-04 00:00:00,38,F,Denver,Platinum,0,132,Frozen Foods,Value
+500051,2023-03-11 00:00:00,61,F,Boise,Silver,1,130,Personal Care,Mainstream
+500052,2023-07-27 00:00:00,63,F,Portland,Gold,0,104,Snacks,Value
+500053,2024-03-02 00:00:00,55,F,Austin,Gold,1,122,Bakery,Value
+500054,2023-01-18 00:00:00,25,F,Madison,Gold,1,130,Snacks,Mainstream
+500055,2021-09-09 00:00:00,34,F,Tulsa,Silver,1,138,Beverages,Value
+500056,2024-01-10 00:00:00,,M,Spokane,Gold,1,106,Bakery,Upscale
+500057,2023-01-13 00:00:00,39,F,Portland,Silver,0,129,Dairy,Mainstream
+500058,2021-03-27 00:00:00,42,F,Boise,Platinum,1,113,Snacks,Value
+500059,2021-04-15 00:00:00,34,M,Madison,Silver,1,125,Household,
+500060,2023-08-25 00:00:00,34,M,Raleigh,Silver,0,138,Frozen Foods,Value
+500061,2024-04-24 00:00:00,45,M,Columbus,Gold,0,127,Snacks,Mainstream
+500062,2022-03-09 00:00:00,64,M,Denver,Gold,1,130,Frozen Foods,Mainstream
+500063,2024-04-16 00:00:00,38,M,Nashville,Platinum,0,140,Produce,Value
+500064,2023-05-17 00:00:00,60,M,Spokane,Gold,0,130,Bakery,Mainstream
+500065,2022-09-29 00:00:00,73,M,Portland,Silver,1,133,Produce,Value
+500066,2021-07-15 00:00:00,25,F,Tulsa,Silver,1,126,Household,Mainstream
+500067,2024-01-15 00:00:00,70,F,Tulsa,Silver,0,118,Produce,Mainstream
+500068,2022-03-20 00:00:00,34,M,Tulsa,Silver,1,115,Bakery,Mainstream
+500069,2022-08-18 00:00:00,23,F,Portland,Gold,1,131,Dairy,Mainstream
+500070,2023-12-01 00:00:00,64,M,Madison,Gold,1,126,Beverages,Mainstream
+500071,2021-08-17 00:00:00,18,F,Portland,Gold,0,117,Snacks,Upscale
+500072,2021-08-18 00:00:00,74,F,Columbus,Silver,0,118,Personal Care,Mainstream
+500073,2022-10-16 00:00:00,29,M,Madison,Silver,1,132,Frozen Foods,Value
+500074,2021-04-23 00:00:00,52,M,Tulsa,Gold,1,132,Dairy,Value
+500075,2022-05-23 00:00:00,32,F,Denver,Silver,0,135,Bakery,Mainstream
+500076,2021-06-10 00:00:00,67,F,Tulsa,Gold,0,127,Beverages,Mainstream
+500077,2021-04-05 00:00:00,58,M,Columbus,Platinum,1,139,Household,Upscale
+500078,2022-07-06 00:00:00,74,M,Boise,Platinum,1,136,Bakery,Value
+500079,2023-06-09 00:00:00,63,F,Spokane,Silver,1,112,Produce,Value
+500080,2023-11-14 00:00:00,60,,Denver,Platinum,1,134,Dairy,Value
+500081,2022-07-14 00:00:00,71,M,Denver,Silver,1,102,Household,
+500082,2023-09-20 00:00:00,54,Other,Boise,Platinum,0,134,Household,Value
+500083,2021-12-07 00:00:00,30,M,Portland,Gold,1,121,Bakery,Value
+500084,2021-05-13 00:00:00,30,M,Spokane,Silver,1,104,Dairy,Value
+500085,2023-07-20 00:00:00,55,M,Tulsa,Gold,0,118,Beverages,Mainstream
+500086,2022-07-26 00:00:00,39,M,Tulsa,Silver,0,101,Bakery,Mainstream
+500087,2024-03-06 00:00:00,61,M,Madison,Platinum,1,128,Dairy,Upscale
+500088,2023-10-04 00:00:00,53,F,Austin,Silver,1,116,Dairy,
+500089,2023-02-16 00:00:00,20,F,Portland,Gold,1,124,Dairy,Value
+500090,2021-07-03 00:00:00,70,M,Spokane,Silver,0,138,Personal Care,Value
+500091,2021-03-25 00:00:00,73,F,Raleigh,Silver,0,107,Frozen Foods,Value
+500092,2022-04-13 00:00:00,35,M,AUSTIN,Silver,1,125,Snacks,Value
+500093,2022-06-20 00:00:00,34,M,Denver,Gold,1,121,Household,Value
+500094,2022-07-06 00:00:00,40,M,Columbus,Silver,1,124,Beverages,Value
+500095,2024-02-22 00:00:00,64,F,Portland,Gold,0,123,Personal Care,Mainstream
+500096,2023-02-17 00:00:00,,F,Madison,Platinum,0,134,Dairy,Value
+500097,2021-03-09 00:00:00,28,M,Portland,Silver,1,109,Frozen Foods,Mainstream
+500098,2023-01-08 00:00:00,,F,Raleigh,Gold,1,126,Beverages,Mainstream
+500099,2023-08-27 00:00:00,41,M,Madison,Silver,1,129,Produce,Mainstream
+500100,2023-07-27 00:00:00,43,F,Portland,Gold,1,105,Produce,Mainstream
+500101,2022-01-19 00:00:00,71,F,Portland,Gold,0,140,Frozen Foods,Value
+500102,2024-03-19 00:00:00,63,F,Madison,Silver,1,119,Produce,Mainstream
+500103,2021-03-25 00:00:00,24,F,Portland,Gold,1,102,Dairy,Upscale
+500104,2021-07-12 00:00:00,31,F,Tulsa,Silver,1,135,Bakery,
+500105,2022-07-08 00:00:00,32,F,Tulsa,Silver,0,127,Personal Care,Mainstream
+500106,2022-11-02 00:00:00,55,M,Austin,Platinum,0,133,Personal Care,Value
+500107,2021-11-24 00:00:00,42,Other,Portland,Silver,1,104,Frozen Foods,Value
+500108,2022-08-01 00:00:00,56,F,Columbus,Silver,1,103,Bakery,
+500109,2022-10-22 00:00:00,30,F,Nashville,Silver,0,139,Household,Upscale
+500110,2023-04-22 00:00:00,44,F,Madison,Platinum,0,140,Snacks,Value
+500111,2022-11-27 00:00:00,,M,Denver,Platinum,0,119,Household,Mainstream
+500112,2021-12-05 00:00:00,28,F,Madison,Silver,0,121,Frozen Foods,Value
+500113,2024-02-28 00:00:00,29,M,BOISE,Silver,1,138,Bakery,Value
+500114,2024-04-03 00:00:00,40,F,Denver,Gold,0,112,Bakery,
+500115,2022-01-11 00:00:00,56,,Austin,Gold,1,102,Dairy,
+500116,2023-02-22 00:00:00,60,F,Raleigh,Silver,1,118,Bakery,Mainstream
+500117,2021-10-05 00:00:00,62,M,Madison,Gold,0,125,Snacks,Value
+500118,2024-03-28 00:00:00,28,F,Boise,Platinum,1,138,Dairy,Value
+500119,2021-06-06 00:00:00,50,M,Austin,Silver,0,106,Produce,Upscale
+500120,2023-12-11 00:00:00,23,M,Portland,Silver,1,136,Beverages,Value
+500121,2023-01-02 00:00:00,25,F,Raleigh,Platinum,1,133,Beverages,Value
+500122,2021-03-28 00:00:00,44,F,Denver,Silver,1,115,Frozen Foods,Mainstream
+500123,2023-12-28 00:00:00,57,M,Raleigh,Silver,0,135,Personal Care,Mainstream
+500124,2022-03-25 00:00:00,31,M,Nashville,Gold,1,126,Produce,Mainstream
+500125,2022-01-02 00:00:00,27,F,Nashville,Silver,0,137,Personal Care,Mainstream
+500126,2022-12-18 00:00:00,63,F, Spokane ,Gold,1,103,Beverages,Mainstream
+500127,2024-01-31 00:00:00,52,F,Columbus,Silver,0,108,Dairy,Upscale
+500128,2022-08-29 00:00:00,64,M,boise,Gold,1,132,Produce,Value
+500129,2022-12-12 00:00:00,22,M, Austin ,Silver,1,140,Frozen Foods,Value
+500130,2021-07-16 00:00:00,71,M,Columbus,Gold,1,104,Frozen Foods,Value
+500131,2022-02-24 00:00:00,64,M,Boise,Silver,1,116,Beverages,Mainstream
+500132,2023-03-27 00:00:00,65,M,Madison,Platinum,1,129,Snacks,Mainstream
+500133,2024-02-25 00:00:00,23,F,Boise,Silver,1,138,Household,Value
+500134,2022-06-12 00:00:00,54,M,Tulsa,Gold,1,113,Household,Value
+500135,2023-06-10 00:00:00,48,F,Madison,Silver,1,121,Bakery,Value
+500136,2022-02-23 00:00:00,28,M,Columbus, Gold ,0,107,Dairy,Value
+500137,2021-07-27 00:00:00,70,F,Denver,Silver,0,106,Snacks,Upscale
+500138,2023-03-14 00:00:00,64,F,Columbus,Gold,1,106,Snacks,Upscale
+500139,2021-06-11 00:00:00,65,M,nashville,Gold,0,104,Produce,Value
+500140,2022-09-03 00:00:00,59,F,Austin,Silver,1,139,Personal Care,Upscale
+500141,2022-08-20 00:00:00,28,M,Nashville,Silver,0,124,Bakery,Value
+500142,2021-11-19 00:00:00,60,M,Nashville,Platinum,0,109,Produce,Mainstream
+500143,2021-10-22 00:00:00,44,M,Austin,Silver,1,137,Personal Care,Mainstream
+500144,2021-06-04 00:00:00,57,F,Portland,Silver,1,119,Bakery,Mainstream
+500145,2021-02-18 00:00:00,51,M,Denver,Gold,0,107,Dairy,Value
+500146,2023-11-08 00:00:00,65,M,Columbus,Silver,1,107,Dairy,Value
+500147,2023-01-06 00:00:00,47,F,Portland,Silver,0,127,Bakery,Mainstream
+500148,2021-05-06 00:00:00,34,,Madison,Silver,0,120,Personal Care,Upscale
+500149,2023-05-09 00:00:00,55,F,Austin,Silver,0,135,Snacks,
+500150,2024-04-26 00:00:00,56,F,Boise,Platinum,0,133,Frozen Foods,Value
+500151,2022-06-28 00:00:00,34,F,Tulsa,Gold,1,110,Frozen Foods,Mainstream
+500152,2021-12-04 00:00:00,47,F,Nashville,Gold,0,110,Household,Mainstream
+500153,2021-12-15 00:00:00,55,M,Austin,Silver,1,122,Personal Care,Value
+500154,2021-09-27 00:00:00,37,M,Spokane,Gold,1,129,Bakery,
+500155,2022-04-10 00:00:00,27,F,Raleigh,Gold,1,115,Dairy,Mainstream
+500156,2023-11-24 00:00:00,36,F,Tulsa,Silver,1,115,Dairy,Mainstream
+500157,2021-08-15 00:00:00,65,M,Madison,Gold,1,111,Frozen Foods,Mainstream
+500158,2022-12-29 00:00:00,26,F,Spokane,Platinum,0,105,Household,
+500159,2021-08-15 00:00:00,40,F,Portland,Gold,0,137,Dairy,Mainstream
+500160,2021-09-22 00:00:00,46,M,Madison,Platinum,1,133,Snacks,Value
+500161,2021-03-24 00:00:00,63,M,Tulsa,Silver,1,136,Frozen Foods,Value
+500162,2024-04-16 00:00:00,,Other,Tulsa,Gold,0,114,Dairy,Mainstream
+500163,2021-07-24 00:00:00,74,M,Nashville,Silver,1,112,Household,Value
+500164,2022-04-28 00:00:00,42,F,Tulsa,Silver,1,126,Frozen Foods,Mainstream
+500165,2022-10-13 00:00:00,44,F,Columbus,Gold,0,118,Frozen Foods,Mainstream
+500166,2021-10-18 00:00:00,66,M,Boise,Silver,1,139,Dairy,Upscale
+500167,2021-04-14 00:00:00,43,M,Nashville,Gold,1,132,Household,Value
+500168,2022-09-10 00:00:00,56,F,Boise,Gold,1,129,Personal Care,Mainstream
+500169,2024-01-21 00:00:00,38,F,Nashville,Gold,0,105,Beverages,Mainstream
+500170,2022-01-04 00:00:00,56,F,Madison,Silver,1,114,Bakery,Mainstream
+500171,2023-08-07 00:00:00,52,F,Spokane,Silver,0,102,Bakery,Upscale
+500172,2023-08-12 00:00:00,74,F,Portland,Gold,1,125,Frozen Foods,Value
+500173,2023-09-20 00:00:00,40,F,Nashville,Gold,0,122,Beverages,Value
+500174,2023-09-13 00:00:00,30,F,Portland,Silver,1,130,Dairy,Mainstream
+500175,2021-06-03 00:00:00,25,F,Boise,Silver,1,127,Produce,Mainstream
+500176,2023-03-05 00:00:00,46,M,Columbus,Silver,1,109,Frozen Foods,Mainstream
+500177,2023-12-30 00:00:00,46,F,Denver,Silver,1,136,Produce,Value
+500178,2023-10-06 00:00:00,23,M,Spokane,Platinum,1,139,Household,Upscale
+500179,2023-01-27 00:00:00,18,M,Tulsa,Silver,0,105,Bakery,Mainstream
+500180,2023-03-25 00:00:00,40,M,Spokane,Platinum,1,110,Personal Care,Mainstream
+500181,2023-05-06 00:00:00,20,F,Spokane,Gold,0,129,Beverages,Mainstream
+500182,2021-04-19 00:00:00,72,M,Nashville,Silver,0,102,Household,Upscale
+500183,2021-07-24 00:00:00,63,F,Portland,Gold,1,105,Produce,Mainstream
+500184,2022-07-02 00:00:00,22,M,Nashville,Gold,1,122,Produce,Value
+500185,2021-03-05 00:00:00,62,M,Raleigh,Silver,0,129,Produce,Mainstream
+500186,2023-04-01 00:00:00,61,F,Austin,Silver,0,119,Snacks,Mainstream
+500187,2023-11-24 00:00:00,59,F,Columbus,Silver,1,121,Dairy,Value
+500188,2023-06-20 00:00:00,67,M,Spokane,Silver,1,107,Frozen Foods,Value
+500189,2024-01-19 00:00:00,58,F,Madison,Platinum,1,116,Beverages,Mainstream
+500190,2021-04-15 00:00:00,47,M,Tulsa,Gold,1,120,Produce,Upscale
+500191,2023-08-20 00:00:00,59,F,Madison,Gold,1,105,Bakery,Mainstream
+500192,2022-11-29 00:00:00,63,F,Spokane,Silver,1,111,Beverages,Mainstream
+500193,2023-09-09 00:00:00,51,M,Denver, Gold ,1,112,Household,Value
+500194,2021-03-12 00:00:00,43,Other,Tulsa,Gold,1,133,Beverages,Value
+500195,2023-10-31 00:00:00,50,Other,Madison,Silver,0,110,Beverages,Mainstream
+500196,2022-09-07 00:00:00,38,F,Raleigh,Silver,0,120,Snacks,Upscale
+500197,2021-04-16 00:00:00,41,F,Tulsa,Gold,0,137,Household,Mainstream
+500198,2022-09-01 00:00:00,46,F,Boise,Silver,1,121,Dairy,Value
+500199,2021-06-16 00:00:00,60,F,Boise,Silver,0,137,Produce,Mainstream
+500200,2021-06-19 00:00:00,29,F,Madison,Silver,1,106,Dairy,Upscale
+500201,2021-11-16 00:00:00,42,M,Denver,Silver,0,105,Personal Care,Mainstream
+500202,2021-12-15 00:00:00,,M,Madison,Silver,1,138,Bakery,Value
+500203,2022-06-28 00:00:00,26,M,Columbus,Silver,0,133,Dairy,Value
+500204,2022-06-23 00:00:00,35,M,Portland,Gold,1,111,Dairy,Mainstream
+500205,2021-09-03 00:00:00,35,M,Tulsa,Gold,1,125,Household,Value
+500206,2022-12-20 00:00:00,74,M,Raleigh,Gold,0,124,Produce,Value
+500207,2021-04-22 00:00:00,40,M,Tulsa,Gold,0,111,Household,Mainstream
+500208,2021-07-10 00:00:00,37,M,Spokane,Silver,0,132,Household,Value
+500209,2023-02-19 00:00:00,40,Other,Madison,Silver,0,136,Snacks,Value
+500210,2023-01-07 00:00:00,31,M,RALEIGH,Gold,1,121,Frozen Foods,Value
+500211,2022-01-18 00:00:00,70,F,Boise,Silver,1,128,Household,Upscale
+500212,2021-05-19 00:00:00,71,F,Madison,Gold,1,113,Bakery,
+500213,2024-01-11 00:00:00,40,M,Madison,Gold,0,136,Snacks,Value
+500214,2024-02-12 00:00:00,25,F,Raleigh,SILVER,1,126,Produce,Mainstream
+500215,2023-07-17 00:00:00,19,M,Nashville,Silver,1,111,Frozen Foods,Mainstream
+500216,2022-12-16 00:00:00,73,F,Madison,Gold,1,129,Snacks,Mainstream
+500217,2023-10-25 00:00:00,65,F,Columbus,Gold,1,114,Frozen Foods,Mainstream
+500218,2022-09-03 00:00:00,66,F,Denver,Silver,0,106,Produce,Upscale
+500219,2022-08-08 00:00:00,51,F,Denver,Silver,0,117,Frozen Foods,Upscale
+500220,2021-04-16 00:00:00,54,F,Denver,Gold,0,111,Snacks,Mainstream
+500221,2021-12-12 00:00:00,61,F,Raleigh,Gold,1,105,Frozen Foods,
+500222,2023-07-14 00:00:00,42,M,Denver,Silver,1,108,Dairy,Upscale
+500223,2021-10-25 00:00:00,65,F,Spokane,Gold,0,124,Snacks,
+500224,2021-10-02 00:00:00,29,F,Nashville,Gold,1,101,Beverages,Mainstream
+500225,2022-02-27 00:00:00,43,M,Denver,Gold,1,109,Snacks,Mainstream
+500226,2022-03-03 00:00:00,24,M,Portland,Silver,0,125,Household,Value
+500227,2023-05-06 00:00:00,62,F,Madison,Gold,1,110,Bakery,Mainstream
+500228,2022-01-15 00:00:00,23,F,Spokane,Silver,1,140,Frozen Foods,Value
+500229,2023-11-27 00:00:00,46,M,Tulsa,Silver,1,115,Produce,
+500230,2022-04-27 00:00:00,37,F,Spokane,Gold,0,111,Household,Mainstream
+500231,2021-05-21 00:00:00,74,F,PORTLAND,Silver,1,116,Dairy,Mainstream
+500232,2021-03-23 00:00:00,41,,Austin,Silver,0,138,Personal Care,Value
+500233,2023-05-20 00:00:00,26,F,Madison,Gold,1,111,Household,Mainstream
+500234,2023-04-09 00:00:00,70,F,Madison,Silver,0,116,Frozen Foods,Mainstream
+500235,2022-05-09 00:00:00,49,M,Raleigh,Gold,1,120,Dairy,Upscale
+500236,2023-01-23 00:00:00,48,M,Raleigh,Silver,1,137,Snacks,Mainstream
+500237,2021-12-29 00:00:00,54,F,Tulsa,Gold,1,140,Household,Value
+500238,2023-09-08 00:00:00,74,F,Madison,Gold,1,104,Bakery,Value
+500239,2023-10-18 00:00:00,19,F,Raleigh,Gold,0,102,Bakery,Upscale
+500240,2024-03-04 00:00:00,59,M,Portland,Gold,1,113,Bakery,Value
+500241,2022-10-31 00:00:00,43,F,Columbus,Silver,1,135,Bakery,Mainstream
+500242,2023-08-27 00:00:00,26,F,Boise,Silver,1,134,Snacks,Value
+500243,2023-05-18 00:00:00,,F,Spokane,Silver,1,117,Household,Upscale
+500244,2021-05-27 00:00:00,49,M,Denver,Silver,1,137,Household,Mainstream
+500245,2021-09-23 00:00:00,70,M,Columbus,Gold,0,123,Produce,Mainstream
+500246,2021-08-24 00:00:00,27,F,Nashville,Silver,1,133,Personal Care,Value
+500247,2022-06-08 00:00:00,56,M,Columbus,Platinum,0,130,Bakery,
+500248,2023-12-23 00:00:00,20,M,Portland,SILVER,1,128,Bakery,Upscale
+500249,2021-12-11 00:00:00,74,F,Boise,Gold,0,131,Beverages,Mainstream
+500250,2022-05-27 00:00:00,71,M,Columbus,Silver,1,113,Beverages,Value
+500251,2021-06-04 00:00:00,68,F,Boise,Gold,0,138,Frozen Foods,Value
+500252,2022-10-20 00:00:00,37,M,Portland,Gold,0,140,Produce,Value
+500253,2023-10-13 00:00:00,57,F,Raleigh,Silver,1,131,Produce,Mainstream
+500254,2022-06-07 00:00:00,28,F,Nashville,Gold,0,123,Beverages,Mainstream
+500255,2022-11-16 00:00:00,65,F,spokane,Gold,1,102,Household,Upscale
+500256,2022-03-23 00:00:00,23,M,Nashville,Gold,1,133,Personal Care,Value
+500257,2023-02-18 00:00:00,59,M,Madison,Silver,0,123,Dairy,Mainstream
+500258,2023-05-10 00:00:00,55,M,Raleigh,Silver,1,116,Dairy,Mainstream
+500259,2023-12-08 00:00:00,34,F,Portland,Platinum,0,139,Personal Care,Upscale
+500260,2021-04-04 00:00:00,44,F,Boise,Silver,0,138,Household,Value
+500261,2021-12-01 00:00:00,45,F,Nashville,Silver,1,125,Bakery,Value
+500262,2022-11-04 00:00:00,18,Other,Madison,Silver,1,125,Household,Value
+500263,2023-08-02 00:00:00,20,M,Madison,Platinum,1,109,Dairy,
+500264,2022-04-29 00:00:00,58,F,Spokane,Platinum,1,129,Household,Mainstream
+500265,2023-01-06 00:00:00,57,F,Boise,Silver,0,140,Produce,Value
+500266,2022-04-20 00:00:00,32,M,Tulsa,Silver,0,106,Bakery,Upscale
+500267,2024-01-18 00:00:00,43,F,Nashville,Gold,1,109,Bakery,Mainstream
+500268,2023-09-30 00:00:00,62,M,Columbus,Silver,1,117,Beverages,Upscale
+500269,2021-12-25 00:00:00,56,M,Tulsa,Gold,0,111,Snacks,Mainstream
+500270,2024-02-20 00:00:00,45,F,Raleigh,Gold,0,104,Produce,Value
+500271,2022-03-02 00:00:00,67,M,Tulsa,Gold,1,127,Dairy,Mainstream
+500272,2023-01-07 00:00:00,48,F,Nashville,Platinum,0,115,Snacks,Mainstream
+500273,2024-04-29 00:00:00,18,F,Columbus,gold,1,101,Household,Mainstream
+500274,2021-11-21 00:00:00,44,F,Columbus,Platinum,1,123,Produce,Mainstream
+500275,2022-02-04 00:00:00,31,F,Boise,Gold,1,127,Produce,Mainstream
+500276,2021-09-22 00:00:00,56,F,Portland,Silver,1,112,Frozen Foods,Value
+500277,2021-06-20 00:00:00,23,,Madison,Gold,1,112,Dairy,Value
+500278,2021-12-30 00:00:00,74,M,Columbus,Gold,1,101,Dairy,
+500279,2021-08-22 00:00:00,52,F,Nashville,Silver,1,121,Snacks,Value
+500280,2023-12-22 00:00:00,63,F,Raleigh,Silver,1,118,Bakery,Mainstream
+500281,2021-05-24 00:00:00,44,Other,Boise,Silver,1,138,Bakery,Value
+500282,2021-05-30 00:00:00,21,M,Denver,Gold,0,131,Frozen Foods,Mainstream
+500283,2022-02-10 00:00:00,42,M,Raleigh,Silver,1,130,Produce,Mainstream
+500284,2021-10-07 00:00:00,46,M,Raleigh,Silver,1,116,Snacks,Mainstream
+500285,2021-12-17 00:00:00,41,M,Columbus,Gold,0,129,Produce,Mainstream
+500286,2021-07-11 00:00:00,31,M,Nashville,Platinum,1,132,Beverages,Value
+500287,2021-06-27 00:00:00,29,M,Madison,Gold,1,131,Household,Mainstream
+500288,2022-08-29 00:00:00,23,F,Denver,Gold,1,116,Personal Care,Mainstream
+500289,2021-09-20 00:00:00,46,F,Spokane,Gold,1,138,Bakery,Value
+500290,2021-05-27 00:00:00,29,F,Columbus,Silver,1,122,Beverages,Value
+500291,2023-05-21 00:00:00,53,F,Nashville,Gold,1,123,Beverages,Mainstream
+500292,2024-03-09 00:00:00,32,F,Spokane,Gold,0,113,Snacks,Value
+500293,2023-10-16 00:00:00,42,M,Portland,Silver,1,130,Bakery,Mainstream
+500294,2024-03-28 00:00:00,72,M,Raleigh,Silver,1,104,Household,Value
+500295,2022-12-11 00:00:00,47,F,Columbus,Gold,1,120,Produce,Upscale
+500296,2024-04-09 00:00:00,60,M,Denver,Gold,0,132,Dairy,Value
+500297,2023-07-05 00:00:00,56,F,Austin,Platinum,1,137,Frozen Foods,Mainstream
+500298,2023-07-12 00:00:00,66,M,Raleigh,Silver,1,121,Bakery,Value
+500299,2022-01-27 00:00:00,21,M,Denver,Silver,1,104,Beverages,Value
+500300,2023-07-17 00:00:00,57,M,Boise,Silver,1,132,Household,Value
+500301,2021-04-17 00:00:00,31,F,Portland,Silver,0,140,Frozen Foods,Value
+500302,2023-09-26 00:00:00,35,M,Austin,Silver,1,132,Snacks,Value
+500303,2021-03-23 00:00:00,69,F,Spokane,Gold,1,131,Snacks,Mainstream
+500304,2022-07-09 00:00:00,40,F,Nashville,Platinum,0,132,Frozen Foods,
+500305,2023-07-22 00:00:00,47,M,Boise,Silver,1,139,Dairy,Upscale
+500306,2024-03-18 00:00:00,43,F,Columbus,Silver,1,116,Beverages,Mainstream
+500307,2023-05-11 00:00:00,24,F,Spokane,Gold,1,108,Snacks,Upscale
+500308,2022-06-12 00:00:00,34,M,Raleigh,Silver,1,112,Frozen Foods,Value
+500309,2023-12-27 00:00:00,26,F,Madison,Silver,1,101,Snacks,Mainstream
+500310,2023-10-21 00:00:00,42,Other,Madison,Gold,0,110,Produce,Mainstream
+500311,2023-12-20 00:00:00,18,M,Madison,Silver,1,119,Bakery,Mainstream
+500312,2022-03-01 00:00:00,61,F,Columbus,Silver,0,119,Produce,Mainstream
+500313,2024-01-20 00:00:00,48,M,Portland,Gold,0,109,Dairy,
+500314,2024-04-08 00:00:00,22,M,Austin,Gold,1,125,Dairy,Value
+500315,2022-11-16 00:00:00,74,M,Spokane,Platinum,1,114,Household,
+500316,2023-05-05 00:00:00,33,M,Austin,Gold,1,135,Personal Care,Mainstream
+500317,2022-07-06 00:00:00,37,Other,Columbus,Silver,0,111,Personal Care,Mainstream
+500318,2021-05-01 00:00:00,45,F,Tulsa,Silver,1,140,Snacks,Value
+500319,2021-08-03 00:00:00,48,Other,Raleigh,Gold,1,105,Frozen Foods,Mainstream
+500320,2022-08-12 00:00:00,,F,Denver,SILVER,1,130,Beverages,Mainstream
+500321,2022-04-11 00:00:00,48,F,Raleigh,Silver,1,126,Snacks,
+500322,2021-09-26 00:00:00,54,F,Raleigh,Silver,1,123,Dairy,Mainstream
+500323,2022-12-08 00:00:00,35,F,Portland,Silver,0,118,Beverages,Mainstream
+500324,2022-03-25 00:00:00,59,M,Madison,Silver,1,112,Dairy,Value
+500325,2023-08-23 00:00:00,66,M,Austin,Silver,1,125,Dairy,Value
+500326,2022-05-19 00:00:00,23,F,Boise,Silver,1,124,Dairy,Value
+500327,2023-07-30 00:00:00,24,M,Raleigh,Gold,1,130,Bakery,Mainstream
+500328,2023-09-22 00:00:00,28,F,Tulsa,Silver,1,112,Dairy,Value
+500329,2021-11-24 00:00:00,36,M,Boise,Gold,1,105,Household,
+500330,2022-06-30 00:00:00,35,F,Denver,Silver,0,135,Produce,Mainstream
+500331,2023-02-17 00:00:00,62,M,Raleigh,Silver,1,123,Personal Care,Mainstream
+500332,2024-03-17 00:00:00,34,M,Nashville,Platinum,0,110,Household,Mainstream
+500333,2023-07-30 00:00:00,68,F,Tulsa,Gold,0,119,Household,Mainstream
+500334,2021-10-08 00:00:00,61,F,Columbus,Gold,0,117,Dairy,Upscale
+500335,2022-11-02 00:00:00,71,,Nashville,Silver,1,123,Bakery,Mainstream
+500336,2021-04-05 00:00:00,74,M,Raleigh,Platinum,0,109,Frozen Foods,Mainstream
+500337,2021-06-14 00:00:00,22,F,Austin,Gold,1,136,Bakery,Value
+500338,2021-08-07 00:00:00,56,M, Austin ,Silver,0,109,Beverages,Mainstream
+500339,2024-04-14 00:00:00,67,F,Madison,Silver,1,113,Produce,Value
+500340,2024-03-04 00:00:00,19,M,Austin,Silver,1,131,Bakery,
+500341,2022-06-25 00:00:00,27,M,Austin,Silver,1,102,Bakery,Upscale
+500342,2023-04-02 00:00:00,34,F,Spokane,Silver,1,109,Dairy,Mainstream
+500343,2021-08-21 00:00:00,29,F,Madison,Silver,1,104,Produce,Value
+500344,2023-04-26 00:00:00,63,M,madison,Silver,0,113,Bakery,Value
+500345,2023-11-05 00:00:00,25,F,Denver,SILVER,0,135,Snacks,
+500346,2023-12-23 00:00:00,70,F,Denver,Silver,0,102,Personal Care,Upscale
+500347,2023-05-16 00:00:00,38,F,Austin,Silver,1,122,Snacks,Value
+500348,2022-04-30 00:00:00,51,M,Madison,Silver,0,137,Dairy,Mainstream
+500349,2023-12-07 00:00:00,41,F,Nashville,Silver,1,102,Bakery,
+500350,2021-10-12 00:00:00,37,F,Denver,Silver,0,136,Beverages,Value
+500351,2023-05-14 00:00:00,67,M,Madison,Gold,1,121,Household,Value
+500352,2023-05-01 00:00:00,38,M,Portland,Silver,1,116,Snacks,Mainstream
+500353,2022-03-19 00:00:00,73,M,Denver,Gold,1,130,Beverages,Mainstream
+500354,2021-07-28 00:00:00,54,F,Spokane,Platinum,0,137,Dairy,Mainstream
+500355,2022-12-10 00:00:00,38,F,Spokane,Gold,1,117,Beverages,Upscale
+500356,2021-10-13 00:00:00,67,F,Spokane,Silver,0,110,Personal Care,Mainstream
+500357,2023-05-12 00:00:00,33,M,Boise,Silver,1,118,Produce,Mainstream
+500358,2023-12-03 00:00:00,37,M,Nashville,Silver,1,111,Beverages,Mainstream
+500359,2021-09-06 00:00:00,68,F,Tulsa,Platinum,0,117,Snacks,Upscale
+500360,2021-11-17 00:00:00,28,M,Boise,Platinum,1,123,Dairy,Mainstream
+500361,2021-12-06 00:00:00,68,F,Portland,Gold,0,127,Dairy,Mainstream
+500362,2021-07-05 00:00:00,18,M,Portland,Gold,1,109,Bakery,Mainstream
+500363,2022-09-28 00:00:00,18,M,Columbus,Silver,0,139,Bakery,Upscale
+500364,2023-09-15 00:00:00,25,M,Madison,Silver,1,137,Dairy,Mainstream
+500365,2022-06-18 00:00:00,53,M,Boise,Silver,0,136,Produce,Value
+500366,2022-07-01 00:00:00,66,F,Portland,Silver,1,139,Bakery,Upscale
+500367,2023-02-06 00:00:00,66,M,Denver,Silver,1,110,Frozen Foods,Mainstream
+500368,2022-04-16 00:00:00,53,F,Columbus,Silver,1,105,Household,
+500369,2023-06-30 00:00:00,54,M,Tulsa,Platinum,1,121,Frozen Foods,Value
+500370,2022-05-21 00:00:00,74,M,Austin,Silver,1,118,Household,Mainstream
+500371,2021-10-17 00:00:00,72,M,Tulsa,Silver,1,130,Produce,Mainstream
+500372,2024-01-11 00:00:00,21,M,Tulsa,Silver,0,117,Beverages,Upscale
+500373,2022-11-19 00:00:00,49,F,Madison,Silver,0,123,Personal Care,Mainstream
+500374,2022-03-21 00:00:00,38,M,Raleigh,Silver,0,140,Household,Value
+500375,2024-03-04 00:00:00,25,F,Portland,silver,0,127,Dairy,Mainstream
+500376,2022-04-24 00:00:00,63,F,Spokane,Platinum,1,140,Household,Value
+500377,2021-05-31 00:00:00,48,F, Tulsa ,Silver,1,115,Dairy,Mainstream
+500378,2021-09-12 00:00:00,55,Other,Austin,silver,1,103,Beverages,Mainstream
+500379,2022-02-21 00:00:00,47,M,Tulsa,Silver,1,117,Dairy,Upscale
+500380,2021-10-05 00:00:00,21,M,Madison,Silver,0,139,Bakery,Upscale
+500381,2023-03-06 00:00:00,67,F,Raleigh,silver,1,102,Household,Upscale
+500382,2023-04-16 00:00:00,40,F,Spokane,Silver,1,126,Household,Mainstream
+500383,2024-01-26 00:00:00,30,M,madison,Silver,1,109,Produce,Mainstream
+500384,2022-01-09 00:00:00,54,F,Boise,Silver,1,119,Produce,Mainstream
+500385,2023-05-01 00:00:00,35,M,Madison,Silver,1,110,Personal Care,Mainstream
+500386,2021-07-23 00:00:00,,F,Austin,Silver,1,118,Snacks,Mainstream
+500387,2022-11-04 00:00:00,47,F,Raleigh,Gold,1,126,Household,Mainstream
+500388,2021-06-23 00:00:00,43,F,Austin,Silver,1,135,Bakery,
+500389,2023-11-23 00:00:00,23,F,Spokane,Silver,1,114,Dairy,Mainstream
+500390,2023-10-27 00:00:00,28,F,Denver,Platinum,0,106,Household,Upscale
+500391,2023-03-24 00:00:00,67,F,Raleigh,Silver,0,104,Beverages,Value
+500392,2024-04-01 00:00:00,73,M,Portland,Silver,0,116,Household,Mainstream
+500393,2022-10-05 00:00:00,49,F,Austin,Silver,1,124,Dairy,Value
+500394,2022-04-02 00:00:00,44,F,boise,Gold,0,105,Dairy,Mainstream
+500395,2022-03-20 00:00:00,28,F,Boise,Silver,0,131,Dairy,Mainstream
+500396,2023-08-25 00:00:00,58,F,Austin,Silver,1,116,Beverages,Mainstream
+500397,2023-10-23 00:00:00,54,F,Denver,Gold,1,115,Bakery,Mainstream
+500398,2022-07-13 00:00:00,48,F,Nashville,Gold,0,133,Household,Value
+500399,2022-04-23 00:00:00,33,M,Denver,Silver,1,121,Personal Care,Value
+500400,2021-04-23 00:00:00,22,F,Denver,Gold,1,134,Beverages,Value
+500401,2021-06-19 00:00:00,73,F,Nashville, Gold ,0,103,Household,Mainstream
+500402,2023-02-14 00:00:00,31,M,Tulsa,Silver,0,106,Dairy,Upscale
+500403,2023-10-26 00:00:00,55,,Columbus,Silver,0,133,Beverages,Value
+500404,2023-07-12 00:00:00,21,M,Denver,Gold,1,110,Produce,Mainstream
+500405,2021-07-06 00:00:00,56,M,Spokane,Silver,1,121,Frozen Foods,Value
+500406,2022-11-15 00:00:00,28,F,Boise,Silver,1,129,Personal Care,Mainstream
+500407,2021-02-26 00:00:00,57,F,Nashville,Platinum,1,139,Snacks,Upscale
+500408,2022-03-26 00:00:00,29,M,Tulsa,Silver,1,107,Produce,Value
+500409,2022-06-06 00:00:00,46,M,Portland,Gold,0,129,Bakery,Mainstream
+500410,2024-01-05 00:00:00,41,M,Austin,Silver,0,102,Bakery,Upscale
+500411,2022-06-11 00:00:00,47,Other,Austin,Gold,1,138,Household,Value
+500412,2023-02-12 00:00:00,36,M,Tulsa,SILVER,1,135,Personal Care,Mainstream
+500413,2021-08-19 00:00:00,37,M,Spokane,Gold,1,115,Household,Mainstream
+500414,2023-11-28 00:00:00,38,M,Portland,Silver,0,101,Produce,Mainstream
+500415,2023-09-21 00:00:00,54,F,Columbus,Silver,1,139,Household,Upscale
+500416,2022-03-19 00:00:00,64,F,Raleigh,Gold,1,136,Bakery,Value
+500417,2022-02-26 00:00:00,38,F,Denver,Gold,1,127,Snacks,Mainstream
+500418,2021-09-04 00:00:00,19,M,Raleigh,Silver,1,124,Dairy,Value
+500419,2022-08-28 00:00:00,29,M,Tulsa,Platinum,0,118,Household,Mainstream
+500420,2023-02-17 00:00:00,23,M,Columbus,Gold,1,116,Bakery,Mainstream
+500421,2023-05-11 00:00:00,53,F,Columbus,Platinum,1,131,Beverages,Mainstream
+500422,2023-02-23 00:00:00,64,Other,nashville,Silver,1,113,Produce,Value
+500423,2022-03-19 00:00:00,30,F,Boise,Platinum,1,108,Snacks,Upscale
+500424,2022-08-10 00:00:00,48,F,Boise,Gold,1,116,Personal Care,Mainstream
+500425,2023-05-22 00:00:00,45,M,Tulsa,Platinum,1,130,Dairy,Mainstream
+500426,2023-08-25 00:00:00,43,F,Madison,Silver,1,136,Bakery,Value
+500427,2022-01-22 00:00:00,68,F,Nashville,Silver,1,129,Household,Mainstream
+500428,2023-07-18 00:00:00,33,M,Madison,GOLD,0,124,Frozen Foods,Value
+500429,2023-09-01 00:00:00,53,M,Columbus,Gold,0,107,Produce,Value
+500430,2023-04-13 00:00:00,48,Other,Raleigh,Silver,1,106,Produce,
+500431,2021-08-08 00:00:00,67,F,Portland,Silver,0,127,Household,Mainstream
+500432,2022-11-14 00:00:00,30,M,Madison,Platinum,1,123,Dairy,Mainstream
+500433,2022-06-07 00:00:00,71,M,Nashville,Gold,0,128,Frozen Foods,Upscale
+500434,2024-01-28 00:00:00,66,F,Austin,Silver,1,113,Beverages,Value
+500435,2023-03-26 00:00:00,43,F,Boise,Silver,0,140,Produce,Value
+500436,2021-12-04 00:00:00,64,M,Spokane,Silver,0,137,Produce,Mainstream
+500437,2021-11-10 00:00:00,54,F,Boise,Silver,1,106,Household,Upscale
+500438,2022-06-25 00:00:00,36,F,Denver,Silver,0,107,Snacks,Value
+500439,2021-07-12 00:00:00,66,M,Portland,gold,1,103,Personal Care,Mainstream
+500440,2023-05-18 00:00:00,19,F,Madison,Silver,1,120,Snacks,Upscale
+500441,2023-10-23 00:00:00,25,F,Denver,Silver,1,120,Household,Upscale
+500442,2024-02-02 00:00:00,68,F,Boise,Gold,1,101,Beverages,Mainstream
+500443,2023-09-12 00:00:00,63,M,PORTLAND,Silver,1,132,Dairy,Value
+500444,2021-11-22 00:00:00,35,M,Portland,Silver,1,111,Frozen Foods,Mainstream
+500445,2021-06-10 00:00:00,74,F,Tulsa,Gold,0,115,Snacks,Mainstream
+500446,2023-12-01 00:00:00,55,Other,Boise,Gold,1,129,Snacks,
+500447,2022-09-23 00:00:00,31,F,Tulsa,Silver,0,108,Personal Care,Upscale
+500448,2023-11-29 00:00:00,66,M,Spokane,Gold,1,125,Frozen Foods,Value
+500449,2021-08-18 00:00:00,74,F,Columbus,Silver,0,112,Dairy,Value
+500450,2023-12-02 00:00:00,63,M,Austin, Silver ,1,137,Bakery,Mainstream
+500451,2022-04-14 00:00:00,53,M,Portland,Gold,0,101,Produce,Mainstream
+500452,2024-01-28 00:00:00,67,M,Tulsa,Gold,1,107,Household,Value
+500453,2021-12-21 00:00:00,63,F,Nashville,Silver,0,101,Beverages,Mainstream
+500454,2021-06-07 00:00:00,45,F,Denver,Silver,1,119,Snacks,Mainstream
+500455,2021-12-28 00:00:00,61,M,NASHVILLE,Silver,0,117,Snacks,
+500456,2023-06-22 00:00:00,66,M,Tulsa,Silver,1,105,Personal Care,Mainstream
+500457,2021-08-21 00:00:00,19,F,Raleigh,Silver,0,111,Dairy,Mainstream
+500458,2023-05-10 00:00:00,44,F,Denver,Gold,1,128,Beverages,Upscale
+500459,2021-12-03 00:00:00,71,F,Madison,Silver,0,108,Personal Care,Upscale
+500460,2021-09-01 00:00:00,33,M,Tulsa,Silver,1,105,Personal Care,Mainstream
+500461,2022-10-13 00:00:00,53,F,Nashville,Silver,1,107,Household,Value
+500462,2022-05-08 00:00:00,45,F,Denver,Silver,0,137,Bakery,Mainstream
+500463,2021-08-06 00:00:00,51,F,Boise,Gold,1,131,Dairy,Mainstream
+500464,2023-09-27 00:00:00,37,M,Nashville,Gold,0,120,Dairy,
+500465,2024-04-10 00:00:00,54,F,Boise,Gold,0,123,Beverages,Mainstream
+500466,2022-12-11 00:00:00,61,M,Madison,Gold,1,122,Beverages,Value
+500467,2023-10-03 00:00:00,60,M,Tulsa,Gold,1,103,Personal Care,Mainstream
+500468,2021-07-03 00:00:00,65,F,Portland,Gold,0,115,Household,Mainstream
+500469,2021-07-23 00:00:00,32,M,Austin,Gold,0,113,Household,Value
+500470,2023-02-18 00:00:00,26,F,Spokane,Gold,1,116,Snacks,Mainstream
+500471,2023-05-07 00:00:00,48,M,Denver,GOLD,0,139,Snacks,Upscale
+500472,2022-01-22 00:00:00,27,F,Nashville,Platinum,1,135,Personal Care,Mainstream
+500473,2022-11-19 00:00:00,53,F,Portland,Silver,0,134,Produce,Value
+500474,2024-01-10 00:00:00,39,M,Austin,Gold,0,131,Snacks,Mainstream
+500475,2022-03-19 00:00:00,58,F,Nashville,Silver,1,122,Household,Value
+500476,2022-01-03 00:00:00,44,F,Spokane,Silver,1,116,Frozen Foods,Mainstream
+500477,2024-02-10 00:00:00,50,M,Portland,Platinum,1,113,Produce,Value
+500478,2021-11-06 00:00:00,72,F,Austin,Silver,1,133,Frozen Foods,Value
+500479,2022-08-17 00:00:00,53,F,Portland,Silver,1,114,Snacks,Mainstream
+500480,2021-09-09 00:00:00,71,M,Raleigh,Silver,1,116,Produce,Mainstream
+500481,2021-08-12 00:00:00,31,M,COLUMBUS,Silver,1,113,Produce,Value
+500482,2022-03-06 00:00:00,73,F,Spokane,Silver,1,104,Household,Value
+500483,2023-04-08 00:00:00,30,F,Columbus,Gold,1,116,Beverages,Mainstream
+500484,2023-02-24 00:00:00,59,M,Spokane,Platinum,1,110,Personal Care,Mainstream
+500485,2022-01-06 00:00:00,20,F,PORTLAND,Gold,1,114,Frozen Foods,Mainstream
+500486,2024-02-17 00:00:00,56,Other,Raleigh,Gold,1,117,Produce,Upscale
+500487,2023-08-06 00:00:00,68,M,Portland,Silver,0,125,Household,Value
+500488,2022-09-04 00:00:00,33,F,Columbus,Silver,1,118,Household,Mainstream
+500489,2021-04-25 00:00:00,26,M,Columbus,Gold,0,139,Beverages,Upscale
+500490,2021-11-28 00:00:00,39,F,Raleigh,Silver,1,108,Beverages,Upscale
+500491,2021-09-21 00:00:00,21,F,Tulsa,Silver,0,107,Beverages,Value
+500492,2023-09-22 00:00:00,18,M,Columbus,Silver,0,129,Beverages,Mainstream
+500493,2023-06-10 00:00:00,,F,Austin,Platinum,0,132,Produce,Value
+500494,2023-06-26 00:00:00,65,F,Portland,Gold,0,110,Dairy,Mainstream
+500495,2021-12-08 00:00:00,40,M,Madison,GOLD,1,135,Personal Care,Mainstream
+500496,2022-08-14 00:00:00,33,M,Portland,Silver,1,127,Household,Mainstream
+500497,2023-08-29 00:00:00,30,M,Madison,Gold,0,109,Household,Mainstream
+500498,2021-12-09 00:00:00,22,F,Columbus,Silver,1,122,Bakery,Value
+500499,2022-04-17 00:00:00,40,F,Austin,Gold,1,131,Bakery,Mainstream
+500500,2021-06-18 00:00:00,35,F,Denver,Silver,0,126,Bakery,Mainstream
+500501,2022-07-19 00:00:00,43,F,Raleigh,Gold,1,111,Snacks,Mainstream
+500502,2023-12-07 00:00:00,36,F,Boise,Silver,1,136,Dairy,Value
+500503,2021-06-28 00:00:00,51,M,Nashville,Silver,1,107,Household,Value
+500504,2023-09-30 00:00:00,59,F,Denver,Silver,0,129,Frozen Foods,Mainstream
+500505,2024-02-28 00:00:00,18,F,Spokane,Silver,1,124,Frozen Foods,Value
+500506,2021-10-10 00:00:00,18,M,Raleigh,Gold,1,125,Snacks,Value
+500507,2022-11-22 00:00:00,33,F,Boise,Silver,1,108,Household,Upscale
+500508,2022-04-09 00:00:00,31,M,Portland,Silver,0,128,Bakery,Upscale
+500509,2023-12-03 00:00:00,23,M,Austin,Silver,1,113,Beverages,Value
+500510,2022-01-10 00:00:00,69,M,Tulsa,Silver,0,121,Snacks,Value
+500511,2023-01-14 00:00:00,23,F,Spokane,Gold,0,127,Bakery,Mainstream
+500512,2021-02-21 00:00:00,66,M,Raleigh,silver,0,140,Personal Care,Value
+500513,2022-04-19 00:00:00,21,F,Nashville,Silver,0,121,Produce,Value
+500514,2021-04-30 00:00:00,53,F,Nashville,Gold,1,133,Beverages,Value
+500515,2021-10-18 00:00:00,39,M,Austin,Platinum,1,102,Household,Upscale
+500516,2021-08-20 00:00:00,49,F,BOISE,Silver,1,107,Household,Value
+500517,2024-01-21 00:00:00,47,F,Tulsa,Silver,1,139,Household,Upscale
+500518,2021-11-05 00:00:00,30,M,Raleigh,Silver,1,107,Personal Care,Value
+500519,2022-05-28 00:00:00,23,F,Denver, Gold ,0,106,Bakery,Upscale
+500520,2023-01-26 00:00:00,67,F,Madison,Platinum,1,118,Dairy,Mainstream
+500521,2023-05-03 00:00:00,59,M,Nashville,Silver,1,125,Household,Value
+500522,2022-04-13 00:00:00,61,F,Raleigh,Silver,0,137,Dairy,Mainstream
+500523,2023-09-14 00:00:00,53,F,Tulsa,Silver,0,136,Household,Value
+500524,2023-09-30 00:00:00,47,M,Madison,Silver,1,106,Personal Care,Upscale
+500525,2021-07-15 00:00:00,66,F,Spokane,Gold,1,133,Personal Care,
+500526,2021-11-26 00:00:00,27,F,Madison,Gold,0,110,Snacks,Mainstream
+500527,2022-06-11 00:00:00,52,M,Raleigh,Gold,1,115,Beverages,Mainstream
+500528,2021-11-28 00:00:00,30,F,Boise,Silver,0,140,Beverages,Value
+500529,2023-04-21 00:00:00,55,Other,Boise,Silver,1,131,Beverages,Mainstream
+500530,2022-01-10 00:00:00,39,M,Portland,Platinum,0,130,Personal Care,Mainstream
+500531,2023-09-05 00:00:00,42,M,Spokane,Silver,1,111,Frozen Foods,Mainstream
+500532,2022-11-29 00:00:00,36,F,Nashville,Silver,0,122,Household,Value
+500533,2023-11-12 00:00:00,51,F,Madison,Silver,1,136,Dairy,Value
+500534,2023-02-15 00:00:00,21,M,DENVER,Gold,0,107,Frozen Foods,Value
+500535,2023-03-31 00:00:00,61,M,Columbus,Silver,1,120,Produce,Upscale
+500536,2022-12-28 00:00:00,41,F,Boise,Gold,1,102,Produce,Upscale
+500537,2022-10-23 00:00:00,73,F,Boise,Gold,1,130,Snacks,Mainstream
+500538,2024-03-24 00:00:00,43,F,Tulsa,Gold,0,114,Beverages,Mainstream
+500539,2023-03-29 00:00:00,24,,Columbus,Silver,1,131,Beverages,Mainstream
+500540,2021-08-19 00:00:00,34,F,Madison,Silver,1,108,Beverages,Upscale
+500541,2022-12-13 00:00:00,44,F,Austin,Silver,0,133,Beverages,Value
+500542,2022-08-07 00:00:00,39,M,Denver,Silver,0,136,Snacks,Value
+500543,2024-01-03 00:00:00,33,F,Madison,Silver,1,139,Personal Care,Upscale
+500544,2023-02-04 00:00:00,36,F,Austin,Platinum,1,121,Dairy,Value
+500545,2021-03-25 00:00:00,59,F,Spokane,Gold,1,125,Produce,Value
+500546,2022-07-31 00:00:00,39,F,Tulsa,Silver,1,121,Snacks,Value
+500547,2024-04-09 00:00:00,26,F,Austin,Silver,1,114,Frozen Foods,
+500548,2022-01-09 00:00:00,53,M,Boise,Silver,0,125,Personal Care,Value
+500549,2021-11-14 00:00:00,60,F,Raleigh,Gold,1,128,Household,Upscale
+500550,2023-02-11 00:00:00,46,F,Denver,Platinum,0,120,Snacks,Upscale
+500551,2024-03-26 00:00:00,59,M,Portland,Silver,0,106,Produce,Upscale
+500552,2021-09-04 00:00:00,29,Other,Denver,Gold,0,110,Bakery,Mainstream
+500553,2023-07-12 00:00:00,26,M,Denver,Silver,1,119,Beverages,Mainstream
+500554,2021-05-23 00:00:00,63,M,Portland,Platinum,1,130,Household,Mainstream
+500555,2023-03-04 00:00:00,62,F,Columbus,Silver,1,117,Snacks,Upscale
+500556,2023-02-04 00:00:00,47,F,Portland,Gold,0,130,Personal Care,Mainstream
+500557,2021-10-17 00:00:00,45,F,Portland,Silver,1,125,Beverages,Value
+500558,2023-11-23 00:00:00,44,M,Denver,Silver,1,137,Snacks,Mainstream
+500559,2024-03-29 00:00:00,30,M,Madison,Platinum,1,116,Dairy,Mainstream
+500560,2021-11-25 00:00:00,58,F,Denver,Gold,1,120,Bakery,Upscale
+500561,2021-05-15 00:00:00,39,M,Raleigh,Silver,1,105,Bakery,Mainstream
+500562,2021-02-26 00:00:00,60,M,Columbus,PLATINUM,0,106,Household,Upscale
+500563,2023-12-04 00:00:00,43,M,Raleigh,Silver,1,112,Frozen Foods,Value
+500564,2023-11-11 00:00:00,66,F,Denver,Silver,1,139,Household,Upscale
+500565,2023-04-02 00:00:00,66,F, Tulsa ,Platinum,0,107,Snacks,Value
+500566,2022-01-20 00:00:00,64,F,Austin,Gold,1,101,Household,Mainstream
+500567,2021-05-31 00:00:00,33,M,Spokane,Silver,1,133,Snacks,
+500568,2021-09-10 00:00:00,56,M,Denver,Silver,0,107,Produce,Value
+500569,2023-02-19 00:00:00,60,M,Boise,Gold,0,101,Bakery,Mainstream
+500570,2021-05-21 00:00:00,59,M,Portland,Silver,0,129,Produce,Mainstream
+500571,2023-07-08 00:00:00,68,M,Austin,Silver,1,128,Snacks,Upscale
+500572,2023-12-10 00:00:00,26,F,Boise,Silver,1,135,Frozen Foods,Mainstream
+500573,2022-12-11 00:00:00,55,M,Spokane,Silver,1,132,Dairy,Value
+500574,2024-01-16 00:00:00,57,F,Tulsa,Silver,1,138,Beverages,Value
+500575,2022-02-28 00:00:00,38,M,Spokane,Silver,1,135,Snacks,Mainstream
+500576,2021-03-04 00:00:00,32,F,Tulsa,Silver,1,124,Dairy,Value
+500577,2023-12-29 00:00:00,50,Other,Spokane,Silver,1,134,Frozen Foods,Value
+500578,2023-12-18 00:00:00,,M,Nashville,Silver,1,112,Produce,Value
+500579,2023-10-07 00:00:00,51,F,Tulsa,Gold,1,121,Produce,Value
+500580,2023-10-09 00:00:00,24,M,Austin,Gold,1,102,Snacks,Upscale
+500581,2022-08-16 00:00:00,40,M,Tulsa,Gold,1,118,Personal Care,Mainstream
+500582,2022-06-30 00:00:00,40,F,Denver,Silver,1,130,Dairy,Mainstream
+500583,2021-04-16 00:00:00,59,M,Columbus,Gold,1,129,Snacks,Mainstream
+500584,2022-11-27 00:00:00,19,F,Austin,Silver,0,126,Bakery,Mainstream
+500585,2021-05-14 00:00:00,38,M,Denver,Silver,0,103,Snacks,
+500586,2021-12-07 00:00:00,55,M,Spokane,Silver,1,105,Household,Mainstream
+500587,2021-08-06 00:00:00,46,M,Columbus,Gold,1,113,Personal Care,Value
+500588,2023-09-23 00:00:00,60,F,madison,Silver,1,130,Bakery,Mainstream
+500589,2022-11-18 00:00:00,67,M,Boise,Platinum,1,120,Bakery,Upscale
+500590,2021-05-29 00:00:00,62,M,Raleigh,Gold,1,138,Frozen Foods,Value
+500591,2021-12-05 00:00:00,37,F,Spokane,Silver,1,138,Household,Value
+500592,2023-08-22 00:00:00,25,F,Tulsa,Gold,1,108,Bakery,Upscale
+500593,2021-08-17 00:00:00,22,F,Spokane,Silver,1,126,Personal Care,Mainstream
+500594,2021-11-15 00:00:00,54,F,Boise,Gold,1,125,Frozen Foods,Value
+500595,2023-11-13 00:00:00,25,F,Denver,Silver,1,124,Produce,Value
+500596,2024-02-13 00:00:00,65,M,Madison,Silver,1,117,Dairy,Upscale
+500597,2023-07-05 00:00:00,51,Other,Raleigh,Gold,1,122,Dairy,Value
+500598,2022-10-27 00:00:00,20,F,Columbus,Silver,0,125,Dairy,Value
+500599,2023-11-05 00:00:00,63,M,Denver,Silver,1,113,Snacks,Value
+500600,2024-03-25 00:00:00,29,M,Madison, Silver ,1,105,Personal Care,Mainstream
+500601,2023-12-26 00:00:00,74,M,Tulsa,Silver,1,123,Household,Mainstream
+500602,2023-05-01 00:00:00,33,M,Tulsa,Gold,1,136,Beverages,Value
+500603,2023-02-01 00:00:00,49,F,nashville,Silver,0,112,Beverages,Value
+500604,2023-05-03 00:00:00,44,M,Columbus,Silver,0,112,Bakery,Value
+500605,2022-11-26 00:00:00,38,F,Raleigh,Platinum,1,105,Bakery,Mainstream
+500606,2022-01-11 00:00:00,27,F,Columbus,Platinum,1,126,Personal Care,Mainstream
+500607,2023-07-18 00:00:00,21,F,Tulsa,Gold,0,101,Beverages,Mainstream
+500608,2022-11-17 00:00:00,48,M,Austin,Silver,0,110,Beverages,Mainstream
+500609,2022-01-01 00:00:00,74,M,Boise,Silver,1,109,Beverages,Mainstream
+500610,2024-02-26 00:00:00,37,F,Raleigh,Gold,1,108,Beverages,Upscale
+500611,2021-04-29 00:00:00,35,M,Austin,Gold,1,137,Dairy,Mainstream
+500612,2021-02-23 00:00:00,55,M,Spokane,Platinum,1,139,Snacks,Upscale
+500613,2023-05-29 00:00:00,74,M,Raleigh,Silver,0,127,Frozen Foods,Mainstream
+500614,2021-06-28 00:00:00,48,F,Boise,Silver,1,111,Personal Care,
+500615,2023-07-12 00:00:00,73,F,Madison,Silver,1,123,Personal Care,Mainstream
+500616,2021-05-26 00:00:00,57,F,Austin,Gold,1,139,Beverages,Upscale
+500617,2022-03-22 00:00:00,63,M,Raleigh,Platinum,0,127,Frozen Foods,Mainstream
+500618,2023-07-19 00:00:00,32,F,Austin,Silver,0,135,Produce,Mainstream
+500619,2024-02-20 00:00:00,49,F,Raleigh,Silver,0,129,Dairy,Mainstream
+500620,2023-01-27 00:00:00,58,F,Columbus,Gold,1,123,Frozen Foods,Mainstream
+500621,2021-12-13 00:00:00,38,F,Madison,Silver,1,136,Dairy,Value
+500622,2023-08-11 00:00:00,59,F, Austin ,Silver,1,123,Beverages,Mainstream
+500623,2022-09-08 00:00:00,,F,Raleigh,Silver,0,128,Frozen Foods,Upscale
+500624,2023-12-08 00:00:00,,M,Austin,Silver,1,102,Dairy,Upscale
+500625,2022-12-22 00:00:00,43,F,Spokane,Silver,0,119,Personal Care,Mainstream
+500626,2024-03-25 00:00:00,21,Other,Boise,Silver,0,131,Produce,Mainstream
+500627,2021-03-05 00:00:00,23,M,Raleigh,Silver,0,126,Frozen Foods,Mainstream
+500628,2022-09-22 00:00:00,71,F,Portland,Platinum,0,128,Produce,Upscale
+500629,2021-08-21 00:00:00,54,M,columbus,Gold,0,131,Beverages,Mainstream
+500630,2023-12-10 00:00:00,50,M,Raleigh,Silver,0,124,Produce,Value
+500631,2023-10-19 00:00:00,,F,Austin,Platinum,0,104,Produce,Value
+500632,2023-10-09 00:00:00,33,M,Portland,Silver,1,133,Dairy,Value
+500633,2022-07-07 00:00:00,38,M,Denver,Silver,1,121,Personal Care,Value
+500634,2021-07-31 00:00:00,42,F,Spokane,Gold,1,119,Beverages,Mainstream
+500635,2022-05-23 00:00:00,55,M,Boise,Platinum,0,117,Frozen Foods,Upscale
+500636,2022-10-14 00:00:00,47,F,Raleigh,Gold,1,116,Bakery,Mainstream
+500637,2021-04-26 00:00:00,33,F,Tulsa,Silver,1,109,Produce,
+500638,2023-10-01 00:00:00,47,F,Austin,Silver,1,130,Personal Care,Mainstream
+500639,2023-10-23 00:00:00,39,F,Boise,Silver,0,133,Frozen Foods,Value
+500640,2022-03-11 00:00:00,32,F,BOISE,Silver,0,120,Beverages,Upscale
+500641,2021-08-07 00:00:00,28,F,Boise,GOLD,0,105,Personal Care,Mainstream
+500642,2023-06-26 00:00:00,33,F,Columbus,Silver,0,125,Snacks,Value
+500643,2023-07-02 00:00:00,48,M,PORTLAND,Silver,1,102,Beverages,Upscale
+500644,2022-08-25 00:00:00,38,M,Nashville,Silver,1,107,Snacks,Value
+500645,2021-11-04 00:00:00,42,F,Spokane,Gold,0,108,Frozen Foods,Upscale
+500646,2023-06-06 00:00:00,62,F,Columbus,Gold,0,109,Bakery,Mainstream
+500647,2021-09-11 00:00:00,57,M,Madison,Silver,1,121,Produce,Value
+500648,2022-09-07 00:00:00,42,F,Nashville,Silver,1,108,Beverages,Upscale
+500649,2022-01-29 00:00:00,50,F,Boise,Platinum,0,121,Produce,Value
+500650,2022-04-28 00:00:00,20,M,Portland,Silver,0,133,Bakery,Value
+500651,2022-10-18 00:00:00,41,F,Portland,Silver,0,135,Personal Care,Mainstream
+500652,2022-08-14 00:00:00,43,M,Portland,Gold,1,140,Dairy,Value
+500653,2021-02-23 00:00:00,34,M,Portland,Silver,1,133,Beverages,Value
+500654,2023-01-26 00:00:00,29,F,Austin,Silver,0,139,Beverages,Upscale
+500655,2021-04-23 00:00:00,60,F,Columbus,Silver,0,134,Produce,Value
+500656,2021-10-20 00:00:00,18,M,Spokane,Silver,0,123,Household,Mainstream
+500657,2023-10-02 00:00:00,73,F,Denver,Gold,1,103,Bakery,Mainstream
+500658,2021-07-16 00:00:00,73,M,Columbus,Gold,1,132,Dairy,Value
+500659,2023-02-09 00:00:00,53,M,Columbus,Silver,0,108,Produce,Upscale
+500660,2023-10-06 00:00:00,34,F,Columbus,Silver,0,105,Household,Mainstream
+500661,2023-07-12 00:00:00,34,M,Madison,Platinum,1,121,Household,Value
+500662,2023-11-25 00:00:00,48,M,Nashville,Silver,0,114,Dairy,Mainstream
+500663,2023-04-01 00:00:00,56,F,Madison,Silver,1,127,Frozen Foods,Mainstream
+500664,2023-12-22 00:00:00,38,F,Austin,Silver,1,138,Frozen Foods,Value
+500665,2022-08-05 00:00:00,43,F,Tulsa,Silver,1,101,Frozen Foods,Mainstream
+500666,2021-03-13 00:00:00,21,M,Columbus,Silver,1,112,Bakery,Value
+500667,2021-03-31 00:00:00,68,F,Madison, Platinum ,1,135,Frozen Foods,Mainstream
+500668,2021-04-27 00:00:00,69,F,Nashville, Silver ,1,107,Beverages,Value
+500669,2023-07-22 00:00:00,32,Other,Tulsa,Gold,1,109,Personal Care,Mainstream
+500670,2023-08-07 00:00:00,71,F,Raleigh,Silver,1,118,Dairy,Mainstream
+500671,2022-03-01 00:00:00,66,M,Portland,Silver,1,122,Frozen Foods,Value
+500672,2021-03-25 00:00:00,28,F,Raleigh,Silver,1,131,Snacks,Mainstream
+500673,2021-09-09 00:00:00,26,F,Boise,Gold,1,131,Beverages,Mainstream
+500674,2023-09-02 00:00:00,41,F,Portland,Silver,0,140,Produce,Value
+500675,2021-12-23 00:00:00,57,M,Tulsa,Silver,1,115,Snacks,Mainstream
+500676,2022-09-18 00:00:00,39,M,Tulsa,Silver,1,102,Dairy,Upscale
+500677,2022-12-02 00:00:00,59,F,Madison,Platinum,1,136,Snacks,Value
+500678,2022-09-29 00:00:00,27,F,Boise,Gold,1,126,Bakery,
+500679,2022-08-03 00:00:00,70,F,Nashville,GOLD,1,126,Household,
+500680,2021-05-28 00:00:00,55,F,Columbus, Platinum ,0,134,Household,
+500681,2021-10-19 00:00:00,32,F,Nashville,Silver,1,112,Beverages,Value
+500682,2024-03-16 00:00:00,62,M,Columbus,Silver,1,133,Personal Care,Value
+500683,2021-11-22 00:00:00,41,F,Austin,Gold,1,130,Frozen Foods,Mainstream
+500684,2023-04-30 00:00:00,61,F,Tulsa,Silver,0,137,Personal Care,Mainstream
+500685,2023-04-03 00:00:00,58,F,Madison,Silver,0,118,Bakery,Mainstream
+500686,2022-06-01 00:00:00,56,F,Nashville,Gold,1,126,Frozen Foods,Mainstream
+500687,2021-03-08 00:00:00,24,M,Madison,Platinum,1,125,Household,Value
+500688,2024-02-15 00:00:00,18,,Madison,Gold,1,134,Snacks,Value
+500689,2022-09-09 00:00:00,57,M,Denver,Gold,0,130,Household,
+500690,2023-07-31 00:00:00,31,F,Denver,Silver,1,117,Household,Upscale
+500691,2021-05-29 00:00:00,21,M,Spokane,Gold,1,130,Produce,Mainstream
+500692,2022-11-05 00:00:00,47,M,Raleigh,Silver,0,124,Frozen Foods,Value
+500693,2021-08-06 00:00:00,71,F,Nashville,SILVER,1,132,Frozen Foods,Value
+500694,2021-07-07 00:00:00,58,M,Portland,Silver,0,122,Snacks,Value
+500695,2024-01-06 00:00:00,35,M,Columbus,Gold,1,124,Frozen Foods,Value
+500696,2021-11-24 00:00:00,40,M,Columbus,PLATINUM,1,118,Beverages,Mainstream
+500697,2021-10-21 00:00:00,57,M,Tulsa,GOLD,0,121,Dairy,Value
+500698,2021-09-06 00:00:00,43,F,Madison,Silver,1,118,Household,Mainstream
+500699,2021-03-04 00:00:00,49,F,Portland,Gold,0,118,Bakery,Mainstream
+500700,2021-11-24 00:00:00,65,M,Columbus,Silver,1,129,Produce,Mainstream
+500701,2021-08-31 00:00:00,21,M,Portland,Gold,0,130,Produce,Mainstream
+500702,2022-01-25 00:00:00,19,F,Boise,Silver,1,107,Personal Care,Value
+500703,2023-05-23 00:00:00,68,F,Boise,Silver,0,140,Personal Care,Value
+500704,2021-08-12 00:00:00,33,F,Madison,Silver,1,134,Snacks,Value
+500705,2022-02-03 00:00:00,64,M,Raleigh,Silver,1,125,Dairy,Value
+500706,2022-02-25 00:00:00,34,F,Spokane,Silver,1,129,Personal Care,Mainstream
+500707,2021-03-21 00:00:00,66,Other,Raleigh,Silver,1,121,Household,
+500708,2021-12-24 00:00:00,74,M,Austin,Silver,1,109,Bakery,
+500709,2023-04-02 00:00:00,70,M,Raleigh,Gold,1,113,Bakery,Value
+500710,2023-05-16 00:00:00,30,M,Austin,Platinum,1,114,Snacks,Mainstream
+500711,2023-04-15 00:00:00,47,M,Spokane,Gold,0,132,Produce,Value
+500712,2023-10-19 00:00:00,20,M,Denver,Silver,1,134,Beverages,Value
+500713,2024-01-29 00:00:00,33,F,Tulsa,Silver,0,126,Frozen Foods,Mainstream
+500714,2021-11-29 00:00:00,41,M,Portland,Silver,0,117,Personal Care,Upscale
+500715,2021-10-29 00:00:00,20,F,Austin,Gold,0,101,Bakery,Mainstream
+500716,2023-10-21 00:00:00,55,M,Spokane,Silver,1,134,Beverages,Value
+500717,2023-01-27 00:00:00,28,F,Raleigh,Silver,0,123,Snacks,Mainstream
+500718,2021-05-23 00:00:00,26,,Tulsa,Gold,1,116,Beverages,
+500719,2021-08-27 00:00:00,55,,Boise,Silver,0,117,Beverages,Upscale
+500720,2022-06-04 00:00:00,65,M,Austin,Gold,1,140,Frozen Foods,Value
+500721,2021-03-23 00:00:00,74,M,Spokane,Gold,1,129,Personal Care,Mainstream
+500722,2023-04-13 00:00:00,29,M,austin, Silver ,1,116,Dairy,Mainstream
+500723,2021-08-19 00:00:00,62,M,Denver,Platinum,0,116,Frozen Foods,Mainstream
+500724,2021-05-03 00:00:00,58,F,Boise,Silver,1,140,Snacks,Value
+500725,2022-06-09 00:00:00,64,M,Denver,Silver,0,138,Dairy,Value
+500726,2023-11-03 00:00:00,27,F,Tulsa,Silver,0,116,Frozen Foods,Mainstream
+500727,2023-05-25 00:00:00,45,F,Boise,Platinum,1,101,Dairy,Mainstream
+500728,2022-09-09 00:00:00,68,M,Denver,Silver,0,117,Snacks,Upscale
+500729,2023-06-11 00:00:00,50,M,Austin,Gold,1,133,Frozen Foods,Value
+500730,2024-01-16 00:00:00,29,M,Raleigh,Platinum,1,107,Beverages,Value
+500731,2023-10-16 00:00:00,18,F,Nashville,Silver,1,115,Dairy,Mainstream
+500732,2021-03-30 00:00:00,59,M,Austin,Gold,0,132,Beverages,Value
+500733,2023-02-10 00:00:00,21,M,TULSA,Gold,1,112,Snacks,Value
+500734,2022-06-29 00:00:00,65,M,Columbus,Silver,1,104,Frozen Foods,Value
+500735,2022-12-06 00:00:00,55,F,Raleigh,Silver,1,111,Dairy,Mainstream
+500736,2021-10-05 00:00:00,32,M,Austin,Platinum,1,132,Household,Value
+500737,2024-01-05 00:00:00,30,F,Raleigh,Silver,1,110,Household,Mainstream
+500738,2023-06-08 00:00:00,23,M,Spokane,Silver,1,120,Personal Care,Upscale
+500739,2022-06-19 00:00:00,37,M,Austin,Silver,1,134,Snacks,Value
+500740,2021-10-07 00:00:00,51,M,Nashville,Silver,1,135,Produce,Mainstream
+500741,2022-11-10 00:00:00,35,M,Austin,Gold,1,117,Snacks,Upscale
+500742,2022-01-31 00:00:00,46,Other,Tulsa,Silver,1,125,Snacks,Value
+500743,2021-10-09 00:00:00,53,Other,Portland,Platinum,0,131,Household,Mainstream
+500744,2022-04-10 00:00:00,45,F,Columbus,Platinum,1,138,Household,Value
+500745,2021-09-17 00:00:00,32,F,Columbus,Gold,0,114,Dairy,Mainstream
+500746,2021-04-16 00:00:00,62,M,Portland,Gold,1,121,Bakery,Value
+500747,2023-08-21 00:00:00,58,Other,Denver,Gold,0,109,Household,Mainstream
+500748,2022-12-12 00:00:00,,M,Tulsa,Silver,1,110,Personal Care,Mainstream
+500749,2023-08-12 00:00:00,28,F,Columbus,Gold,0,104,Dairy,Value
+500750,2023-01-03 00:00:00,,F,Boise,Gold,0,137,Frozen Foods,Mainstream
+500751,2024-04-30 00:00:00,38,F,Spokane,Silver,1,115,Dairy,Mainstream
+500752,2022-02-13 00:00:00,45,M,Spokane,Gold,1,136,Personal Care,
+500753,2023-08-01 00:00:00,25,M,Nashville,Silver,0,134,Beverages,Value
+500754,2021-08-29 00:00:00,43,F,Columbus,Silver,1,134,Household,
+500755,2022-01-12 00:00:00,20,F,Portland,Silver,0,121,Produce,Value
+500756,2023-04-06 00:00:00,41,F,Columbus,Silver,1,124,Dairy,Value
+500757,2022-11-18 00:00:00,57,F,Madison,Gold,0,101,Produce,
+500758,2022-03-11 00:00:00,27,F,Nashville,Gold,1,111,Produce,Mainstream
+500759,2023-01-01 00:00:00,25,M,Madison,Silver,0,101,Personal Care,Mainstream
+500760,2023-09-01 00:00:00,34,F,Portland,Gold,1,101,Frozen Foods,Mainstream
+500761,2024-03-13 00:00:00,69,M, Austin ,Platinum,1,115,Personal Care,Mainstream
+500762,2022-07-27 00:00:00,33,F,Madison,Gold,1,133,Snacks,Value
+500763,2022-08-19 00:00:00,71,M,Austin,Gold,1,125,Beverages,Value
+500764,2021-11-15 00:00:00,32,F,Portland,Silver,1,127,Frozen Foods,Mainstream
+500765,2023-12-03 00:00:00,21,M,Boise,Gold,0,114,Personal Care,Mainstream
+500766,2024-02-16 00:00:00,62,M,Portland,Silver,1,118,Household,Mainstream
+500767,2021-12-23 00:00:00,24,F, Madison ,Platinum,1,116,Beverages,Mainstream
+500768,2022-01-02 00:00:00,24,M,Raleigh,Gold,1,121,Frozen Foods,
+500769,2021-10-11 00:00:00,48,M,Columbus,Silver,1,107,Beverages,Value
+500770,2024-04-14 00:00:00,29,Other,Raleigh, Gold ,1,132,Produce,Value
+500771,2022-03-28 00:00:00,52,,Columbus,Gold,1,118,Beverages,Mainstream
+500772,2021-04-07 00:00:00,48,M,Portland,Silver,1,110,Personal Care,Mainstream
+500773,2021-11-21 00:00:00,58,M,Denver,Silver,1,107,Personal Care,Value
+500774,2022-11-01 00:00:00,35,M,Denver,Silver,1,101,Household,Mainstream
+500775,2022-10-24 00:00:00,33,F,Denver,Gold,0,120,Frozen Foods,Upscale
+500776,2023-01-10 00:00:00,31,F,Boise,Silver,0,104,Beverages,Value
+500777,2024-02-28 00:00:00,60,M,Austin,Silver,0,113,Household,Value
+500778,2022-01-11 00:00:00,39,F,Austin,Gold,1,140,Bakery,Value
+500779,2022-08-12 00:00:00,66,,Austin,Silver,1,122,Beverages,Value
+500780,2022-08-29 00:00:00,46,F,Madison,Silver,0,109,Bakery,Mainstream
+500781,2021-05-08 00:00:00,,M,Spokane,Silver,0,135,Bakery,
+500782,2021-12-29 00:00:00,56,M,Columbus,Silver,1,140,Frozen Foods,Value
+500783,2021-04-06 00:00:00,57,M,Raleigh,Silver,1,108,Snacks,Upscale
+500784,2024-01-24 00:00:00,,M,Columbus, Silver ,0,102,Snacks,
+500785,2021-04-15 00:00:00,43,F,Columbus,Platinum,0,132,Bakery,Value
+500786,2022-07-14 00:00:00,66,M,Raleigh,Silver,0,127,Personal Care,Mainstream
+500787,2023-01-18 00:00:00,65,M,Madison,Silver,1,127,Frozen Foods,Mainstream
+500788,2022-07-20 00:00:00,42,M,Spokane,Silver,1,122,Frozen Foods,Value
+500789,2024-03-21 00:00:00,57,M,Denver,Gold,1,127,Snacks,
+500790,2021-05-08 00:00:00,43,F,Portland,Gold,1,120,Bakery,Upscale
+500791,2022-04-27 00:00:00,55,F,Boise,Silver,1,114,Frozen Foods,Mainstream
+500792,2024-03-17 00:00:00,41,M,Nashville,Silver,1,101,Produce,Mainstream
+500793,2021-05-30 00:00:00,46,F,Columbus,Silver,1,112,Frozen Foods,Value
+500794,2022-11-20 00:00:00,31,F,Nashville,Gold,1,123,Produce,Mainstream
+500795,2023-12-15 00:00:00,54,M, Portland ,Gold,1,118,Household,Mainstream
+500796,2022-04-25 00:00:00,72,M,Austin,Gold,0,125,Snacks,Value
+500797,2024-02-12 00:00:00,38,M,Tulsa, Silver ,0,109,Bakery,Mainstream
+500798,2022-07-28 00:00:00,21,M,Columbus,Silver,1,134,Personal Care,Value
+500799,2021-11-24 00:00:00,58,F,Columbus,Gold,0,128,Produce,Upscale
+500800,2024-02-06 00:00:00,29,M,Spokane,Silver,0,134,Personal Care,Value
+500801,2021-10-20 00:00:00,57,F,Raleigh,Gold,0,136,Frozen Foods,Value
+500802,2022-06-08 00:00:00,55,F,Spokane,Gold,1,133,Beverages,Value
+500803,2023-04-19 00:00:00,72,M,Nashville,Gold,0,130,Snacks,Mainstream
+500804,2023-08-17 00:00:00,51,M,Columbus,Silver,1,103,Produce,Mainstream
+500805,2024-04-19 00:00:00,24,M,Boise,Silver,0,117,Produce,Upscale
+500806,2023-09-17 00:00:00,33,F,Spokane,Platinum,0,136,Bakery,Value
+500807,2023-06-05 00:00:00,33,F,Columbus,Platinum,1,137,Produce,Mainstream
+500808,2021-07-09 00:00:00,71,M,Denver,GOLD,0,121,Bakery,Value
+500809,2022-09-10 00:00:00,67,M,Spokane,Gold,0,134,Bakery,Value
+500810,2023-09-14 00:00:00,41,F,Boise,Silver,0,135,Bakery,
+500811,2021-12-15 00:00:00,68,M,Portland,Gold,1,125,Produce,Value
+500812,2022-11-18 00:00:00,51,F,Denver,Gold,1,137,Bakery,Mainstream
+500813,2021-08-29 00:00:00,35,F,Raleigh,Silver,1,126,Snacks,Mainstream
+500814,2021-12-07 00:00:00,23,M,Nashville,Gold,0,104,Produce,Value
+500815,2021-05-07 00:00:00,70,F,Nashville,Silver,1,107,Produce,Value
+500816,2022-01-26 00:00:00,68,M,Nashville,Silver,1,117,Beverages,Upscale
+500817,2023-12-27 00:00:00,60,M,Tulsa,Gold,0,119,Household,Mainstream
+500818,2022-07-25 00:00:00,23,F,Nashville,Silver,1,121,Dairy,Value
+500819,2022-12-23 00:00:00,49,M,Spokane,Silver,1,117,Bakery,Upscale
+500820,2021-10-01 00:00:00,40,F,Spokane,Silver,1,125,Dairy,Value
+500821,2023-11-04 00:00:00,56,F,Denver,Platinum,1,113,Bakery,Value
+500822,2022-11-04 00:00:00,68,F,Portland,Silver,0,138,Dairy,Value
+500823,2021-09-10 00:00:00,48,F, Spokane ,Gold,1,102,Bakery,Upscale
+500824,2022-05-08 00:00:00,71,M,Denver,Silver,1,102,Personal Care,Upscale
+500825,2024-03-19 00:00:00,29,M,Portland,Silver,0,113,Bakery,Value
+500826,2021-09-17 00:00:00,69,F,Austin,Silver,1,125,Dairy,Value
+500827,2023-02-28 00:00:00,67,F,Portland,Gold,0,108,Personal Care,Upscale
+500828,2022-03-01 00:00:00,65,Other,Boise,Silver,0,120,Bakery,Upscale
+500829,2022-03-30 00:00:00,72,M,Austin,Gold,1,112,Bakery,Value
+500830,2022-04-13 00:00:00,31,M,Austin,Silver,1,106,Dairy,Upscale
+500831,2022-12-31 00:00:00,28,F,Denver,Silver,0,130,Household,Mainstream
+500832,2023-01-13 00:00:00,19,M,Denver,Gold,0,128,Bakery,Upscale
+500833,2024-01-06 00:00:00,61,M,Boise,Silver,0,103,Household,Mainstream
+500834,2022-07-19 00:00:00,43,M,Austin,Silver,1,130,Dairy,Mainstream
+500835,2023-05-28 00:00:00,34,F,Austin,Silver,1,140,Snacks,
+500836,2023-01-25 00:00:00,21,M,Spokane,Silver,0,105,Snacks,Mainstream
+500837,2023-10-20 00:00:00,33,F,Portland,Silver,0,121,Bakery,Value
+500838,2021-12-14 00:00:00,72,F,Nashville,Gold,0,105,Bakery,Mainstream
+500839,2021-05-19 00:00:00,22,M,Columbus,Silver,1,124,Household,Value
+500840,2023-02-12 00:00:00,18,M,Austin,Gold,0,120,Household,Upscale
+500841,2022-12-24 00:00:00,32,F,Boise,Silver,1,106,Bakery,Upscale
+500842,2022-11-04 00:00:00,36,F,Tulsa,Silver,1,139,Bakery,Upscale
+500843,2024-02-08 00:00:00,29,F,Portland,Silver,1,101,Frozen Foods,Mainstream
+500844,2021-12-01 00:00:00,29,M,PORTLAND,Silver,1,134,Frozen Foods,Value
+500845,2021-07-07 00:00:00,48,M,Austin,Gold,0,129,Bakery,Mainstream
+500846,2022-09-21 00:00:00,18,F,Raleigh,Silver,1,127,Frozen Foods,Mainstream
+500847,2024-02-20 00:00:00,73,M,Nashville,Silver,0,140,Dairy,Value
+500848,2023-04-03 00:00:00,46,M,Spokane,Silver,1,116,Snacks,Mainstream
+500849,2023-10-31 00:00:00,,F,Portland,Platinum,1,123,Bakery,Mainstream
+500850,2021-09-08 00:00:00,22,M,Tulsa,Platinum,0,139,Household,Upscale
+500851,2021-10-09 00:00:00,29,F,Portland,Silver,1,102,Personal Care,Upscale
+500852,2023-02-12 00:00:00,69,F,Raleigh,Silver,0,119,Bakery,Mainstream
+500853,2023-02-17 00:00:00,37,Other,Portland,Gold,1,133,Household,Value
+500854,2021-08-18 00:00:00,57,F,Spokane,Silver,0,106,Dairy,Upscale
+500855,2024-01-20 00:00:00,27,F,Nashville,Gold,1,109,Personal Care,
+500856,2021-10-27 00:00:00,39,M,Raleigh,Silver,1,124,Frozen Foods,Value
+500857,2021-04-03 00:00:00,36,F,Austin,Silver,1,137,Household,Mainstream
+500858,2022-11-26 00:00:00,65,F,Nashville,Silver,0,104,Snacks,Value
+500859,2021-12-02 00:00:00,40,M,Spokane,Silver,1,103,Household,Mainstream
+500860,2022-01-19 00:00:00,63,F,Madison,Silver,0,135,Household,Mainstream
+500861,2021-06-18 00:00:00,70,F,Raleigh,Silver,1,112,Bakery,Value
+500862,2024-03-23 00:00:00,36,M,Spokane,Platinum,0,121,Personal Care,Value
+500863,2022-01-28 00:00:00,30,Other,Austin,Gold,0,132,Produce,Value
+500864,2023-02-01 00:00:00,66,M,Boise,Silver,1,130,Household,Mainstream
+500865,2021-08-01 00:00:00,70,F,Portland,Gold,1,109,Dairy,Mainstream
+500866,2021-07-31 00:00:00,70,M,Portland,Silver,1,135,Snacks,Mainstream
+500867,2023-06-03 00:00:00,25,M,Spokane,Platinum,1,131,Beverages,Mainstream
+500868,2022-06-24 00:00:00,53,F,Nashville,Silver,1,132,Snacks,Value
+500869,2022-10-03 00:00:00,24,Other,Raleigh,Silver,0,121,Frozen Foods,Value
+500870,2022-07-20 00:00:00,38,F,Denver,Gold,0,132,Produce,Value
+500871,2021-09-02 00:00:00,41,M,Columbus,Silver,0,133,Frozen Foods,
+500872,2022-03-17 00:00:00,69,F,Columbus,Silver,1,132,Personal Care,Value
+500873,2021-11-30 00:00:00,59,F,Tulsa,Silver,1,131,Produce,Mainstream
+500874,2022-03-02 00:00:00,71,F,BOISE,Gold,0,116,Household,Mainstream
+500875,2023-07-15 00:00:00,65,M,Nashville,Silver,0,131,Frozen Foods,Mainstream
+500876,2022-06-20 00:00:00,37,F,Nashville,Gold,0,102,Produce,Upscale
+500877,2023-02-14 00:00:00,67,M,Tulsa,Gold,0,136,Household,Value
+500878,2022-12-27 00:00:00,22,F,Madison,Gold,1,111,Personal Care,Mainstream
+500879,2023-12-24 00:00:00,29,F,Boise,Gold,1,124,Frozen Foods,Value
+500880,2023-10-01 00:00:00,67,F,Tulsa,Silver,1,127,Dairy,Mainstream
+500881,2023-03-28 00:00:00,21,Other,Denver,Gold,1,131,Frozen Foods,Mainstream
+500882,2023-05-26 00:00:00,55,F,Raleigh,Silver,1,113,Personal Care,Value
+500883,2022-04-19 00:00:00,68,M,Austin,Silver,0,124,Produce,
+500884,2023-05-26 00:00:00,31,F,Madison,Silver,1,140,Bakery,Value
+500885,2023-07-18 00:00:00,57,M,Raleigh,Silver,0,140,Personal Care,Value
+500886,2022-12-16 00:00:00,50,M,Nashville,Silver,0,113,Produce,Value
+500887,2022-07-08 00:00:00,57,F,Denver,Gold,1,103,Dairy,Mainstream
+500888,2021-02-19 00:00:00,35,F,Tulsa,Platinum,0,129,Personal Care,Mainstream
+500889,2022-09-14 00:00:00,24,F,Raleigh,Silver,0,129,Bakery,Mainstream
+500890,2023-03-17 00:00:00,70,F,Nashville,Silver,1,105,Frozen Foods,Mainstream
+500891,2023-04-22 00:00:00,23,F,Columbus,Silver,1,102,Personal Care,Upscale
+500892,2022-11-26 00:00:00,37,M,Portland,Silver,1,119,Snacks,Mainstream
+500893,2021-05-14 00:00:00,18,M,Madison,Silver,1,119,Beverages,Mainstream
+500894,2023-02-23 00:00:00,29,F,Boise,Silver,0,133,Frozen Foods,Value
+500895,2023-07-19 00:00:00,55,F,Madison,Silver,1,130,Bakery,Mainstream
+500896,2022-06-22 00:00:00,20,M,Denver,Gold,1,137,Produce,Mainstream
+500897,2021-11-10 00:00:00,30,F,Columbus,Silver,0,134,Bakery,Value
+500898,2021-04-19 00:00:00,37,F,Spokane,Silver,1,103,Bakery,Mainstream
+500899,2023-06-09 00:00:00,36,F,Denver,Gold,1,125,Beverages,Value
+500900,2021-06-27 00:00:00,74,F,Spokane,Platinum,0,133,Frozen Foods,Value
+500901,2021-08-06 00:00:00,28,F,Tulsa,Silver,1,118,Household,Mainstream
+500902,2023-02-16 00:00:00,30,M,Madison,Platinum,0,139,Frozen Foods,Upscale
+500903,2023-04-06 00:00:00,61,F,Nashville,Silver,0,131,Snacks,Mainstream
+500904,2023-06-25 00:00:00,,F,Nashville,Silver,1,101,Household,Mainstream
+500905,2023-04-27 00:00:00,46,M,Columbus,Silver,1,132,Personal Care,Value
+500906,2021-07-03 00:00:00,73,F, Nashville ,Silver,0,133,Dairy,Value
+500907,2023-05-05 00:00:00,29,F,Madison,Platinum,1,116,Household,Mainstream
+500908,2022-10-03 00:00:00,18,F,Nashville,Platinum,0,102,Household,Upscale
+500909,2021-05-05 00:00:00,68,F,Denver,Silver,0,107,Bakery,Value
+500910,2022-02-20 00:00:00,34,M,Nashville,Silver,0,128,Produce,Upscale
+500911,2023-12-02 00:00:00,36,F,Denver,Silver,1,116,Produce,Mainstream
+500912,2024-02-07 00:00:00,64,F,Columbus,PLATINUM,0,140,Dairy,Value
+500913,2023-08-15 00:00:00,53,F,Austin,Silver,1,119,Frozen Foods,Mainstream
+500914,2021-07-24 00:00:00,23,F,Boise,Silver,0,104,Personal Care,Value
+500915,2023-08-11 00:00:00,68,M,Portland,Gold,0,136,Frozen Foods,Value
+500916,2023-05-02 00:00:00,70,,Madison,Silver,1,130,Bakery,Mainstream
+500917,2022-08-10 00:00:00,18,F,Tulsa,Silver,1,137,Household,Mainstream
+500918,2022-10-02 00:00:00,65,F,Raleigh,Platinum,0,105,Bakery,Mainstream
+500919,2024-02-04 00:00:00,28,M,Columbus,Gold,1,140,Personal Care,Value
+500920,2023-09-14 00:00:00,26,F,Madison,Silver,1,124,Snacks,
+500921,2021-02-24 00:00:00,61,M,Tulsa,Platinum,0,140,Frozen Foods,Value
+500922,2022-12-28 00:00:00,51,M,Columbus,Silver,0,114,Household,Mainstream
+500923,2023-06-12 00:00:00,42,F,Columbus,Silver,0,124,Beverages,Value
+500924,2021-09-07 00:00:00,49,F,Madison,Platinum,1,123,Dairy,Mainstream
+500925,2022-11-04 00:00:00,29,M,Tulsa,Silver,0,104,Personal Care,Value
+500926,2021-09-07 00:00:00,57,F,Spokane,Gold,1,131,Personal Care,Mainstream
+500927,2023-10-29 00:00:00,38,F,Raleigh,Gold,1,120,Frozen Foods,Upscale
+500928,2022-10-26 00:00:00,35,F,Tulsa,Silver,1,108,Frozen Foods,
+500929,2021-09-28 00:00:00,49,M,Boise,Platinum,1,109,Beverages,Mainstream
+500930,2021-11-16 00:00:00,39,M,Spokane,Silver,1,112,Bakery,Value
+500931,2022-03-03 00:00:00,21,M,Columbus,Silver,1,114,Snacks,Mainstream
+500932,2022-11-14 00:00:00,31,M,Boise,Silver,1,105,Snacks,Mainstream
+500933,2021-09-11 00:00:00,73,F,Nashville,Silver,1,126,Household,Mainstream
+500934,2023-02-21 00:00:00,34,Other,Tulsa,Platinum,0,117,Personal Care,Upscale
+500935,2022-03-22 00:00:00,40,M,Denver,Gold,1,120,Bakery,Upscale
+500936,2022-08-03 00:00:00,28,M,Nashville,Silver,1,104,Beverages,Value
+500937,2023-05-16 00:00:00,20,M,Spokane,Gold,0,140,Produce,Value
+500938,2023-09-10 00:00:00,69,M,denver,Gold,0,102,Household,Upscale
+500939,2022-08-19 00:00:00,51,M,Austin,Gold,0,129,Snacks,Mainstream
+500940,2023-04-28 00:00:00,68,F,Austin,Silver,1,130,Dairy,Mainstream
+500941,2022-09-06 00:00:00,65,F,Madison,Silver,1,129,Household,Mainstream
+500942,2022-01-27 00:00:00,38,,Madison,Gold,1,129,Personal Care,Mainstream
+500943,2021-10-07 00:00:00,45,M,Raleigh,Gold,0,124,Personal Care,Value
+500944,2021-11-13 00:00:00,57,Other,Austin,Silver,0,102,Personal Care,Upscale
+500945,2022-09-13 00:00:00,62,M,Spokane,Silver,1,112,Personal Care,Value
+500946,2024-02-26 00:00:00,45,F,Tulsa,Silver,0,127,Personal Care,Mainstream
+500947,2023-10-04 00:00:00,20,F,Nashville,Silver,1,133,Dairy,Value
+500948,2021-12-27 00:00:00,34,F,Austin,Platinum,0,127,Frozen Foods,Mainstream
+500949,2022-06-06 00:00:00,35,F,Raleigh,Silver,0,138,Snacks,
+500950,2021-09-19 00:00:00,37,F,Boise,Gold,1,114,Snacks,Mainstream
+500951,2022-10-06 00:00:00,51,F,Columbus,Gold,1,124,Bakery,Value
+500952,2022-11-29 00:00:00,73,M,Spokane,Silver,0,112,Beverages,Value
+500953,2023-07-21 00:00:00,26,M,Boise,Silver,1,121,Snacks,Value
+500954,2024-02-19 00:00:00,37,F,Tulsa,Silver,1,110,Personal Care,Mainstream
+500955,2023-11-17 00:00:00,33,F,Raleigh,Silver,1,105,Snacks,Mainstream
+500956,2022-02-23 00:00:00,,F,Denver,Gold,0,125,Household,Value
+500957,2022-06-24 00:00:00,64,M,Austin,Platinum,1,109,Personal Care,Mainstream
+500958,2023-07-19 00:00:00,71,M,Boise,Platinum,1,106,Beverages,Upscale
+500959,2023-03-05 00:00:00,46,F,Denver,GOLD,1,115,Personal Care,Mainstream
+500960,2022-04-11 00:00:00,34,M,Nashville,Silver,1,122,Produce,Value
+500961,2023-02-10 00:00:00,30,F,Austin,Silver,1,123,Dairy,Mainstream
+500962,2023-02-17 00:00:00,64,F,Madison,Gold,0,117,Bakery,Upscale
+500963,2023-06-21 00:00:00,20,M,Madison,Silver,1,134,Produce,Value
+500964,2022-04-18 00:00:00,24,M,AUSTIN,Gold,1,121,Snacks,Value
+500965,2021-06-26 00:00:00,21,M,Nashville,GOLD,1,128,Frozen Foods,Upscale
+500966,2023-07-05 00:00:00,59,F,Columbus,Silver,1,131,Personal Care,Mainstream
+500967,2023-05-28 00:00:00,66,F,DENVER,Gold,0,116,Snacks,Mainstream
+500968,2022-10-23 00:00:00,63,F,spokane,Silver,1,110,Frozen Foods,Mainstream
+500969,2023-09-23 00:00:00,33,Other,Boise,Silver,1,132,Bakery,Value
+500970,2022-08-28 00:00:00,65,M,Madison,Platinum,1,113,Frozen Foods,Value
+500971,2021-07-02 00:00:00,18,M,Portland,Gold,0,118,Snacks,Mainstream
+500972,2022-04-25 00:00:00,73,F,Spokane,Gold,1,120,Snacks,Upscale
+500973,2023-10-23 00:00:00,52,Other,Denver,Platinum,1,129,Produce,Mainstream
+500974,2023-09-08 00:00:00,58,F,Raleigh,Silver,0,114,Frozen Foods,Mainstream
+500975,2024-02-03 00:00:00,,M,Austin,Gold,1,109,Beverages,Mainstream
+500976,2021-04-03 00:00:00,73,M,Tulsa,Silver,1,128,Snacks,Upscale
+500977,2023-03-25 00:00:00,40,M,Tulsa,Silver,1,133,Beverages,Value
+500978,2023-05-30 00:00:00,33,M,Spokane,Silver,0,106,Bakery,Upscale
+500979,2021-08-02 00:00:00,66,F,Boise,Silver,1,140,Frozen Foods,Value
+500980,2023-05-10 00:00:00,47,F,Tulsa,Gold,0,137,Frozen Foods,Mainstream
+500981,2023-08-04 00:00:00,25,,Portland,Gold,1,112,Frozen Foods,Value
+500982,2023-07-08 00:00:00,30,M,Denver,Gold,0,138,Produce,Value
+500983,2023-01-25 00:00:00,38,F,Spokane,Silver,1,102,Household,Upscale
+500984,2024-02-14 00:00:00,22,F,Austin,Gold,0,106,Snacks,Upscale
+500985,2022-04-14 00:00:00,46,M,Austin,Silver,0,140,Dairy,Value
+500986,2022-12-25 00:00:00,43,M,Denver,Silver,1,120,Personal Care,Upscale
+500987,2021-03-24 00:00:00,54,M,Madison,Gold,0,116,Frozen Foods,Mainstream
+500988,2021-11-11 00:00:00,59,F,Austin,Silver,1,114,Household,Mainstream
+500989,2023-02-08 00:00:00,25,M,Columbus,Platinum,1,115,Beverages,Mainstream
+500990,2022-01-23 00:00:00,62,Other,Denver,Silver,0,114,Personal Care,Mainstream
+500991,2021-10-02 00:00:00,64,M,Madison,Silver,1,109,Household,Mainstream
+500992,2023-09-17 00:00:00,18,M,Portland,Gold,1,109,Beverages,Mainstream
+500993,2023-10-29 00:00:00,61,M,Tulsa,Gold,0,118,Beverages,Mainstream
+500994,2023-11-24 00:00:00,,M,Tulsa,Silver,1,122,Snacks,Value
+500995,2024-03-10 00:00:00,40,F,Tulsa,Silver,0,135,Personal Care,Mainstream
+500996,2023-04-22 00:00:00,32,F,Madison,Silver,0,133,Dairy,Value
+500997,2021-10-17 00:00:00,49,M,Madison,Silver,0,117,Personal Care,Upscale
+500998,2021-11-16 00:00:00,34,M,Nashville,Silver,1,110,Beverages,Mainstream
+500999,2023-02-15 00:00:00,29,Other,Columbus,Gold,0,103,Personal Care,Mainstream
+501000,2022-10-09 00:00:00,65,,Austin,Gold,0,132,Beverages,Value
+501001,2021-11-17 00:00:00,52,F,Austin,Silver,1,106,Personal Care,Upscale
+501002,2021-05-18 00:00:00,68,M,spokane,Silver,0,130,Beverages,Mainstream
+501003,2023-06-08 00:00:00,58,M,Portland,silver,1,127,Personal Care,Mainstream
+501004,2022-03-27 00:00:00,59,F,Spokane,Gold,1,126,Household,Mainstream
+501005,2022-06-08 00:00:00,62,M,Tulsa,Silver,1,132,Household,Value
+501006,2022-05-07 00:00:00,36,F,Spokane,Platinum,1,136,Beverages,Value
+501007,2021-10-06 00:00:00,25,Other,Tulsa,Silver,1,135,Dairy,Mainstream
+501008,2021-11-16 00:00:00,44,F,Denver,Silver,0,125,Household,Value
+501009,2023-01-26 00:00:00,73,F,Boise,Gold,0,101,Bakery,Mainstream
+501010,2021-12-07 00:00:00,65,M,Raleigh,Platinum,1,132,Snacks,Value
+501011,2024-02-28 00:00:00,59,F,Columbus,Gold,1,102,Personal Care,Upscale
+501012,2023-03-27 00:00:00,38,F,Tulsa,Gold,1,139,Personal Care,Upscale
+501013,2023-08-22 00:00:00,29,F,Austin,Silver,1,131,Personal Care,Mainstream
+501014,2023-07-07 00:00:00,63,F,Raleigh,Silver,1,135,Bakery,Mainstream
+501015,2021-06-12 00:00:00,43,F,Madison,Silver,0,140,Dairy,Value
+501016,2022-12-07 00:00:00,62,F,Austin,Gold,0,124,Dairy,Value
+501017,2024-02-07 00:00:00,30,M,Raleigh,Silver,1,119,Dairy,Mainstream
+501018,2022-10-08 00:00:00,44,,Spokane,Gold,1,112,Dairy,Value
+501019,2024-02-11 00:00:00,63,M,Boise,Silver,0,126,Bakery,Mainstream
+501020,2023-11-19 00:00:00,69,M,Raleigh,Silver,1,125,Frozen Foods,Value
+501021,2023-02-09 00:00:00,20,M,Denver,silver,1,114,Dairy,Mainstream
+501022,2022-12-03 00:00:00,39,F,Denver,Silver,0,129,Beverages,Mainstream
+501023,2023-08-05 00:00:00,33,M,Austin,Silver,1,137,Household,Mainstream
+501024,2022-04-15 00:00:00,60,F,Portland, Silver ,0,129,Frozen Foods,Mainstream
+501025,2022-09-29 00:00:00,62,F,Raleigh,Silver,1,103,Personal Care,Mainstream
+501026,2023-11-26 00:00:00,54,M,Boise,Gold,0,116,Beverages,Mainstream
+501027,2021-09-14 00:00:00,60,M,Boise,Silver,0,129,Personal Care,Mainstream
+501028,2023-11-23 00:00:00,36,F,Columbus,Gold,0,130,Frozen Foods,Mainstream
+501029,2023-03-09 00:00:00,,F,Portland,Silver,1,112,Household,Value
+501030,2023-10-12 00:00:00,48,M,Boise,Silver,0,114,Household,Mainstream
+501031,2021-04-25 00:00:00,19,F,Boise,Silver,1,130,Frozen Foods,Mainstream
+501032,2023-06-06 00:00:00,52,F,Columbus,Gold,1,106,Frozen Foods,Upscale
+501033,2021-07-23 00:00:00,52,F,Columbus,Platinum,0,134,Frozen Foods,Value
+501034,2021-04-03 00:00:00,48,F,Nashville,Gold,1,139,Dairy,Upscale
+501035,2023-08-20 00:00:00,,F,Portland,Silver,0,127,Snacks,Mainstream
+501036,2024-04-02 00:00:00,24,M,Columbus,Gold,1,137,Frozen Foods,Mainstream
+501037,2024-04-17 00:00:00,41,F,Nashville,Silver,0,116,Dairy,Mainstream
+501038,2023-10-01 00:00:00,74,F,Austin,Platinum,0,117,Dairy,Upscale
+501039,2023-01-20 00:00:00,32,M,Denver,Silver,1,109,Household,Mainstream
+501040,2023-10-22 00:00:00,73,M,Madison, Gold ,0,123,Household,Mainstream
+501041,2021-04-09 00:00:00,18,M,Raleigh,Silver,1,125,Dairy,Value
+501042,2022-10-26 00:00:00,20,F,Portland,Gold,0,101,Beverages,Mainstream
+501043,2021-08-14 00:00:00,30,M,Nashville,Gold,0,116,Bakery,Mainstream
+501044,2024-04-15 00:00:00,71,F,Boise,SILVER,0,139,Dairy,Upscale
+501045,2023-11-29 00:00:00,54,M, Nashville ,Gold,0,124,Personal Care,Value
+501046,2022-11-13 00:00:00,48,F,Madison,Silver,1,115,Produce,Mainstream
+501047,2023-10-25 00:00:00,24,F,Madison,Silver,1,118,Snacks,Mainstream
+501048,2023-10-25 00:00:00,25,M,Columbus,Silver,0,125,Produce,Value
+501049,2024-04-04 00:00:00,66,M,Tulsa,Silver,1,104,Bakery,Value
+501050,2023-06-22 00:00:00,64,Other,Denver,Silver,1,106,Produce,Upscale
+501051,2021-11-21 00:00:00,21,M,Nashville,Silver,1,117,Snacks,Upscale
+501052,2021-10-18 00:00:00,42,F,Raleigh,Silver,0,106,Beverages,Upscale
+501053,2022-09-15 00:00:00,49,F,Spokane,Silver,1,131,Household,Mainstream
+501054,2023-09-30 00:00:00,58,M,Columbus,Gold,0,124,Beverages,Value
+501055,2022-11-23 00:00:00,18,F,Boise,Silver,1,118,Personal Care,Mainstream
+501056,2022-05-11 00:00:00,,,Madison,Gold,1,127,Produce,Mainstream
+501057,2023-11-12 00:00:00,47,Other,Nashville,SILVER,0,139,Produce,Upscale
+501058,2023-01-13 00:00:00,48,F,Austin,Silver,1,140,Produce,Value
+501059,2021-09-13 00:00:00,38,F,Raleigh,Gold,0,113,Personal Care,Value
+501060,2022-12-31 00:00:00,20,F,Boise,silver,1,128,Produce,Upscale
+501061,2022-10-30 00:00:00,71,F,Nashville,Silver,1,119,Produce,Mainstream
+501062,2021-09-20 00:00:00,64,F,Denver,Silver,1,125,Beverages,Value
+501063,2022-03-09 00:00:00,65,F,Tulsa,Silver,0,126,Produce,Mainstream
+501064,2023-10-27 00:00:00,57,M,Columbus,Silver,1,125,Personal Care,Value
+501065,2022-05-20 00:00:00,45,F,Tulsa,PLATINUM,0,113,Household,Value
+501066,2021-05-18 00:00:00,69,M,Austin,Silver,0,111,Frozen Foods,Mainstream
+501067,2023-08-29 00:00:00,24,F,Tulsa,Silver,1,120,Household,Upscale
+501068,2021-06-22 00:00:00,33,F,Madison,Gold,0,115,Snacks,Mainstream
+501069,2022-06-16 00:00:00,43,M,Denver,Silver,0,108,Personal Care,Upscale
+501070,2022-03-13 00:00:00,62,F,Raleigh,Silver,0,126,Household,Mainstream
+501071,2023-04-11 00:00:00,37,M,Boise,Silver,1,117,Produce,Upscale
+501072,2024-03-06 00:00:00,67,F,Tulsa,Silver,1,106,Bakery,Upscale
+501073,2024-04-01 00:00:00,35,M,Raleigh,Gold,1,111,Beverages,Mainstream
+501074,2022-03-18 00:00:00,38,M,Denver,Silver,0,113,Produce,Value
+501075,2021-03-10 00:00:00,36,F,Portland,Gold,1,104,Personal Care,Value
+501076,2022-05-31 00:00:00,41,F,Portland,Silver,0,107,Beverages,Value
+501077,2023-03-11 00:00:00,64,F,Portland,Gold,0,123,Personal Care,Mainstream
+501078,2021-11-11 00:00:00,37,F,Madison,Platinum,1,102,Dairy,Upscale
+501079,2021-04-22 00:00:00,45,F,Denver,Gold,0,121,Bakery,Value
+501080,2023-08-26 00:00:00,18,F,Tulsa,Platinum,1,119,Snacks,Mainstream
+501081,2024-01-02 00:00:00,49,F,Raleigh,Silver,1,112,Beverages,Value
+501082,2021-04-13 00:00:00,31,F,Boise,Silver,0,115,Produce,Mainstream
+501083,2024-03-11 00:00:00,46,F,Portland,Silver,0,137,Snacks,Mainstream
+501084,2021-07-01 00:00:00,36,F,Raleigh,Gold,0,123,Household,Mainstream
+501085,2023-11-16 00:00:00,39,F,Raleigh,Silver,1,140,Beverages,Value
+501086,2023-12-21 00:00:00,24,M,Columbus,Gold,1,116,Frozen Foods,Mainstream
+501087,2023-06-14 00:00:00,44,F,Denver,Silver,1,115,Bakery,
+501088,2023-04-30 00:00:00,61,Other,Spokane,Platinum,1,103,Household,Mainstream
+501089,2023-04-12 00:00:00,52,F,Madison,Silver,1,139,Personal Care,Upscale
+501090,2024-03-26 00:00:00,42,M,Columbus,Silver,1,135,Bakery,Mainstream
+501091,2021-08-07 00:00:00,66,F,Nashville,silver,1,140,Bakery,Value
+501092,2021-09-03 00:00:00,50,F,Austin,Silver,0,102,Dairy,Upscale
+501093,2022-02-27 00:00:00,,F,Denver,Platinum,1,137,Household,Mainstream
+501094,2021-05-28 00:00:00,34,M,Tulsa,Silver,1,101,Bakery,Mainstream
+501095,2021-05-01 00:00:00,57,F,Raleigh,Gold,1,116,Household,Mainstream
+501096,2021-03-01 00:00:00,38,M,Denver,Silver,1,101,Frozen Foods,Mainstream
+501097,2023-02-18 00:00:00,29,M,Spokane,Silver,0,128,Personal Care,Upscale
+501098,2022-05-18 00:00:00,60,F,Boise,Gold,1,132,Snacks,Value
+501099,2021-11-22 00:00:00,50,F, Austin ,Gold,1,112,Bakery,Value
+501100,2022-03-15 00:00:00,44,F,Boise,Gold,1,115,Bakery,Mainstream
+501101,2021-10-20 00:00:00,58,F,Boise,Silver,1,140,Frozen Foods,Value
+501102,2022-03-01 00:00:00,52,M,Portland, Silver ,0,138,Personal Care,Value
+501103,2023-02-05 00:00:00,61,F,Boise,Silver,0,108,Household,Upscale
+501104,2022-07-05 00:00:00,,M,Raleigh,Silver,0,113,Bakery,Value
+501105,2023-09-13 00:00:00,74,F,Nashville,Silver,0,113,Frozen Foods,Value
+501106,2021-04-14 00:00:00,49,F,Nashville,Silver,1,117,Produce,
+501107,2021-06-20 00:00:00,44,M,Nashville,Silver,0,130,Snacks,Mainstream
+501108,2022-05-22 00:00:00,69,F,Denver,Platinum,1,128,Dairy,Upscale
+501109,2021-11-17 00:00:00,74,M,Portland,Gold,1,131,Beverages,Mainstream
+501110,2023-04-06 00:00:00,33,F,Denver,Silver,0,138,Produce,Value
+501111,2023-02-11 00:00:00,31,F, Portland ,Gold,1,122,Beverages,Value
+501112,2022-09-10 00:00:00,47,F,Portland,Silver,0,137,Snacks,Mainstream
+501113,2023-06-28 00:00:00,22,F,Madison,Silver,1,140,Beverages,Value
+501114,2024-04-11 00:00:00,57,M,Denver,Gold,0,116,Snacks,Mainstream
+501115,2023-01-26 00:00:00,,M,Nashville,Gold,0,125,Frozen Foods,Value
+501116,2022-01-06 00:00:00,22,F,Austin,Gold,0,128,Dairy,Upscale
+501117,2023-07-03 00:00:00,33,M,Madison,Gold,0,131,Frozen Foods,Mainstream
+501118,2022-02-11 00:00:00,72,,Portland,Gold,0,103,Beverages,Mainstream
+501119,2022-06-02 00:00:00,28,F,Nashville,Gold,1,115,Frozen Foods,Mainstream
+501120,2022-12-27 00:00:00,46,Other,Tulsa,Silver,1,123,Personal Care,Mainstream
+501121,2022-01-05 00:00:00,56,F,Boise,Platinum,0,103,Produce,Mainstream
+501122,2021-08-10 00:00:00,31,M,Raleigh,Gold,0,126,Dairy,Mainstream
+501123,2021-04-15 00:00:00,37,F,Madison,Gold,0,137,Bakery,Mainstream
+501124,2021-12-01 00:00:00,61,F,Austin,Gold,1,112,Dairy,Value
+501125,2024-01-16 00:00:00,42,F,RALEIGH,Silver,0,129,Snacks,Mainstream
+501126,2023-04-05 00:00:00,64,M,Boise,Silver,1,127,Household,Mainstream
+501127,2022-08-24 00:00:00,21,F,Nashville,Gold,0,112,Frozen Foods,Value
+501128,2024-02-02 00:00:00,53,M,Boise,Gold,0,113,Snacks,Value
+501129,2022-12-30 00:00:00,37,M,Madison,Platinum,1,123,Personal Care,Mainstream
+501130,2023-11-30 00:00:00,70,F,Tulsa,Silver,1,131,Dairy,Mainstream
+501131,2022-07-24 00:00:00,43,F,Spokane,Gold,1,108,Beverages,Upscale
+501132,2023-09-30 00:00:00,23,M,Tulsa,GOLD,1,103,Frozen Foods,Mainstream
+501133,2023-06-20 00:00:00,65,F,Portland,Silver,1,121,Produce,Value
+501134,2023-05-13 00:00:00,48,F,Columbus,Gold,0,121,Bakery,Value
+501135,2021-03-21 00:00:00,21,F,Portland,Silver,0,102,Personal Care,Upscale
+501136,2022-11-26 00:00:00,60,M,Madison,Silver,1,139,Snacks,Upscale
+501137,2022-07-22 00:00:00,51,M,Spokane,Silver,1,122,Household,Value
+501138,2021-05-13 00:00:00,70,M,Raleigh,Gold,1,126,Dairy,Mainstream
+501139,2024-04-16 00:00:00,58,M,Spokane,Gold,0,129,Dairy,Mainstream
+501140,2023-06-12 00:00:00,54,,Austin,Gold,1,138,Personal Care,Value
+501141,2022-12-23 00:00:00,30,M,Nashville,Gold,1,140,Bakery,Value
+501142,2021-06-16 00:00:00,52,M,Tulsa,Platinum,0,138,Household,Value
+501143,2022-01-08 00:00:00,27,F,Austin,Platinum,0,108,Bakery,Upscale
+501144,2022-02-26 00:00:00,40,M,Tulsa,Gold,0,131,Frozen Foods,
+501145,2023-02-15 00:00:00,42,F,Columbus,Silver,0,128,Produce,Upscale
+501146,2021-08-08 00:00:00,50,M,Raleigh,Silver,1,133,Dairy,Value
+501147,2023-09-28 00:00:00,29,M,Portland,Silver,1,130,Dairy,Mainstream
+501148,2023-01-17 00:00:00,49,M,Nashville,silver,0,130,Personal Care,Mainstream
+501149,2023-03-12 00:00:00,36,M, Portland ,Silver,1,133,Household,Value
+501150,2024-04-29 00:00:00,69,Other,Boise,Silver,1,121,Household,Value
+501151,2024-01-17 00:00:00,74,F,Spokane,Gold,1,135,Snacks,Mainstream
+501152,2021-10-25 00:00:00,65,F,Boise,Silver,1,132,Produce,Value
+501153,2021-04-24 00:00:00,31,F,Portland,Gold,0,122,Bakery,Value
+501154,2023-07-20 00:00:00,60,M,Raleigh,Silver,0,132,Dairy,Value
+501155,2024-02-02 00:00:00,73,F,Denver,Silver,0,112,Frozen Foods,
+501156,2023-11-18 00:00:00,70,F,Denver,Silver,0,135,Personal Care,Mainstream
+501157,2024-02-24 00:00:00,67,F,Raleigh,Silver,0,106,Household,Upscale
+501158,2021-10-10 00:00:00,21,M,Columbus,Silver,0,101,Snacks,Mainstream
+501159,2024-03-07 00:00:00,26,F,Spokane,Silver,1,131,Dairy,Mainstream
+501160,2022-02-19 00:00:00,61,M,Spokane,Silver,1,102,Bakery,Upscale
+501161,2021-10-17 00:00:00,35,F,Austin,Gold,0,121,Bakery,Value
+501162,2023-08-28 00:00:00,,M,Nashville,Silver,0,119,Bakery,Mainstream
+501163,2023-08-09 00:00:00,45,M,Raleigh,Platinum,0,119,Household,Mainstream
+501164,2023-06-24 00:00:00,60,F,Tulsa,gold,0,129,Dairy,Mainstream
+501165,2021-11-26 00:00:00,60,F,Boise,Silver,0,123,Bakery,Mainstream
+501166,2021-04-30 00:00:00,34,F,Austin,SILVER,1,117,Household,Upscale
+501167,2021-12-01 00:00:00,63,F,Raleigh,Gold,1,128,Bakery,Upscale
+501168,2023-06-23 00:00:00,44,F,Raleigh,Silver,1,116,Bakery,Mainstream
+501169,2022-01-15 00:00:00,51,F,Denver,Gold,1,118,Frozen Foods,Mainstream
+501170,2022-02-01 00:00:00,65,F,Tulsa,Silver,1,101,Bakery,Mainstream
+501171,2022-12-24 00:00:00,34,F,Columbus,Silver,0,121,Produce,Value
+501172,2023-12-03 00:00:00,20,F,Boise,Silver,1,125,Personal Care,Value
+501173,2023-04-30 00:00:00,55,M,Raleigh,Silver,1,111,Personal Care,Mainstream
+501174,2021-09-22 00:00:00,,M,Spokane, Silver ,1,139,Dairy,Upscale
+501175,2022-09-07 00:00:00,32,F,Austin,Gold,0,139,Frozen Foods,Upscale
+501176,2023-12-17 00:00:00,45,F,Nashville,Gold,0,125,Household,Value
+501177,2021-05-29 00:00:00,67,F,Tulsa,Silver,1,133,Personal Care,Value
+501178,2022-09-07 00:00:00,66,F,Portland,Silver,0,110,Personal Care,Mainstream
+501179,2023-03-21 00:00:00,59,F,Nashville,Silver,1,114,Beverages,Mainstream
+501180,2024-03-22 00:00:00,33,F,Austin,Gold,0,126,Household,Mainstream
+501181,2022-07-03 00:00:00,71,F,Raleigh,Silver,0,105,Personal Care,Mainstream
+501182,2022-07-29 00:00:00,64,M,Portland,Silver,1,115,Household,Mainstream
+501183,2023-11-08 00:00:00,20,F,Tulsa,Silver,0,112,Dairy,Value
+501184,2021-08-16 00:00:00,31,M,nashville,Platinum,0,115,Snacks,Mainstream
+501185,2022-09-21 00:00:00,24,F,Raleigh,Gold,1,124,Personal Care,Value
+501186,2024-01-25 00:00:00,35,F,Spokane,Silver,1,103,Household,Mainstream
+501187,2023-09-17 00:00:00,56,F,Spokane,Gold,0,121,Produce,Value
+501188,2023-06-17 00:00:00,49,F,Raleigh,Silver,0,129,Dairy,Mainstream
+501189,2021-12-07 00:00:00,,F,Raleigh,Silver,1,105,Snacks,Mainstream
+501190,2021-11-20 00:00:00,55,F,Tulsa,Gold,1,101,Personal Care,Mainstream
+501191,2021-09-14 00:00:00,51,M,Nashville,Silver,1,106,Household,Upscale
+501192,2022-05-22 00:00:00,68,F,Boise,Gold,1,134,Household,Value
+501193,2021-06-03 00:00:00,35,F,Denver,Platinum,0,125,Frozen Foods,Value
+501194,2023-05-03 00:00:00,68,F,Denver,Silver,0,101,Produce,Mainstream
+501195,2022-06-20 00:00:00,55,M,Denver,Gold,1,116,Household,Mainstream
+501196,2022-04-28 00:00:00,32,M,Columbus,Gold,0,132,Produce,
+501197,2023-02-27 00:00:00,36,M,Austin,Silver,1,135,Bakery,Mainstream
+501198,2022-11-17 00:00:00,60,F,Raleigh,Silver,0,114,Household,Mainstream
+501199,2022-01-28 00:00:00,57,M,Madison,Silver,1,124,Snacks,Value
+501200,2021-07-29 00:00:00,54,M,Denver,Silver,1,114,Snacks,Mainstream
+501201,2021-05-20 00:00:00,40,F,Raleigh,Silver,0,126,Frozen Foods,
+501202,2023-05-26 00:00:00,40,M,Austin,Silver,0,120,Beverages,Upscale
+501203,2022-01-14 00:00:00,49,M,Boise,Silver,1,134,Personal Care,Value
+501204,2021-11-28 00:00:00,62,F,Boise,Silver,1,108,Household,
+501205,2021-05-02 00:00:00,32,F,Spokane,Silver,1,106,Beverages,Upscale
+501206,2022-04-20 00:00:00,69,M,Tulsa,Gold,1,109,Snacks,Mainstream
+501207,2023-09-10 00:00:00,29,F,Tulsa,Gold,0,114,Dairy,Mainstream
+501208,2021-12-18 00:00:00,45,F,Austin,Gold,1,129,Bakery,Mainstream
+501209,2023-10-16 00:00:00,35,M,Denver,Gold,1,115,Produce,Mainstream
+501210,2023-02-15 00:00:00,70,Other,Austin,Gold,0,137,Beverages,Mainstream
+501211,2022-10-08 00:00:00,28,F,Madison,Silver,1,111,Dairy,Mainstream
+501212,2022-01-05 00:00:00,25,F,Madison,Silver,1,106,Dairy,
+501213,2023-10-19 00:00:00,56,M,Nashville,Silver,0,110,Frozen Foods,Mainstream
+501214,2022-02-05 00:00:00,27,M,Nashville,Gold,0,112,Beverages,
+501215,2023-11-16 00:00:00,74,F,denver,Silver,0,102,Dairy,
+501216,2023-02-04 00:00:00,61,M,Portland,Silver,1,140,Produce,Value
+501217,2023-12-12 00:00:00,68,F,Austin,Silver,1,115,Household,Mainstream
+501218,2024-04-02 00:00:00,35,M,Boise,Platinum,1,128,Frozen Foods,Upscale
+501219,2023-04-17 00:00:00,60,F,Columbus,Gold,1,101,Dairy,
+501220,2021-04-02 00:00:00,51,M,Tulsa,Silver,0,137,Bakery,Mainstream
+501221,2022-07-16 00:00:00,42,F,Madison,Gold,1,118,Bakery,Mainstream
+501222,2022-01-19 00:00:00,46,M,Spokane,Silver,1,116,Frozen Foods,Mainstream
+501223,2023-08-09 00:00:00,18,F,Raleigh,Silver,1,114,Beverages,Mainstream
+501224,2023-09-06 00:00:00,26,F,Austin,Silver,1,131,Personal Care,Mainstream
+501225,2021-06-08 00:00:00,25,F,Tulsa,Platinum,0,103,Snacks,Mainstream
+501226,2021-12-29 00:00:00,60,F,Boise,Silver,0,129,Snacks,Mainstream
+501227,2022-10-09 00:00:00,33,F,Madison,Gold,1,133,Dairy,Value
+501228,2023-06-11 00:00:00,60,F,Nashville, Silver ,1,130,Beverages,Mainstream
+501229,2021-07-29 00:00:00,58,M,Tulsa,Silver,0,116,Bakery,Mainstream
+501230,2022-10-31 00:00:00,26,F,Columbus,Silver,0,120,Bakery,Upscale
+501231,2024-03-02 00:00:00,36,M,Austin,Silver,1,113,Dairy,Value
+501232,2021-07-31 00:00:00,32,F,Nashville,silver,1,112,Produce,Value
+501233,2022-12-31 00:00:00,24,M,Nashville,Silver,1,138,Snacks,Value
+501234,2022-11-25 00:00:00,63,M,Denver,Gold,0,115,Snacks,Mainstream
+501235,2023-02-11 00:00:00,39,M,Spokane,SILVER,1,139,Dairy,Upscale
+501236,2023-06-01 00:00:00,69,M,Austin,Silver,0,106,Produce,Upscale
+501237,2022-05-30 00:00:00,66,F,Columbus,Gold,1,113,Household,Value
+501238,2023-05-11 00:00:00,67,F,Austin,Gold,1,104,Bakery,Value
+501239,2022-09-15 00:00:00,60,F,Raleigh,Silver,1,132,Personal Care,Value
+501240,2024-02-02 00:00:00,46,M,Tulsa,Silver,1,116,Produce,Mainstream
+501241,2021-08-31 00:00:00,42,F,Boise,Silver,1,113,Bakery,Value
+501242,2023-08-20 00:00:00,38,M,Boise,Silver,1,135,Beverages,Mainstream
+501243,2022-05-25 00:00:00,,F,Denver,Silver,0,123,Personal Care,Mainstream
+501244,2023-06-20 00:00:00,43,M,Columbus,silver,0,114,Household,
+501245,2023-09-29 00:00:00,66,F,Boise,Platinum,1,116,Beverages,Mainstream
+501246,2023-10-13 00:00:00,28,M,Portland,Gold,1,123,Frozen Foods,Mainstream
+501247,2022-01-27 00:00:00,38,M,Boise,Silver,0,123,Dairy,Mainstream
+501248,2024-02-19 00:00:00,46,F,Boise,Gold,1,133,Bakery,Value
+501249,2021-10-14 00:00:00,34,M,Austin,Silver,1,116,Household,Mainstream
+501250,2022-11-05 00:00:00,31,F,Portland,Platinum,0,105,Personal Care,Mainstream
+501251,2022-11-18 00:00:00,50,,Nashville,Silver,0,132,Beverages,Value
+501252,2023-08-26 00:00:00,27,F,Portland,Gold,0,115,Beverages,Mainstream
+501253,2023-03-12 00:00:00,62,F,Boise,Silver,1,138,Personal Care,Value
+501254,2021-12-20 00:00:00,39,M,Spokane,Silver,0,115,Produce,Mainstream
+501255,2021-06-25 00:00:00,60,F,Austin,Gold,1,126,Bakery,Mainstream
+501256,2021-05-19 00:00:00,21,F,Raleigh,Silver,1,129,Dairy,Mainstream
+501257,2022-05-07 00:00:00,62,F,AUSTIN,Silver,0,105,Produce,Mainstream
+501258,2023-06-18 00:00:00,44,M,Raleigh,Silver,0,137,Frozen Foods,Mainstream
+501259,2024-02-02 00:00:00,66,M,Tulsa,Gold,0,139,Frozen Foods,Upscale
+501260,2022-07-03 00:00:00,57,F,Tulsa,Silver,0,101,Household,Mainstream
+501261,2022-07-27 00:00:00,63,M,Denver,Platinum,0,122,Frozen Foods,Value
+501262,2022-09-18 00:00:00,55,M,Denver,Silver,1,122,Household,
+501263,2022-08-26 00:00:00,24,M,Madison,Gold,1,118,Produce,Mainstream
+501264,2024-02-05 00:00:00,73,F,Portland,Silver,0,101,Household,Mainstream
+501265,2023-01-28 00:00:00,40,F,Tulsa,Gold,1,118,Bakery,Mainstream
+501266,2023-12-08 00:00:00,68,F,Boise,Silver,0,113,Frozen Foods,Value
+501267,2021-08-06 00:00:00,47,Other,Denver,Silver,1,121,Household,Value
+501268,2021-07-02 00:00:00,54,,Tulsa,Platinum,1,117,Beverages,Upscale
+501269,2021-09-12 00:00:00,28,F,Madison,Silver,0,107,Produce,Value
+501270,2022-10-26 00:00:00,69,M,madison,Silver,1,112,Bakery,Value
+501271,2021-10-07 00:00:00,63,F,Boise,Silver,1,129,Snacks,Mainstream
+501272,2021-10-04 00:00:00,43,F,Portland,PLATINUM,1,117,Produce,Upscale
+501273,2023-03-22 00:00:00,41,M,Raleigh,Gold,1,131,Beverages,Mainstream
+501274,2024-02-15 00:00:00,63,M,Nashville,Silver,1,115,Beverages,Mainstream
+501275,2021-08-20 00:00:00,27,F,Austin,Silver,1,137,Beverages,
+501276,2022-06-07 00:00:00,34,F,Columbus,Silver,1,120,Bakery,Upscale
+501277,2022-11-25 00:00:00,26,F,Tulsa,Silver,1,109,Beverages,Mainstream
+501278,2021-07-25 00:00:00,48,M,Austin,Platinum,1,111,Frozen Foods,Mainstream
+501279,2021-04-16 00:00:00,39,F,Portland,Gold,1,105,Beverages,Mainstream
+501280,2021-07-23 00:00:00,73,M,Denver,Gold,1,116,Frozen Foods,Mainstream
+501281,2024-04-18 00:00:00,68,M,Madison,Silver,1,119,Snacks,
+501282,2024-04-26 00:00:00,52,F,Austin,Silver,1,109,Beverages,Mainstream
+501283,2022-10-09 00:00:00,61,M,Tulsa,Silver,0,113,Dairy,Value
+501284,2022-08-31 00:00:00,46,F,Austin,Gold,0,117,Beverages,Upscale
+501285,2023-08-03 00:00:00,42,M,Columbus,Silver,0,117,Bakery,Upscale
+501286,2023-02-26 00:00:00,62,F,Nashville,Silver,0,129,Bakery,Mainstream
+501287,2022-07-10 00:00:00,38,F,Tulsa,Gold,1,111,Frozen Foods,Mainstream
+501288,2021-11-25 00:00:00,35,F,Nashville,Silver,1,102,Personal Care,Upscale
+501289,2021-11-29 00:00:00,26,F,Raleigh,Platinum,1,140,Household,Value
+501290,2024-02-07 00:00:00,65,F,Boise,Silver,0,140,Snacks,Value
+501291,2023-02-09 00:00:00,63,F,Nashville,Platinum,0,107,Bakery,Value
+501292,2023-06-28 00:00:00,19,F,Boise,Silver,1,106,Personal Care,Upscale
+501293,2023-05-30 00:00:00,66,F,Spokane,SILVER,0,103,Beverages,Mainstream
+501294,2021-09-25 00:00:00,,F,Raleigh,Silver,0,132,Snacks,Value
+501295,2022-12-18 00:00:00,,M, Tulsa ,Gold,0,115,Beverages,Mainstream
+501296,2022-10-31 00:00:00,28,Other,Tulsa,Platinum,0,112,Personal Care,Value
+501297,2021-03-14 00:00:00,27,F,Madison,Silver,1,112,Snacks,Value
+501298,2022-11-19 00:00:00,32,M,Nashville,Gold,0,103,Produce,Mainstream
+501299,2021-12-05 00:00:00,71,M,Madison,Gold,1,127,Frozen Foods,Mainstream
+501300,2021-03-26 00:00:00,71,F,Portland,Platinum,0,132,Frozen Foods,Value
+501301,2021-03-17 00:00:00,55,F,Madison,Silver,1,130,Produce,Mainstream
+501302,2023-04-24 00:00:00,19,M,Raleigh,Silver,1,123,Household,Mainstream
+501303,2023-01-16 00:00:00,53,F,Denver,Silver,1,122,Bakery,Value
+501304,2024-03-15 00:00:00,35,F,Tulsa,Silver,0,111,Dairy,Mainstream
+501305,2021-12-09 00:00:00,59,M,Portland,Silver,1,128,Frozen Foods,Upscale
+501306,2023-01-30 00:00:00,50,M,Spokane,Silver,0,116,Snacks,Mainstream
+501307,2024-04-18 00:00:00,67,M,Raleigh,Gold,1,121,Dairy,Value
+501308,2023-11-05 00:00:00,58,F,Madison,Silver,1,135,Bakery,Mainstream
+501309,2023-10-07 00:00:00,35,F,Nashville,Silver,1,135,Snacks,Mainstream
+501310,2024-01-28 00:00:00,62,F,Denver,Silver,1,129,Beverages,Mainstream
+501311,2024-02-10 00:00:00,31,F,Raleigh,Silver,0,130,Dairy,Mainstream
+501312,2022-07-08 00:00:00,39,M,Tulsa,Gold,0,112,Frozen Foods,Value
+501313,2023-08-03 00:00:00,31,M,Tulsa,Silver,0,115,Frozen Foods,Mainstream
+501314,2021-04-13 00:00:00,30,F,Denver,Silver,1,110,Snacks,Mainstream
+501315,2022-07-04 00:00:00,40,F,Denver,Silver,0,134,Personal Care,
+501316,2022-06-25 00:00:00,66,F,Tulsa,Platinum,1,123,Dairy,Mainstream
+501317,2022-08-28 00:00:00,43,F,Nashville,Silver,1,121,Bakery,Value
+501318,2022-04-06 00:00:00,24,M,Madison,Silver,0,105,Snacks,Mainstream
+501319,2021-10-30 00:00:00,60,Other,Columbus,Gold,1,104,Beverages,Value
+501320,2023-04-20 00:00:00,21,F,Tulsa,Platinum,1,110,Snacks,Mainstream
+501321,2022-05-16 00:00:00,50,M,Columbus,Gold,1,111,Beverages,Mainstream
+501322,2022-07-04 00:00:00,31,M,Austin,Gold,0,133,Snacks,Value
+501323,2022-02-20 00:00:00,69,F, Raleigh ,Silver,1,132,Dairy,Value
+501324,2021-12-04 00:00:00,46,M,Nashville,Platinum,1,130,Beverages,Mainstream
+501325,2021-11-21 00:00:00,41,M,Nashville,Gold,1,138,Frozen Foods,Value
+501326,2022-06-13 00:00:00,71,M,Austin, Silver ,1,102,Household,Upscale
+501327,2024-02-09 00:00:00,44,F,Austin,Gold,1,139,Beverages,Upscale
+501328,2021-10-06 00:00:00,59,F,Tulsa,Platinum,0,118,Household,Mainstream
+501329,2021-03-26 00:00:00,42,F,Portland,Gold,1,112,Beverages,Value
+501330,2022-07-28 00:00:00,,M,Boise,Gold,0,116,Produce,Mainstream
+501331,2022-12-05 00:00:00,46,M,Nashville, Gold ,0,108,Dairy,Upscale
+501332,2023-09-14 00:00:00,,F,Boise,Gold,1,130,Frozen Foods,Mainstream
+501333,2022-11-12 00:00:00,42,M,Portland,Gold,1,120,Bakery,Upscale
+501334,2022-06-21 00:00:00,57,F,Portland,Silver,1,118,Dairy,Mainstream
+501335,2021-11-08 00:00:00,45,,Columbus,Silver,1,137,Dairy,Mainstream
+501336,2022-10-06 00:00:00,53,M,Raleigh,Silver,1,110,Snacks,Mainstream
+501337,2023-10-03 00:00:00,59,M,portland,Silver,1,139,Frozen Foods,Upscale
+501338,2023-10-21 00:00:00,37,M,Columbus,Silver,1,134,Beverages,Value
+501339,2022-08-16 00:00:00,27,F,DENVER,Silver,1,131,Bakery,Mainstream
+501340,2022-05-09 00:00:00,23,F,Spokane,Platinum,1,108,Frozen Foods,Upscale
+501341,2021-07-05 00:00:00,52,M,Portland,Platinum,1,135,Snacks,Mainstream
+501342,2021-09-20 00:00:00,29,M,Spokane,Silver,0,126,Produce,Mainstream
+501343,2022-06-25 00:00:00,38,F,Nashville,Gold,1,113,Frozen Foods,Value
+501344,2023-11-26 00:00:00,62,F,Denver,Silver,1,112,Personal Care,Value
+501345,2021-09-09 00:00:00,44,F,Spokane,Gold,0,138,Household,Value
+501346,2022-08-04 00:00:00,54,F,Raleigh,Silver,0,125,Household,Value
+501347,2021-08-20 00:00:00,26,F,Spokane,Silver,0,122,Beverages,Value
+501348,2021-12-26 00:00:00,63,F,Boise,Silver,1,107,Beverages,
+501349,2023-04-28 00:00:00,51,F,Columbus,Silver,1,117,Frozen Foods,Upscale
+501350,2023-01-17 00:00:00,20,F,Columbus,Gold,0,136,Snacks,Value
+501351,2023-01-06 00:00:00,44,M,Nashville,Silver,0,103,Produce,Mainstream
+501352,2023-06-22 00:00:00,69,M,Denver,Gold,0,115,Beverages,Mainstream
+501353,2021-11-14 00:00:00,44,F, Portland ,Platinum,0,134,Bakery,Value
+501354,2023-02-22 00:00:00,39,M,Denver,Silver,0,128,Household,Upscale
+501355,2022-02-07 00:00:00,19,M,Raleigh,Silver,1,128,Frozen Foods,Upscale
+501356,2022-08-08 00:00:00,70,F,Boise,PLATINUM,1,130,Snacks,Mainstream
+501357,2023-01-10 00:00:00,30,M,Columbus,Silver,0,115,Beverages,Mainstream
+501358,2022-02-19 00:00:00,51,F,Denver,Gold,1,119,Frozen Foods,Mainstream
+501359,2023-10-11 00:00:00,42,F,Columbus,Gold,1,132,Bakery,Value
+501360,2022-07-18 00:00:00,49,F,Portland,Silver,0,122,Beverages,Value
+501361,2023-11-13 00:00:00,24,M,Portland,Silver,1,118,Dairy,Mainstream
+501362,2023-12-29 00:00:00,64,F,Boise,Gold,1,105,Snacks,Mainstream
+501363,2021-09-05 00:00:00,27,M,Tulsa,Silver,0,121,Dairy,Value
+501364,2021-09-19 00:00:00,53,M,Denver,Gold,1,122,Frozen Foods,Value
+501365,2022-03-05 00:00:00,32,F,Nashville,Platinum,1,137,Dairy,Mainstream
+501366,2021-05-18 00:00:00,56,M, Boise ,Gold,1,122,Produce,Value
+501367,2022-05-24 00:00:00,23,F,Spokane,Gold,1,135,Household,Mainstream
+501368,2024-01-05 00:00:00,26,F,Nashville,Gold,1,136,Frozen Foods,Value
+501369,2023-02-08 00:00:00,69,M,Nashville,Gold,0,102,Snacks,Upscale
+501370,2023-07-16 00:00:00,52,F,Portland,Silver,1,115,Snacks,Mainstream
+501371,2022-01-09 00:00:00,64,M,Spokane,Silver,1,140,Household,Value
+501372,2023-10-12 00:00:00,38,,Nashville,Gold,0,107,Bakery,Value
+501373,2022-05-27 00:00:00,61,F,Portland,Silver,0,134,Bakery,Value
+501374,2021-08-13 00:00:00,22,M,Portland,Silver,0,117,Household,Upscale
+501375,2023-10-01 00:00:00,58,F,Raleigh,Silver,1,137,Snacks,Mainstream
+501376,2021-06-02 00:00:00,25,M,Madison,Silver,1,132,Dairy,Value
+501377,2022-01-30 00:00:00,54,F,Nashville,Silver,0,122,Snacks,Value
+501378,2024-03-12 00:00:00,45,F,Tulsa,Gold,1,101,Snacks,Mainstream
+501379,2022-08-17 00:00:00,54,M,Portland,Gold,0,134,Dairy,Value
+501380,2023-04-10 00:00:00,32,F,Portland,Gold,1,102,Beverages,Upscale
+501381,2022-02-04 00:00:00,23,F,Portland,Gold,0,113,Snacks,Value
+501382,2023-09-20 00:00:00,61,F,Austin,Silver,1,140,Frozen Foods,Value
+501383,2022-10-05 00:00:00,44,M,Austin,Silver,0,117,Dairy,Upscale
+501384,2022-10-31 00:00:00,24,F,Raleigh,Gold,0,123,Household,
+501385,2022-09-27 00:00:00,41,M,TULSA,Silver,0,111,Personal Care,Mainstream
+501386,2021-05-20 00:00:00,18,M,Spokane,Gold,1,129,Snacks,Mainstream
+501387,2021-04-26 00:00:00,68,M,Columbus,Silver,0,115,Snacks,Mainstream
+501388,2024-02-10 00:00:00,74,M,Madison,Gold,1,119,Household,Mainstream
+501389,2021-10-25 00:00:00,40,Other,Nashville,Gold,0,129,Bakery,Mainstream
+501390,2023-10-15 00:00:00,35,F,Denver,Gold,1,108,Household,Upscale
+501391,2023-11-01 00:00:00,53,M, Madison ,Silver,0,103,Snacks,Mainstream
+501392,2022-10-11 00:00:00,47,M,Portland,Silver,1,127,Bakery,Mainstream
+501393,2021-03-18 00:00:00,61,F,Spokane,Platinum,0,123,Snacks,Mainstream
+501394,2022-08-28 00:00:00,29,F,Nashville,Gold,1,110,Snacks,Mainstream
+501395,2022-06-17 00:00:00,39,F,Madison,Silver,1,130,Personal Care,Mainstream
+501396,2021-12-12 00:00:00,29,F,Nashville,Gold,1,119,Bakery,Mainstream
+501397,2022-10-22 00:00:00,72,M,Boise,Silver,0,129,Bakery,Mainstream
+501398,2022-12-07 00:00:00,40,M,Austin,Silver,1,109,Produce,Mainstream
+501399,2022-02-08 00:00:00,54,F,Austin,Gold,0,105,Personal Care,Mainstream
+501400,2023-11-19 00:00:00,63,M,Austin,Gold,0,137,Dairy,Mainstream
+501401,2021-07-08 00:00:00,53,M,Raleigh,Silver,1,135,Bakery,Mainstream
+501402,2023-03-16 00:00:00,20,F,Raleigh,Silver,0,116,Produce,Mainstream
+501403,2022-06-14 00:00:00,74,F,Austin,Platinum,0,122,Household,Value
+501404,2021-03-10 00:00:00,65,F,Boise,Gold,1,128,Bakery,Upscale
+501405,2021-11-22 00:00:00,35,M,Boise,Silver,0,103,Household,Mainstream
+501406,2021-12-06 00:00:00,74,M,Boise,gold,0,108,Bakery,Upscale
+501407,2021-09-21 00:00:00,68,F,Raleigh,Gold,1,108,Beverages,Upscale
+501408,2023-12-18 00:00:00,49,M,Tulsa,Silver,0,125,Beverages,Value
+501409,2022-12-04 00:00:00,42,M,Madison, Gold ,0,137,Personal Care,Mainstream
+501410,2021-09-30 00:00:00,38,M,Tulsa,Silver,0,112,Snacks,Value
+501411,2023-07-02 00:00:00,32,F,Tulsa,Silver,0,108,Dairy,Upscale
+501412,2023-05-05 00:00:00,31,F,Denver,Silver,1,105,Produce,
+501413,2021-07-11 00:00:00,24,F,Portland,Gold,0,106,Bakery,Upscale
+501414,2021-10-31 00:00:00,28,,Columbus,Gold,0,113,Frozen Foods,
+501415,2023-07-15 00:00:00,,F,Portland,Silver,1,120,Household,Upscale
+501416,2024-04-18 00:00:00,36,F,Portland,Silver,0,103,Personal Care,Mainstream
+501417,2022-10-16 00:00:00,30,M,Madison,Gold,1,112,Household,Value
+501418,2021-07-18 00:00:00,66,F,Columbus,Silver,1,125,Household,Value
+501419,2022-08-02 00:00:00,51,M,Columbus,Silver,1,127,Bakery,Mainstream
+501420,2023-10-26 00:00:00,18,F,Portland,Gold,1,123,Household,Mainstream
+501421,2022-10-16 00:00:00,32,F,Columbus,Silver,1,116,Beverages,Mainstream
+501422,2022-11-16 00:00:00,62,F,portland,Platinum,1,135,Household,Mainstream
+501423,2022-05-27 00:00:00,33,F,Spokane,Gold,0,102,Produce,Upscale
+501424,2022-03-20 00:00:00,56,F,Portland,Gold,1,102,Bakery,Upscale
+501425,2023-07-22 00:00:00,51,F,Columbus,Silver,0,124,Snacks,Value
+501426,2022-09-16 00:00:00,19,M,Denver,Silver,1,117,Household,Upscale
+501427,2022-10-07 00:00:00,25,F,Spokane,Silver,1,107,Bakery,Value
+501428,2023-10-22 00:00:00,21,M,Madison,Silver,1,140,Dairy,Value
+501429,2022-09-27 00:00:00,64,F,Columbus,Silver,1,120,Bakery,
+501430,2023-11-22 00:00:00,59,M,Spokane,Gold,0,114,Bakery,Mainstream
+501431,2023-09-17 00:00:00,25,M,Nashville,Silver,0,114,Personal Care,Mainstream
+501432,2023-06-05 00:00:00,56,M,Tulsa,Gold,1,103,Dairy,Mainstream
+501433,2021-03-23 00:00:00,27,M,Madison, Silver ,0,134,Household,Value
+501434,2024-03-02 00:00:00,35,Other,Columbus,Silver,0,132,Personal Care,Value
+501435,2021-08-03 00:00:00,57,F,Madison,Silver,1,101,Dairy,Mainstream
+501436,2023-08-23 00:00:00,67,F,Nashville,Platinum,0,104,Snacks,Value
+501437,2021-04-20 00:00:00,34,F,Denver,Silver,0,139,Snacks,Upscale
+501438,2023-12-02 00:00:00,29,F,Spokane,Silver,1,129,Frozen Foods,Mainstream
+501439,2022-05-20 00:00:00,19,M,Austin,Gold,0,124,Snacks,Value
+501440,2022-11-06 00:00:00,42,F,Raleigh,Silver,1,122,Frozen Foods,Value
+501441,2023-08-12 00:00:00,50,F,Raleigh,Platinum,0,131,Dairy,Mainstream
+501442,2023-03-12 00:00:00,24,M,Tulsa,Platinum,0,136,Frozen Foods,Value
+501443,2023-01-13 00:00:00,55,F,Boise,SILVER,0,101,Dairy,Mainstream
+501444,2022-06-16 00:00:00,54,M,Boise,Silver,1,121,Snacks,Value
+501445,2021-12-26 00:00:00,26,F,Tulsa,Gold,0,137,Bakery,Mainstream
+501446,2023-06-09 00:00:00,22,F,Spokane,Silver,1,128,Beverages,Upscale
+501447,2023-02-11 00:00:00,29,F,Spokane,Gold,0,114,Produce,
+501448,2024-03-24 00:00:00,28,F,Tulsa,Gold,1,111,Beverages,Mainstream
+501449,2023-07-04 00:00:00,28,M,Austin,Platinum,0,116,Produce,Mainstream
+501450,2023-04-11 00:00:00,61,F,Austin,Gold,0,140,Produce,Value
+501451,2021-10-01 00:00:00,30,F,Boise,Silver,1,122,Beverages,Value
+501452,2021-12-01 00:00:00,46,M,Raleigh,Gold,1,109,Personal Care,Mainstream
+501453,2021-11-11 00:00:00,62,M,Boise,Silver,1,118,Dairy,Mainstream
+501454,2023-07-08 00:00:00,55,F,Spokane,Platinum,0,134,Personal Care,Value
+501455,2023-08-25 00:00:00,41,F,Madison,Silver,1,138,Beverages,Value
+501456,2023-01-15 00:00:00,59,F,Austin,Silver,0,128,Bakery,Upscale
+501457,2022-12-19 00:00:00,19,F,Nashville,Platinum,1,130,Bakery,Mainstream
+501458,2021-12-01 00:00:00,52,F,Denver,Silver,1,120,Dairy,Upscale
+501459,2021-07-25 00:00:00,,F,Columbus,Gold,0,121,Dairy,Value
+501460,2023-01-13 00:00:00,29,M,Denver,Gold,1,115,Household,Mainstream
+501461,2023-08-25 00:00:00,28,F,Madison,Gold,1,107,Frozen Foods,Value
+501462,2021-06-30 00:00:00,57,M,Denver,Gold,0,104,Frozen Foods,Value
+501463,2022-08-14 00:00:00,72,M,Austin,Platinum,0,112,Dairy,Value
+501464,2021-05-24 00:00:00,24,F,Austin,Gold,1,132,Dairy,Value
+501465,2023-02-01 00:00:00,35,F,Denver,Gold,0,114,Household,Mainstream
+501466,2023-05-05 00:00:00,33,F,Boise,Silver,1,110,Frozen Foods,Mainstream
+501467,2024-02-22 00:00:00,45,F,Nashville,Silver,1,115,Produce,Mainstream
+501468,2021-12-23 00:00:00,43,F,Raleigh,Silver,1,135,Produce,Mainstream
+501469,2022-10-01 00:00:00,56,M,SPOKANE,Silver,1,107,Bakery,Value
+501470,2023-07-11 00:00:00,24,F,Boise,Silver,1,136,Beverages,Value
+501471,2022-11-27 00:00:00,46,F,Nashville,Silver,1,121,Personal Care,Value
+501472,2023-11-21 00:00:00,24,M,Raleigh,Silver,1,109,Dairy,Mainstream
+501473,2021-03-23 00:00:00,63,F,Tulsa,Silver,0,133,Snacks,Value
+501474,2022-12-07 00:00:00,55,F,Portland,Silver,1,112,Personal Care,Value
+501475,2023-05-17 00:00:00,68,F,Raleigh,Silver,1,128,Dairy,Upscale
+501476,2022-05-29 00:00:00,60,F,Boise,Gold,0,129,Bakery,Mainstream
+501477,2021-10-16 00:00:00,,M,Madison,Silver,0,138,Dairy,Value
+501478,2021-05-04 00:00:00,39,F,Austin,Silver,0,131,Produce,Mainstream
+501479,2022-02-25 00:00:00,66,F,Tulsa,Silver,1,115,Household,Mainstream
+501480,2023-11-14 00:00:00,40,M,Portland,Gold,1,102,Snacks,Upscale
+501481,2022-12-30 00:00:00,31,F,Boise,Silver,1,126,Personal Care,Mainstream
+501482,2022-01-20 00:00:00,29,M,Nashville,Silver,0,134,Personal Care,Value
+501483,2021-09-12 00:00:00,47,F,Austin,Gold,1,122,Household,Value
+501484,2022-10-24 00:00:00,47,M, Tulsa ,Silver,0,133,Household,Value
+501485,2021-08-10 00:00:00,32,M,Madison,Gold,1,116,Frozen Foods,Mainstream
+501486,2023-11-30 00:00:00,51,F,Boise,Silver,0,125,Dairy,Value
+501487,2023-03-28 00:00:00,29,M,Denver,Silver,0,120,Frozen Foods,Upscale
+501488,2021-03-21 00:00:00,71,F,Raleigh,SILVER,0,136,Household,Value
+501489,2023-09-16 00:00:00,19,M,Denver,Silver,1,138,Dairy,Value
+501490,2022-02-08 00:00:00,,M,Tulsa,Platinum,0,140,Bakery,Value
+501491,2023-08-29 00:00:00,36,F,Austin,Silver,1,138,Bakery,Value
+501492,2023-12-04 00:00:00,69,M,Columbus,Platinum,1,109,Snacks,Mainstream
+501493,2023-10-29 00:00:00,30,F,Raleigh,Gold,0,111,Produce,Mainstream
+501494,2021-06-08 00:00:00,74,F,Raleigh,Gold,1,138,Frozen Foods,Value
+501495,2021-03-12 00:00:00,37,M,Madison,Silver,0,125,Frozen Foods,Value
+501496,2024-01-03 00:00:00,37,M,Madison,Gold,0,135,Bakery,Mainstream
+501497,2022-01-25 00:00:00,24,M,Austin,Silver,1,116,Personal Care,
+501498,2024-01-15 00:00:00,59,M,Nashville,Silver,1,124,Bakery,Value
+501499,2021-09-17 00:00:00,67,M,Spokane,Silver,1,105,Dairy,Mainstream
+501500,2023-04-11 00:00:00,65,Other,Boise,Silver,0,105,Dairy,
+501501,2024-03-08 00:00:00,,M,Boise,Gold,0,105,Household,Mainstream
+501502,2021-05-01 00:00:00,55,F,Raleigh,Platinum,0,139,Bakery,Upscale
+501503,2021-05-22 00:00:00,43,F,Raleigh,Silver,1,116,Produce,Mainstream
+501504,2024-03-25 00:00:00,34,F,Raleigh,Gold,1,130,Beverages,
+501505,2023-02-01 00:00:00,61,F,Spokane,Gold,0,129,Personal Care,Mainstream
+501506,2021-05-24 00:00:00,53,F,Tulsa,Silver,0,115,Snacks,Mainstream
+501507,2023-03-19 00:00:00,67,M,Portland,Silver,0,128,Beverages,Upscale
+501508,2022-05-18 00:00:00,67,M,Austin,Silver,1,113,Beverages,Value
+501509,2021-07-20 00:00:00,66,M,Spokane,Silver,1,106,Beverages,Upscale
+501510,2024-02-14 00:00:00,24,F,Columbus,Gold,0,139,Produce,Upscale
+501511,2022-10-05 00:00:00,53,,Denver,Silver,0,129,Beverages,Mainstream
+501512,2022-07-07 00:00:00,45,F,Austin,Silver,1,110,Personal Care,Mainstream
+501513,2021-05-17 00:00:00,27,M,Nashville,Silver,0,104,Snacks,Value
+501514,2022-11-13 00:00:00,19,F,Raleigh,Platinum,0,133,Snacks,Value
+501515,2021-08-27 00:00:00,29,F,columbus,Silver,0,127,Bakery,Mainstream
+501516,2022-07-13 00:00:00,66,M,Tulsa,Gold,1,118,Produce,Mainstream
+501517,2022-12-13 00:00:00,57,F,Denver,Gold,1,140,Frozen Foods,Value
+501518,2021-12-22 00:00:00,62,M,Boise,Silver,1,128,Beverages,Upscale
+501519,2021-08-16 00:00:00,69,F,Raleigh,Platinum,1,123,Personal Care,Mainstream
+501520,2022-03-01 00:00:00,20,F,Columbus,Silver,0,133,Bakery,
+501521,2022-05-09 00:00:00,41,F,Boise,Silver,1,126,Household,Mainstream
+501522,2021-02-21 00:00:00,60,F,Portland,Silver,0,104,Bakery,Value
+501523,2022-05-29 00:00:00,59,M,Madison,Gold,1,119,Personal Care,Mainstream
+501524,2023-11-01 00:00:00,57,F,Austin,Gold,0,111,Personal Care,Mainstream
+501525,2021-05-23 00:00:00,25,F,Denver,Gold,1,136,Bakery,Value
+501526,2021-09-24 00:00:00,25,M,Tulsa,Gold,0,105,Produce,Mainstream
+501527,2023-02-24 00:00:00,42,F,Denver,Silver,1,137,Snacks,Mainstream
+501528,2023-01-08 00:00:00,47,M,Nashville, Silver ,1,117,Frozen Foods,Upscale
+501529,2022-03-16 00:00:00,36,M,tulsa,Silver,1,127,Frozen Foods,Mainstream
+501530,2021-10-29 00:00:00,57,M,Columbus,Gold,1,106,Bakery,Upscale
+501531,2022-01-30 00:00:00,30,M,Columbus,Silver,1,107,Beverages,Value
+501532,2021-06-24 00:00:00,37,M,Columbus,Silver,0,137,Beverages,Mainstream
+501533,2024-02-10 00:00:00,23,F,Denver,Silver,0,122,Dairy,Value
+501534,2021-02-27 00:00:00,46,M,Spokane,Silver,0,132,Produce,Value
+501535,2022-10-10 00:00:00,60,F,Tulsa,Silver,1,138,Snacks,Value
+501536,2023-06-26 00:00:00,73,F,Nashville,Silver,0,124,Frozen Foods,Value
+501537,2023-08-24 00:00:00,31,F,Austin,Silver,0,124,Household,Value
+501538,2022-11-20 00:00:00,54,F,Spokane,Gold,0,108,Frozen Foods,Upscale
+501539,2023-05-15 00:00:00,20,F,Austin,Silver,0,134,Bakery,Value
+501540,2021-04-25 00:00:00,46,F,Portland,Gold,1,109,Household,Mainstream
+501541,2022-09-28 00:00:00,68,M,Nashville,Silver,1,138,Personal Care,
+501542,2021-04-22 00:00:00,21,F,Columbus,Silver,1,124,Dairy,Value
+501543,2022-03-07 00:00:00,39,F,Tulsa,Silver,1,122,Household,Value
+501544,2023-02-21 00:00:00,24,F,Boise,Platinum,1,137,Dairy,Mainstream
+501545,2023-01-20 00:00:00,48,F,Denver,Gold,0,134,Household,Value
+501546,2021-04-28 00:00:00,66,M,Spokane,Platinum,1,138,Beverages,Value
+501547,2022-03-25 00:00:00,44,F,Portland,Silver,1,122,Bakery,Value
+501548,2023-01-14 00:00:00,60,M,Austin,Platinum,1,138,Dairy,Value
+501549,2021-12-09 00:00:00,,F,Denver,Silver,0,121,Frozen Foods,Value
+501550,2023-02-19 00:00:00,65,F,Madison,Gold,0,113,Beverages,Value
+501551,2023-08-22 00:00:00,31,M,Portland,Silver,1,129,Bakery,Mainstream
+501552,2021-11-29 00:00:00,50,F,Raleigh,Gold,1,128,Frozen Foods,Upscale
+501553,2024-01-24 00:00:00,,M,Denver,Gold,0,105,Dairy,Mainstream
+501554,2022-10-29 00:00:00,,F,Spokane,Gold,1,121,Bakery,Value
+501555,2023-01-07 00:00:00,33,F,Madison,Silver,1,111,Bakery,Mainstream
+501556,2022-11-25 00:00:00,48,F,Spokane,Silver,1,123,Dairy,Mainstream
+501557,2023-08-27 00:00:00,33,M,Boise,Silver,1,109,Produce,
+501558,2023-02-06 00:00:00,59,F,Nashville,Silver,0,128,Frozen Foods,Upscale
+501559,2023-12-10 00:00:00,30,M,Columbus,Gold,0,122,Personal Care,Value
+501560,2022-12-13 00:00:00,36,,Spokane,Silver,1,112,Personal Care,Value
+501561,2021-12-23 00:00:00,18,M,Nashville, Silver ,1,133,Dairy,Value
+501562,2023-11-21 00:00:00,46,F,Austin,Silver,0,111,Produce,Mainstream
+501563,2023-11-08 00:00:00,18,F,Raleigh,Silver,0,109,Snacks,Mainstream
+501564,2024-02-21 00:00:00,44,M,Nashville,Silver,1,117,Produce,Upscale
+501565,2021-09-02 00:00:00,66,M,Austin,Silver,1,139,Household,Upscale
+501566,2021-12-02 00:00:00,55,F, Nashville ,Platinum,0,110,Household,Mainstream
+501567,2024-03-12 00:00:00,47,F,Denver,Gold,1,131,Produce,Mainstream
+501568,2022-07-12 00:00:00,30,F,Columbus,Gold,1,135,Personal Care,Mainstream
+501569,2022-11-01 00:00:00,67,M,Madison,Silver,1,103,Bakery,Mainstream
+501570,2022-03-08 00:00:00,19,F,Nashville,Gold,1,115,Frozen Foods,Mainstream
+501571,2023-02-20 00:00:00,29,M,Columbus,Gold,1,125,Bakery,Value
+501572,2021-10-07 00:00:00,23,M,Boise,Platinum,1,102,Bakery,Upscale
+501573,2022-09-17 00:00:00,38,M,Tulsa,Gold,0,121,Snacks,Value
+501574,2023-08-07 00:00:00,28,F,Austin,Gold,0,126,Snacks,Mainstream
+501575,2022-09-22 00:00:00,26,F,Denver,Platinum,1,123,Snacks,Mainstream
+501576,2023-08-03 00:00:00,66,F,Nashville,Silver,0,140,Beverages,Value
+501577,2022-09-23 00:00:00,48,F,Nashville,Gold,0,108,Personal Care,Upscale
+501578,2023-06-12 00:00:00,58,F,Raleigh,Gold,1,122,Personal Care,Value
+501579,2022-12-13 00:00:00,48,M,Tulsa,Gold,0,127,Frozen Foods,Mainstream
+501580,2023-05-13 00:00:00,60,,Austin,Silver,0,112,Snacks,Value
+501581,2022-08-29 00:00:00,61,M,Tulsa,Silver,0,117,Personal Care,Upscale
+501582,2021-11-24 00:00:00,43,F,Tulsa,Silver,0,137,Produce,Mainstream
+501583,2022-02-17 00:00:00,66,F,Portland,Gold,1,140,Snacks,Value
+501584,2023-02-20 00:00:00,23,F,Columbus,Silver,1,126,Produce,Mainstream
+501585,2022-09-27 00:00:00,71,F,Madison,Platinum,0,130,Household,Mainstream
+501586,2023-04-20 00:00:00,44,M,Raleigh,Silver,0,125,Beverages,Value
+501587,2023-05-04 00:00:00,26,M,Boise,Gold,1,107,Frozen Foods,Value
+501588,2022-04-19 00:00:00,67,M,Raleigh,Silver,1,119,Bakery,Mainstream
+501589,2021-10-30 00:00:00,56,F,Nashville,Silver,0,120,Dairy,Upscale
+501590,2023-09-27 00:00:00,47,F,Boise,Silver,1,131,Beverages,Mainstream
+501591,2023-07-09 00:00:00,33,M,Denver,Silver,1,108,Snacks,Upscale
+501592,2023-12-30 00:00:00,54,M,Spokane,Silver,1,127,Beverages,Mainstream
+501593,2021-02-27 00:00:00,63,F,Boise,Silver,0,139,Bakery,Upscale
+501594,2022-02-07 00:00:00,39,M,Spokane,Silver,0,122,Beverages,Value
+501595,2023-10-30 00:00:00,26,F,Austin,Platinum,1,140,Bakery,Value
+501596,2021-11-29 00:00:00,26,M,Raleigh,Silver,1,114,Beverages,Mainstream
+501597,2023-05-11 00:00:00,63,F,Raleigh,Gold,1,115,Dairy,Mainstream
+501598,2023-05-22 00:00:00,53,M,Columbus,Gold,1,132,Produce,Value
+501599,2022-10-09 00:00:00,32,M,Tulsa,Silver,1,137,Produce,Mainstream
+501600,2022-04-19 00:00:00,45,F,Columbus,Platinum,1,137,Household,Mainstream
+501601,2022-03-24 00:00:00,27,F,Tulsa,Silver,1,126,Household,Mainstream
+501602,2024-03-24 00:00:00,37,F,Boise,Silver,1,104,Produce,Value
+501603,2021-12-17 00:00:00,63,F,Madison,Silver,0,140,Produce,Value
+501604,2023-01-15 00:00:00,32,F,Boise,Silver,0,102,Beverages,Upscale
+501605,2021-05-27 00:00:00,72,F,Nashville,Silver,1,114,Bakery,Mainstream
+501606,2022-06-26 00:00:00,57,F,Boise,Gold,1,104,Bakery,Value
+501607,2021-05-03 00:00:00,21,F,Raleigh,Silver,1,123,Frozen Foods,Mainstream
+501608,2023-07-11 00:00:00,36,F,Madison,Silver,1,135,Snacks,Mainstream
+501609,2022-03-18 00:00:00,35,M,Tulsa,Platinum,0,124,Dairy,
+501610,2023-03-22 00:00:00,50,F,Raleigh,Gold,1,125,Personal Care,
+501611,2021-08-02 00:00:00,74,M,Tulsa,Silver,0,132,Snacks,Value
+501612,2022-05-20 00:00:00,32,F,Madison,Platinum,1,116,Personal Care,Mainstream
+501613,2021-12-04 00:00:00,28,F,Spokane,Silver,0,125,Snacks,Value
+501614,2022-06-12 00:00:00,60,Other,Tulsa,Silver,1,140,Frozen Foods,Value
+501615,2021-11-21 00:00:00,53,F,Denver,Gold,0,111,Household,Mainstream
+501616,2023-11-04 00:00:00,39,F,Tulsa,Platinum,1,138,Household,Value
+501617,2023-08-09 00:00:00,57,F,Raleigh,Silver,0,119,Beverages,Mainstream
+501618,2022-01-27 00:00:00,45,M,Madison,Silver,1,117,Beverages,Upscale
+501619,2023-09-30 00:00:00,68,F,Madison,Silver,1,137,Beverages,Mainstream
+501620,2024-01-30 00:00:00,70,F,Tulsa,Platinum,1,115,Personal Care,Mainstream
+501621,2022-07-19 00:00:00,35,F,Columbus,Silver,1,124,Personal Care,Value
+501622,2021-03-25 00:00:00,58,F,Boise,Gold,0,122,Produce,Value
+501623,2023-05-06 00:00:00,46,M,Austin,Silver,1,134,Produce,Value
+501624,2023-09-09 00:00:00,59,F,Spokane,Gold,0,124,Produce,Value
+501625,2022-01-05 00:00:00,38,M,Columbus,Gold,1,127,Personal Care,Mainstream
+501626,2023-07-11 00:00:00,37,M,Portland,Gold,1,134,Frozen Foods,Value
+501627,2021-11-07 00:00:00,,F,Raleigh,Silver,1,140,Personal Care,Value
+501628,2023-09-11 00:00:00,65,F,Boise,Silver,1,136,Household,Value
+501629,2023-09-24 00:00:00,47,M,Denver,Silver,1,107,Beverages,Value
+501630,2021-02-27 00:00:00,39,F,Columbus,Silver,1,112,Snacks,Value
+501631,2022-06-02 00:00:00,48,F,Nashville,Silver,1,136,Beverages,Value
+501632,2023-06-02 00:00:00,74,F,Nashville,Silver,1,135,Dairy,Mainstream
+501633,2022-11-22 00:00:00,65,F,Nashville,Platinum,1,125,Snacks,Value
+501634,2022-05-25 00:00:00,69,M,Madison,Silver,0,104,Frozen Foods,Value
+501635,2024-03-09 00:00:00,39,F,Raleigh,Silver,1,140,Bakery,Value
+501636,2021-02-28 00:00:00,55,Other,Spokane,Silver,1,109,Bakery,Mainstream
+501637,2022-10-20 00:00:00,47,F,Boise,Silver,1,101,Produce,
+501638,2021-04-17 00:00:00,65,F,Spokane,Silver,0,117,Dairy,Upscale
+501639,2021-10-21 00:00:00,59,F,Tulsa,Gold,1,130,Snacks,Mainstream
+501640,2024-03-14 00:00:00,49,,Boise,Gold,1,104,Frozen Foods,Value
+501641,2021-10-09 00:00:00,45,F,Raleigh,Gold,1,122,Beverages,Value
+501642,2022-09-01 00:00:00,59,M,Madison,Platinum,1,114,Personal Care,Mainstream
+501643,2021-07-06 00:00:00,46,M,Columbus,Platinum,1,114,Household,Mainstream
+501644,2022-05-30 00:00:00,25,F, Madison ,Gold,0,102,Personal Care,Upscale
+501645,2023-06-11 00:00:00,21,M,Nashville,Silver,0,114,Snacks,Mainstream
+501646,2022-02-01 00:00:00,74,F,Tulsa,Gold,1,133,Frozen Foods,Value
+501647,2023-06-03 00:00:00,32,F,Columbus,Silver,0,135,Household,Mainstream
+501648,2023-04-05 00:00:00,63,F,Columbus,Gold,1,128,Frozen Foods,Upscale
+501649,2022-06-14 00:00:00,24,M,Portland,Silver,1,103,Frozen Foods,Mainstream
+501650,2023-04-15 00:00:00,26,F,Denver,Platinum,0,111,Snacks,Mainstream
+501651,2021-05-05 00:00:00,19,M,Madison,Silver,1,108,Household,Upscale
+501652,2024-04-27 00:00:00,31,F,BOISE,Gold,0,121,Bakery,Value
+501653,2023-02-08 00:00:00,73,M,RALEIGH,Silver,1,133,Bakery,
+501654,2024-03-22 00:00:00,50,F,Boise,Gold,1,116,Beverages,Mainstream
+501655,2022-01-12 00:00:00,18,F,Tulsa,Silver,0,128,Frozen Foods,Upscale
+501656,2022-07-29 00:00:00,61,M,Boise,Gold,0,133,Snacks,Value
+501657,2023-11-11 00:00:00,71,F,Portland,Gold,1,110,Beverages,
+501658,2024-02-04 00:00:00,26,M,Raleigh,Gold,1,112,Dairy,Value
+501659,2021-12-12 00:00:00,49,M,Denver,Platinum,0,105,Household,Mainstream
+501660,2023-09-09 00:00:00,72,F,Tulsa,Silver,1,110,Beverages,Mainstream
+501661,2021-08-21 00:00:00,36,F,Austin,Platinum,0,126,Snacks,Mainstream
+501662,2023-04-09 00:00:00,37,F,Boise,SILVER,1,132,Frozen Foods,Value
+501663,2022-07-30 00:00:00,53,F,Boise,Gold,0,117,Beverages,Upscale
+501664,2024-02-10 00:00:00,74,F,Raleigh,Gold,0,131,Beverages,Mainstream
+501665,2022-09-16 00:00:00,70,F,COLUMBUS,Silver,1,133,Beverages,Value
+501666,2024-03-27 00:00:00,60,M,Tulsa,Silver,0,129,Dairy,Mainstream
+501667,2023-08-15 00:00:00,34,M,Columbus,Platinum,1,102,Frozen Foods,Upscale
+501668,2021-05-14 00:00:00,45,M,Columbus,Silver,1,103,Bakery,Mainstream
+501669,2021-03-16 00:00:00,27,F,Tulsa,PLATINUM,1,126,Dairy,Mainstream
+501670,2022-12-10 00:00:00,38,F,Raleigh,Silver,0,102,Personal Care,Upscale
+501671,2021-06-05 00:00:00,72,M,Austin,Silver,1,128,Personal Care,Upscale
+501672,2023-09-06 00:00:00,,M,Tulsa,Gold,1,138,Household,Value
+501673,2022-06-16 00:00:00,25,M,Boise,Silver,0,108,Household,Upscale
+501674,2022-01-25 00:00:00,23,F,Raleigh,Silver,1,139,Bakery,Upscale
+501675,2021-06-26 00:00:00,,,Portland,Gold,0,103,Household,Mainstream
+501676,2024-04-21 00:00:00,53,M,Columbus,Gold,1,109,Personal Care,Mainstream
+501677,2022-06-07 00:00:00,39,F,Denver,Silver,0,123,Bakery,Mainstream
+501678,2023-07-21 00:00:00,62,F,Austin,Silver,0,120,Produce,Upscale
+501679,2023-02-05 00:00:00,52,M,Madison,Gold,1,118,Beverages,Mainstream
+501680,2021-04-04 00:00:00,69,F,Tulsa,Gold,0,119,Produce,Mainstream
+501681,2022-03-30 00:00:00,36,M,Boise,Gold,0,116,Produce,Mainstream
+501682,2021-06-17 00:00:00,38,F,Austin,Gold,0,112,Dairy,Value
+501683,2023-09-23 00:00:00,20,F,Tulsa,Silver,1,112,Household,Value
+501684,2022-04-19 00:00:00,71,F,Boise,Gold,1,104,Personal Care,Value
+501685,2021-05-15 00:00:00,65,M,Austin,Silver,1,138,Household,Value
+501686,2024-01-14 00:00:00,34,F,Austin,Silver,1,111,Beverages,Mainstream
+501687,2021-07-16 00:00:00,,M,Tulsa,Silver,1,136,Household,
+501688,2023-04-26 00:00:00,71,F,Boise,Gold,0,139,Household,Upscale
+501689,2022-12-27 00:00:00,47,M,Spokane,Platinum,1,140,Household,Value
+501690,2024-03-31 00:00:00,70,F,Portland,Silver,1,118,Frozen Foods,Mainstream
+501691,2021-08-26 00:00:00,36,F,Columbus,Silver,1,106,Bakery,Upscale
+501692,2023-08-20 00:00:00,26,F,Spokane,Gold,1,109,Frozen Foods,Mainstream
+501693,2021-02-28 00:00:00,51,M,Raleigh,Gold,1,103,Produce,Mainstream
+501694,2024-04-03 00:00:00,67,F,Columbus,Silver,1,104,Personal Care,Value
+501695,2023-12-26 00:00:00,23,M,Denver,Gold,1,138,Bakery,Value
+501696,2023-12-07 00:00:00,58,F,Austin,Gold,0,126,Snacks,Mainstream
+501697,2022-03-01 00:00:00,20,M,Spokane,Gold,1,125,Produce,Value
+501698,2022-04-23 00:00:00,58,Other,Tulsa,Silver,0,134,Beverages,Value
+501699,2023-09-06 00:00:00,68,F,Boise,Gold,1,112,Snacks,Value
+501700,2024-01-06 00:00:00,65,F,Boise,Silver,1,111,Produce,Mainstream
+501701,2023-07-01 00:00:00,52,M,Raleigh,Gold,0,114,Personal Care,Mainstream
+501702,2023-11-02 00:00:00,48,M,Portland,Gold,1,131,Produce,Mainstream
+501703,2022-01-16 00:00:00,25,M,Columbus,Gold,1,126,Dairy,Mainstream
+501704,2021-06-11 00:00:00,46,F,Nashville,Gold,1,101,Snacks,Mainstream
+501705,2022-12-18 00:00:00,70,M,Boise, Silver ,1,126,Personal Care,Mainstream
+501706,2023-04-06 00:00:00,38,F,Tulsa,Silver,0,106,Dairy,Upscale
+501707,2022-08-29 00:00:00,33,F,Nashville,Gold,1,140,Personal Care,Value
+501708,2023-04-09 00:00:00,67,M,Columbus,Silver,1,126,Beverages,Mainstream
+501709,2023-10-03 00:00:00,48,F,Madison,Platinum,0,139,Beverages,Upscale
+501710,2024-01-22 00:00:00,69,F,PORTLAND,Gold,1,104,Produce,Value
+501711,2022-04-02 00:00:00,20,F,Austin,Silver,1,112,Personal Care,Value
+501712,2021-10-14 00:00:00,27,F,Raleigh,Gold,1,119,Frozen Foods,Mainstream
+501713,2022-09-02 00:00:00,56,F,Austin,Silver,1,102,Snacks,Upscale
+501714,2022-03-03 00:00:00,62,M,Portland,Gold,0,120,Snacks,Upscale
+501715,2023-12-19 00:00:00,73,F,Columbus,Platinum,0,115,Snacks,Mainstream
+501716,2022-08-01 00:00:00,33,Other,Austin,SILVER,1,102,Bakery,Upscale
+501717,2022-03-08 00:00:00,32,M,Tulsa,Platinum,0,133,Beverages,Value
+501718,2022-05-11 00:00:00,28,Other,Spokane,Silver,1,133,Household,
+501719,2024-04-04 00:00:00,60,M,Columbus,Silver,1,134,Frozen Foods,Value
+501720,2024-01-06 00:00:00,29,F,Austin,Platinum,1,130,Beverages,Mainstream
+501721,2021-03-07 00:00:00,69,F, Portland ,Gold,1,123,Dairy,Mainstream
+501722,2023-07-03 00:00:00,50,F,Spokane,Silver,1,132,Household,Value
+501723,2023-08-06 00:00:00,56,F,Madison,Platinum,1,116,Produce,Mainstream
+501724,2022-06-20 00:00:00,33,F,Madison,Silver,1,127,Frozen Foods,Mainstream
+501725,2021-12-27 00:00:00,59,M,Columbus,Gold,1,130,Bakery,Mainstream
+501726,2021-04-14 00:00:00,31,M,Nashville,Silver,0,112,Snacks,Value
+501727,2021-12-15 00:00:00,27,M,Austin,Gold,1,106,Produce,Upscale
+501728,2021-09-19 00:00:00,23,F,Madison,Silver,0,128,Produce,Upscale
+501729,2021-05-25 00:00:00,26,M,Tulsa,Silver,1,137,Snacks,Mainstream
+501730,2022-04-14 00:00:00,36,M,Denver,silver,1,123,Bakery,Mainstream
+501731,2022-05-25 00:00:00,23,F,Boise,Silver,1,139,Frozen Foods,Upscale
+501732,2022-09-03 00:00:00,62,F,Raleigh,Gold,0,125,Snacks,Value
+501733,2023-09-05 00:00:00,37,F,Denver,gold,1,128,Snacks,Upscale
+501734,2024-04-15 00:00:00,19,F,Portland,Platinum,0,131,Dairy,Mainstream
+501735,2023-12-11 00:00:00,68,M,Tulsa,Silver,1,114,Household,Mainstream
+501736,2021-06-25 00:00:00,45,F,Portland,Silver,1,112,Snacks,Value
+501737,2023-05-10 00:00:00,55,F,Austin,Platinum,1,117,Beverages,Upscale
+501738,2024-02-14 00:00:00,52,F,Madison,Silver,0,137,Household,Mainstream
+501739,2023-11-21 00:00:00,63,M,Spokane,Gold,1,111,Household,Mainstream
+501740,2023-12-03 00:00:00,20,F,Denver,Silver,1,119,Beverages,Mainstream
+501741,2023-02-19 00:00:00,38,M,Denver,Platinum,1,129,Household,Mainstream
+501742,2022-02-12 00:00:00,34,F,Madison,Gold,1,113,Produce,Value
+501743,2021-10-03 00:00:00,50,M,Columbus,Gold,1,127,Produce,Mainstream
+501744,2021-09-25 00:00:00,69,M,Denver,Silver,1,122,Produce,Value
+501745,2021-04-07 00:00:00,18,M,Nashville,Gold,1,123,Produce,Mainstream
+501746,2021-10-25 00:00:00,74,M,Tulsa,Silver,0,139,Produce,Upscale
+501747,2023-06-28 00:00:00,45,F,Portland,Silver,0,105,Household,Mainstream
+501748,2022-11-20 00:00:00,66,F,Columbus,Silver,1,129,Household,Mainstream
+501749,2022-04-06 00:00:00,72,F,Portland,Gold,0,138,Frozen Foods,Value
+501750,2023-10-08 00:00:00,27,F,Raleigh,Gold,1,104,Snacks,Value
+501751,2022-02-19 00:00:00,31,F,Portland,Gold,0,108,Bakery,Upscale
+501752,2024-03-22 00:00:00,61,M,Spokane,Silver,0,112,Beverages,Value
+501753,2023-08-13 00:00:00,41,F,Boise,Silver,1,137,Beverages,Mainstream
+501754,2021-08-10 00:00:00,43,F,Boise,Silver,0,127,Snacks,Mainstream
+501755,2023-04-26 00:00:00,35,M,Columbus,Platinum,0,115,Household,Mainstream
+501756,2021-03-16 00:00:00,27,M,Denver,Gold,1,139,Household,Upscale
+501757,2021-08-24 00:00:00,65,Other,Spokane,Silver,0,119,Beverages,Mainstream
+501758,2023-07-22 00:00:00,45,F,Portland,Silver,1,122,Frozen Foods,Value
+501759,2021-05-21 00:00:00,18,F,Raleigh,Silver,1,136,Snacks,Value
+501760,2021-07-24 00:00:00,70,M,Nashville, Silver ,1,122,Beverages,Value
+501761,2021-03-09 00:00:00,24,F,Tulsa,Silver,1,127,Produce,Mainstream
+501762,2023-01-18 00:00:00,68,M,Boise,Platinum,0,101,Bakery,Mainstream
+501763,2021-06-06 00:00:00,58,F,Austin,Silver,1,105,Dairy,Mainstream
+501764,2023-05-04 00:00:00,40,,Denver,silver,0,107,Household,Value
+501765,2023-03-13 00:00:00,40,M,Boise,Silver,1,119,Dairy,Mainstream
+501766,2022-09-19 00:00:00,21,M,Madison,Platinum,1,133,Bakery,Value
+501767,2023-03-07 00:00:00,40,M,MADISON,Silver,1,104,Frozen Foods,Value
+501768,2024-04-23 00:00:00,69,M,Madison,Silver,1,110,Household,Mainstream
+501769,2022-01-13 00:00:00,68,M,Denver,Platinum,1,117,Produce,
+501770,2022-12-02 00:00:00,74,F,Spokane,Gold,0,122,Beverages,Value
+501771,2021-09-19 00:00:00,56,F,Columbus,Silver,0,138,Dairy,Value
+501772,2023-09-12 00:00:00,47,F,Columbus,Silver,1,128,Produce,Upscale
+501773,2023-08-11 00:00:00,63,M,Boise,Silver,1,103,Bakery,Mainstream
+501774,2022-01-20 00:00:00,30,F,Columbus,Silver,0,124,Bakery,Value
+501775,2022-02-05 00:00:00,69,F,Raleigh,Gold,0,126,Snacks,Mainstream
+501776,2022-09-22 00:00:00,48,F,Madison,Silver,0,131,Bakery,Mainstream
+501777,2022-05-29 00:00:00,43,F,Madison,Platinum,1,116,Personal Care,Mainstream
+501778,2021-07-21 00:00:00,57,F,Raleigh,Platinum,1,126,Snacks,Mainstream
+501779,2021-07-09 00:00:00,51,M,Nashville,Gold,1,112,Dairy,Value
+501780,2021-06-18 00:00:00,45,M,Columbus,Silver,1,113,Frozen Foods,Value
+501781,2021-02-26 00:00:00,69,F,Columbus,Silver,1,138,Dairy,Value
+501782,2023-04-28 00:00:00,38,F,Denver,Silver,1,124,Household,Value
+501783,2021-10-13 00:00:00,66,F,Nashville,Gold,1,132,Household,Value
+501784,2023-06-09 00:00:00,32,F,Columbus,Gold,1,128,Snacks,Upscale
+501785,2021-07-22 00:00:00,41,F,Tulsa,Gold,1,124,Dairy,Value
+501786,2021-04-30 00:00:00,34,F,Tulsa,Silver,0,103,Snacks,Mainstream
+501787,2022-12-05 00:00:00,28,F,Portland,Gold,0,119,Produce,Mainstream
+501788,2022-09-21 00:00:00,20,F,Boise,Silver,0,139,Produce,Upscale
+501789,2023-12-17 00:00:00,50,M,Spokane,Gold,1,108,Snacks,Upscale
+501790,2024-01-11 00:00:00,32,F,Portland,Silver,1,125,Bakery,Value
+501791,2023-09-14 00:00:00,74,M,raleigh, Gold ,1,109,Frozen Foods,Mainstream
+501792,2024-03-10 00:00:00,72,M,Spokane,Gold,0,140,Frozen Foods,Value
+501793,2023-01-21 00:00:00,36,F,Austin,Silver,0,140,Household,Value
+501794,2021-03-01 00:00:00,18,M,Raleigh,Silver,1,135,Snacks,Mainstream
+501795,2022-01-26 00:00:00,60,M,Columbus,Silver,1,101,Bakery,Mainstream
+501796,2022-06-25 00:00:00,59,F,Raleigh,Silver,1,102,Dairy,Upscale
+501797,2021-12-31 00:00:00,38,M,Columbus,Platinum,0,130,Beverages,Mainstream
+501798,2024-02-29 00:00:00,,F,Portland,Platinum,0,104,Frozen Foods,Value
+501799,2022-03-27 00:00:00,24,F,Austin,Gold,0,140,Snacks,Value
+501800,2022-09-12 00:00:00,41,F,Nashville,Silver,0,135,Bakery,Mainstream
+501801,2023-12-21 00:00:00,29,F,Boise,Platinum,1,104,Dairy,Value
+501802,2022-09-21 00:00:00,51,M,Portland,Platinum,0,110,Personal Care,Mainstream
+501803,2022-03-17 00:00:00,21,F,Austin,Silver,1,108,Frozen Foods,Upscale
+501804,2022-12-10 00:00:00,30,,Madison,Gold,0,137,Snacks,Mainstream
+501805,2021-05-20 00:00:00,27,M,AUSTIN,Gold,1,105,Produce,Mainstream
+501806,2021-04-16 00:00:00,56,F,Nashville,Gold,1,140,Dairy,Value
+501807,2023-03-07 00:00:00,41,F,Columbus,Gold,1,131,Personal Care,Mainstream
+501808,2021-04-18 00:00:00,58,M,Columbus,Silver,1,131,Dairy,Mainstream
+501809,2023-07-23 00:00:00,25,M,Madison,Silver,0,102,Bakery,Upscale
+501810,2023-12-08 00:00:00,59,M,Nashville,Silver,1,125,Dairy,Value
+501811,2022-04-04 00:00:00,50,F, Madison ,Gold,0,109,Dairy,Mainstream
+501812,2023-11-07 00:00:00,46,M,Spokane,Silver,1,118,Dairy,Mainstream
+501813,2023-04-24 00:00:00,39,F,Tulsa,Silver,1,137,Household,Mainstream
+501814,2023-01-12 00:00:00,73,M,Tulsa,Silver,1,137,Dairy,Mainstream
+501815,2022-02-18 00:00:00,54,F,Boise,Silver,1,120,Produce,Upscale
+501816,2021-08-31 00:00:00,67,F,Austin,Silver,1,126,Snacks,Mainstream
+501817,2021-06-23 00:00:00,32,M,Tulsa,Silver,0,124,Frozen Foods,Value
+501818,2022-05-04 00:00:00,50,M,Nashville,Silver,0,104,Snacks,Value
+501819,2021-04-01 00:00:00,57,M,Raleigh,Silver,0,119,Personal Care,Mainstream
+501820,2021-12-31 00:00:00,56,F,Nashville,Gold,1,130,Produce,Mainstream
+501821,2021-07-15 00:00:00,43,F,Madison,Silver,1,118,Snacks,Mainstream
+501822,2022-06-29 00:00:00,33,F,Denver,Gold,0,114,Snacks,Mainstream
+501823,2023-12-17 00:00:00,36,F,Boise,Gold,1,128,Beverages,Upscale
+501824,2023-08-31 00:00:00,71,F,Spokane,Silver,0,106,Personal Care,Upscale
+501825,2023-01-05 00:00:00,,F,Madison,Silver,1,124,Personal Care,Value
+501826,2021-09-19 00:00:00,54,F,Spokane,Silver,1,115,Personal Care,Mainstream
+501827,2023-01-04 00:00:00,57,F,Austin,Silver,0,127,Bakery,Mainstream
+501828,2024-04-16 00:00:00,69,M,Austin,Gold,0,135,Bakery,Mainstream
+501829,2022-12-13 00:00:00,41,F, Columbus ,Silver,1,114,Frozen Foods,Mainstream
+501830,2022-02-05 00:00:00,34,M,Raleigh,Silver,0,130,Bakery,Mainstream
+501831,2021-03-01 00:00:00,22,F,Denver,Gold,0,121,Household,Value
+501832,2023-09-18 00:00:00,73,F,Portland,Silver,1,116,Household,Mainstream
+501833,2023-05-06 00:00:00,,M,Austin,Gold,1,129,Personal Care,Mainstream
+501834,2022-10-29 00:00:00,24,F,Columbus,Silver,0,133,Household,Value
+501835,2022-10-09 00:00:00,21,F,Raleigh,Silver,0,139,Produce,Upscale
+501836,2021-03-19 00:00:00,48,F,Columbus,Gold,0,123,Produce,Mainstream
+501837,2023-01-22 00:00:00,44,F,Raleigh,Silver,1,105,Snacks,Mainstream
+501838,2022-08-11 00:00:00,24,F,Denver,Platinum,1,114,Dairy,Mainstream
+501839,2023-07-13 00:00:00,68,M,Boise,Platinum,1,113,Bakery,Value
+501840,2024-02-26 00:00:00,28,M,Tulsa,Gold,0,105,Beverages,Mainstream
+501841,2023-01-29 00:00:00,39,F,Tulsa,Gold,1,104,Bakery,Value
+501842,2022-12-18 00:00:00,61,M,Portland,Silver,0,128,Household,Upscale
+501843,2023-10-13 00:00:00,43,F,Madison,Silver,0,137,Dairy,Mainstream
+501844,2022-03-22 00:00:00,21,M,Tulsa,Silver,1,110,Beverages,
+501845,2023-04-12 00:00:00,56,F,Portland,Silver,1,136,Dairy,Value
+501846,2024-02-26 00:00:00,39,F,Madison,Silver,0,121,Household,Value
+501847,2022-08-15 00:00:00,59,M,Spokane,Gold,0,132,Bakery,Value
+501848,2023-07-12 00:00:00,,F,Raleigh,Gold,0,110,Frozen Foods,Mainstream
+501849,2022-01-02 00:00:00,52,M,Nashville,Gold,1,131,Snacks,Mainstream
+501850,2024-04-11 00:00:00,66,Other,Portland,Platinum,0,126,Frozen Foods,Mainstream
+501851,2021-11-15 00:00:00,31,F,Portland,Gold,0,113,Dairy,Value
+501852,2022-08-10 00:00:00,22,M,Austin,Gold,1,103,Bakery,Mainstream
+501853,2021-12-30 00:00:00,45,F,Denver,Silver,0,121,Bakery,Value
+501854,2023-02-11 00:00:00,37,M,Tulsa,Silver,1,112,Personal Care,Value
+501855,2021-07-05 00:00:00,,F,Tulsa,Silver,0,134,Personal Care,Value
+501856,2022-09-21 00:00:00,66,F,TULSA,Gold,1,126,Bakery,Mainstream
+501857,2021-02-20 00:00:00,70,F,Madison,Silver,1,125,Household,Value
+501858,2023-05-22 00:00:00,57,F,Boise,Silver,0,134,Produce,Value
+501859,2021-08-04 00:00:00,71,F,Columbus,Silver,1,136,Bakery,Value
+501860,2022-03-26 00:00:00,58,Other,Austin,Silver,0,130,Personal Care,
+501861,2021-05-16 00:00:00,71,M,Nashville,Gold,0,135,Household,Mainstream
+501862,2023-10-13 00:00:00,74,M,Denver,Silver,0,112,Frozen Foods,Value
+501863,2022-09-10 00:00:00,28,M,Tulsa,Gold,1,115,Household,Mainstream
+501864,2021-06-07 00:00:00,19,F,Madison,Platinum,1,116,Produce,Mainstream
+501865,2023-07-21 00:00:00,18,M,Boise,Gold,1,129,Bakery,Mainstream
+501866,2021-04-05 00:00:00,55,M,Tulsa,Platinum,1,121,Personal Care,Value
+501867,2021-03-28 00:00:00,38,F,Madison,Silver,1,128,Household,Upscale
+501868,2022-10-04 00:00:00,60,F,Denver,Silver,1,138,Produce,Value
+501869,2022-01-01 00:00:00,67,F,Nashville, Silver ,0,126,Frozen Foods,Mainstream
+501870,2022-11-05 00:00:00,60,F,Boise, Silver ,1,108,Frozen Foods,Upscale
+501871,2022-03-25 00:00:00,41,F,Spokane,PLATINUM,1,115,Frozen Foods,Mainstream
+501872,2021-08-01 00:00:00,58,F,Denver,Silver,1,132,Snacks,Value
+501873,2021-12-18 00:00:00,57,M,Denver,Gold,1,128,Frozen Foods,Upscale
+501874,2023-05-29 00:00:00,22,F,Tulsa,Silver,1,105,Snacks,Mainstream
+501875,2022-06-24 00:00:00,20,,Tulsa,Silver,1,135,Snacks,Mainstream
+501876,2021-10-06 00:00:00,22,F,Raleigh,Silver,0,134,Frozen Foods,Value
+501877,2022-06-22 00:00:00,48,M,Denver,Gold,0,125,Household,Value
+501878,2023-06-01 00:00:00,62,M,Boise, Silver ,0,105,Dairy,Mainstream
+501879,2021-12-05 00:00:00,65,F,Raleigh,Silver,1,115,Personal Care,Mainstream
+501880,2022-01-11 00:00:00,52,Other,Denver,Silver,1,116,Beverages,Mainstream
+501881,2022-04-21 00:00:00,72,F,Denver,Silver,1,129,Bakery,Mainstream
+501882,2023-04-08 00:00:00,32,F,Spokane,Gold,1,115,Produce,Mainstream
+501883,2022-07-14 00:00:00,31,M,Madison,Platinum,1,115,Snacks,Mainstream
+501884,2022-05-28 00:00:00,18,F,Spokane,Silver,1,127,Bakery,Mainstream
+501885,2023-08-26 00:00:00,25,M,Austin,Gold,1,108,Snacks,Upscale
+501886,2021-05-15 00:00:00,48,F,Spokane,Gold,1,113,Beverages,Value
+501887,2022-06-07 00:00:00,62,,Raleigh,Silver,0,117,Dairy,Upscale
+501888,2024-02-29 00:00:00,23,M,Boise,Silver,1,133,Personal Care,Value
+501889,2023-06-21 00:00:00,65,M,Tulsa,Gold,1,122,Snacks,Value
+501890,2021-10-01 00:00:00,60,M,Portland,Silver,0,140,Dairy,Value
+501891,2022-02-11 00:00:00,25,F,Portland,Platinum,1,109,Household,Mainstream
+501892,2022-08-08 00:00:00,37,M,Spokane,Silver,1,129,Produce,Mainstream
+501893,2022-10-02 00:00:00,54,F,spokane,Platinum,1,131,Beverages,Mainstream
+501894,2023-02-14 00:00:00,64,M,Tulsa,Silver,0,101,Bakery,Mainstream
+501895,2021-04-26 00:00:00,64,F,Raleigh,Silver,0,119,Dairy,Mainstream
+501896,2023-03-20 00:00:00,23,M,Boise,Gold,0,104,Snacks,Value
+501897,2021-09-03 00:00:00,21,M,Madison,Silver,1,123,Snacks,Mainstream
+501898,2024-02-11 00:00:00,46,F,Tulsa,Silver,1,133,Produce,Value
+501899,2022-08-17 00:00:00,31,F,Columbus,Gold,0,136,Frozen Foods,Value
+501900,2023-07-05 00:00:00,23,F,Columbus,Gold,1,117,Bakery,Upscale
+501901,2022-12-25 00:00:00,43,M,Spokane,Platinum,1,102,Dairy,Upscale
+501902,2022-05-04 00:00:00,62,F,Madison,Gold,0,121,Bakery,
+501903,2024-02-14 00:00:00,48,,Austin,Gold,1,129,Snacks,Mainstream
+501904,2024-01-09 00:00:00,49,M,Tulsa,Silver,0,134,Personal Care,Value
+501905,2022-06-24 00:00:00,52,F,Nashville,Platinum,0,115,Personal Care,Mainstream
+501906,2022-03-11 00:00:00,31,M,Columbus,Gold,1,129,Snacks,Mainstream
+501907,2024-02-20 00:00:00,55,F,Raleigh,Gold,1,137,Beverages,Mainstream
+501908,2021-04-03 00:00:00,72,F,Portland,Gold,1,122,Bakery,Value
+501909,2022-12-07 00:00:00,23,F,Madison,Gold,0,134,Household,Value
+501910,2021-03-12 00:00:00,56,M,Austin,Silver,1,113,Beverages,Value
+501911,2023-11-25 00:00:00,41,F,Boise,Silver,1,120,Dairy,Upscale
+501912,2021-06-27 00:00:00,37,M,Nashville,Platinum,1,104,Beverages,Value
+501913,2022-04-09 00:00:00,26,M,Spokane,Silver,0,134,Personal Care,Value
+501914,2021-10-02 00:00:00,66,M,Spokane,Silver,1,105,Beverages,Mainstream
+501915,2021-09-30 00:00:00,42,F,raleigh,Silver,1,130,Produce,Mainstream
+501916,2023-10-07 00:00:00,39,M,Portland,Silver,0,103,Household,Mainstream
+501917,2023-10-19 00:00:00,73,M,Boise,Silver,1,126,Frozen Foods,Mainstream
+501918,2021-03-24 00:00:00,71,F,Portland,Gold,0,116,Beverages,Mainstream
+501919,2022-12-13 00:00:00,23,,Nashville,Gold,0,124,Dairy,Value
+501920,2023-09-08 00:00:00,34,M,Madison,Gold,1,138,Produce,Value
+501921,2022-04-25 00:00:00,34,M,Denver,Silver,1,123,Beverages,Mainstream
+501922,2021-07-21 00:00:00,74,F,Denver,Silver,0,105,Beverages,Mainstream
+501923,2023-06-17 00:00:00,19,F,Columbus,Silver,0,122,Beverages,Value
+501924,2021-07-10 00:00:00,21,M,Austin,Silver,1,121,Beverages,Value
+501925,2024-02-17 00:00:00,65,F,Denver,Silver,1,119,Frozen Foods,Mainstream
+501926,2022-05-06 00:00:00,59,Other,Boise,Silver,1,125,Beverages,Value
+501927,2023-02-18 00:00:00,41,M,Denver,Silver,0,125,Snacks,Value
+501928,2022-09-01 00:00:00,34,F,Austin,Gold,1,138,Bakery,Value
+501929,2022-05-24 00:00:00,18,M,Denver,Silver,1,132,Bakery,Value
+501930,2023-09-11 00:00:00,42,M,Tulsa,Platinum,1,140,Bakery,Value
+501931,2024-03-06 00:00:00,49,M,Austin,Silver,0,121,Snacks,Value
+501932,2022-09-03 00:00:00,54,M,Madison,Silver,1,127,Household,Mainstream
+501933,2021-04-13 00:00:00,37,M,tulsa,Silver,1,103,Produce,Mainstream
+501934,2023-05-28 00:00:00,20,M,Raleigh,Gold,0,124,Personal Care,Value
+501935,2022-07-18 00:00:00,32,F,Austin,Silver,1,110,Frozen Foods,Mainstream
+501936,2023-12-07 00:00:00,30,F,Denver,Gold,1,129,Produce,Mainstream
+501937,2023-03-27 00:00:00,73,M,Spokane,Gold,0,132,Frozen Foods,Value
+501938,2023-12-05 00:00:00,23,F,Columbus,Silver,1,118,Personal Care,Mainstream
+501939,2023-12-23 00:00:00,64,M,Nashville,Silver,1,108,Frozen Foods,Upscale
+501940,2021-10-08 00:00:00,60,M,Raleigh,Silver,0,132,Snacks,Value
+501941,2021-06-10 00:00:00,44,M,Raleigh,Silver,0,113,Frozen Foods,Value
+501942,2021-05-19 00:00:00,30,M,Spokane,Gold,1,134,Household,Value
+501943,2021-12-31 00:00:00,23,M,Austin,Silver,1,106,Personal Care,Upscale
+501944,2023-11-19 00:00:00,46,M,Tulsa,PLATINUM,0,109,Personal Care,Mainstream
+501945,2021-05-16 00:00:00,62,M, Tulsa ,Silver,1,140,Snacks,Value
+501946,2024-04-17 00:00:00,36,M,Tulsa,Gold,1,122,Produce,Value
+501947,2023-06-22 00:00:00,62,F,Spokane,Silver,1,140,Snacks,Value
+501948,2023-06-29 00:00:00,31,F,Raleigh,Platinum,1,113,Household,Value
+501949,2021-12-14 00:00:00,34,M,Madison,Silver,1,115,Beverages,Mainstream
+501950,2023-11-27 00:00:00,71,,Portland,Platinum,1,106,Household,Upscale
+501951,2021-03-27 00:00:00,51,M,Columbus,Silver,1,118,Produce,Mainstream
+501952,2023-09-25 00:00:00,46,F,Tulsa,Silver,0,117,Snacks,Upscale
+501953,2021-07-29 00:00:00,49,M,NASHVILLE,Silver,1,110,Personal Care,Mainstream
+501954,2022-06-20 00:00:00,55,F,Denver,Silver,1,125,Dairy,Value
+501955,2023-07-15 00:00:00,50,M,Nashville,Silver,1,113,Snacks,Value
+501956,2022-12-25 00:00:00,58,M,Nashville,Platinum,1,121,Beverages,Value
+501957,2023-12-20 00:00:00,31,M,Boise,Platinum,1,108,Snacks,Upscale
+501958,2022-12-17 00:00:00,64,F,Madison,Silver,0,116,Beverages,Mainstream
+501959,2022-02-12 00:00:00,18,F,Tulsa,Silver,1,105,Produce,Mainstream
+501960,2023-09-05 00:00:00,33,M,Columbus,Silver,0,123,Snacks,Mainstream
+501961,2021-04-03 00:00:00,35,F,Raleigh,Silver,0,112,Snacks,Value
+501962,2022-03-17 00:00:00,22,F,Tulsa,Gold,0,121,Beverages,Value
+501963,2023-02-27 00:00:00,64,Other,Denver,Silver,0,102,Dairy,Upscale
+501964,2023-05-30 00:00:00,44,M,Boise,Platinum,1,102,Household,Upscale
+501965,2021-11-06 00:00:00,58,F,Nashville,Platinum,0,138,Personal Care,Value
+501966,2023-01-21 00:00:00,27,,Austin,Silver,1,128,Personal Care,Upscale
+501967,2021-04-26 00:00:00,74,M,Portland,Gold,1,122,Beverages,Value
+501968,2022-11-07 00:00:00,19,F,Madison,Gold,0,132,Frozen Foods,Value
+501969,2022-02-03 00:00:00,54,M,Columbus,Gold,1,132,Snacks,Value
+501970,2021-06-09 00:00:00,70,M,Columbus,Silver,0,119,Frozen Foods,Mainstream
+501971,2021-04-17 00:00:00,67,M,Madison,Silver,0,139,Produce,Upscale
+501972,2023-07-19 00:00:00,53,F,Spokane,Silver,0,127,Produce,Mainstream
+501973,2022-12-13 00:00:00,73,M,Portland,Silver,1,136,Frozen Foods,Value
+501974,2022-01-13 00:00:00,41,Other,Portland,Silver,0,110,Frozen Foods,Mainstream
+501975,2023-01-08 00:00:00,38,F,Columbus,Gold,1,102,Personal Care,
+501976,2023-05-07 00:00:00,25,M,Tulsa,Silver,1,130,Frozen Foods,Mainstream
+501977,2022-05-08 00:00:00,57,F, Denver ,Silver,0,114,Dairy,Mainstream
+501978,2021-06-21 00:00:00,61,M,Spokane,Silver,0,119,Frozen Foods,Mainstream
+501979,2022-11-05 00:00:00,21,M,Austin,Gold,1,128,Household,Upscale
+501980,2023-01-27 00:00:00,48,M,Madison,Silver,1,126,Personal Care,Mainstream
+501981,2021-11-23 00:00:00,53,M,Madison,Silver,0,130,Dairy,Mainstream
+501982,2022-09-19 00:00:00,27,F,Nashville,Gold,1,127,Frozen Foods,Mainstream
+501983,2023-05-06 00:00:00,46,F,Raleigh,Silver,1,132,Household,Value
+501984,2021-07-11 00:00:00,73,M,Austin,Gold,1,118,Frozen Foods,Mainstream
+501985,2022-05-21 00:00:00,63,F,Raleigh,Silver,0,136,Frozen Foods,Value
+501986,2022-03-07 00:00:00,72,F,Tulsa,Silver,0,108,Bakery,
+501987,2021-09-24 00:00:00,48,F,Tulsa,Silver,1,112,Personal Care,Value
+501988,2024-01-13 00:00:00,,M,Raleigh,Silver,1,138,Produce,Value
+501989,2021-08-11 00:00:00,72,F,Tulsa,Silver,0,127,Personal Care,Mainstream
+501990,2023-11-24 00:00:00,65,M,Denver,Silver,1,134,Beverages,Value
+501991,2024-04-19 00:00:00,43,M,Denver,Silver,1,115,Personal Care,Mainstream
+501992,2021-02-28 00:00:00,48,M,Portland,GOLD,1,116,Frozen Foods,Mainstream
+501993,2023-06-12 00:00:00,44,M,Austin,Gold,1,129,Bakery,Mainstream
+501994,2024-03-29 00:00:00,,M,Spokane,Gold,1,116,Beverages,Mainstream
+501995,2022-02-01 00:00:00,50,F,Tulsa,Gold,1,133,Dairy,Value
+501996,2023-05-16 00:00:00,55,F,Raleigh,Gold,1,134,Beverages,Value
+501997,2022-12-31 00:00:00,65,M,Tulsa,Platinum,0,105,Household,Mainstream
+501998,2021-04-07 00:00:00,26,M,Austin,Silver,1,131,Personal Care,
+501999,2022-07-05 00:00:00,47,M,Boise,Gold,1,136,Snacks,Value
+502000,2024-04-15 00:00:00,53,M,Tulsa,Silver,0,112,Beverages,Value
+502001,2022-03-01 00:00:00,52,F,Madison,Silver,1,118,Frozen Foods,Mainstream
+502002,2023-10-27 00:00:00,21,F,Nashville, Gold ,0,133,Personal Care,Value
+502003,2023-04-22 00:00:00,59,M,Tulsa,Silver,1,138,Bakery,Value
+502004,2023-08-27 00:00:00,18,M,Spokane,Platinum,0,114,Beverages,Mainstream
+502005,2021-05-29 00:00:00,54,F,Portland,Platinum,1,119,Beverages,Mainstream
+502006,2024-01-22 00:00:00,58,F,Nashville,Silver,0,134,Beverages,Value
+502007,2022-08-09 00:00:00,35,F,Tulsa,Gold,0,104,Produce,Value
+502008,2022-10-28 00:00:00,37,F,Denver,Platinum,0,105,Snacks,Mainstream
+502009,2022-07-27 00:00:00,33,F,Raleigh,Silver,1,137,Bakery,Mainstream
+502010,2022-06-09 00:00:00,57,F,Austin,Silver,0,138,Personal Care,Value
+502011,2024-01-03 00:00:00,30,F,Tulsa,Gold,0,130,Produce,Mainstream
+502012,2023-04-26 00:00:00,62,F,Austin,Silver,0,115,Produce,Mainstream
+502013,2022-07-09 00:00:00,34,F,Denver,Gold,0,112,Frozen Foods,Value
+502014,2023-12-27 00:00:00,65,F,Spokane,Gold,1,137,Dairy,Mainstream
+502015,2021-09-28 00:00:00,72,F,Columbus,Platinum,0,124,Frozen Foods,
+502016,2021-09-27 00:00:00,53,,Portland,Silver,1,110,Produce,Mainstream
+502017,2022-08-23 00:00:00,19,M,Raleigh,Silver,1,139,Personal Care,
+502018,2021-10-04 00:00:00,66,M,Portland,Silver,1,115,Household,Mainstream
+502019,2022-12-18 00:00:00,61,F,Raleigh,Silver,1,101,Frozen Foods,Mainstream
+502020,2022-07-15 00:00:00,55,F,Spokane,Silver,1,111,Snacks,Mainstream
+502021,2022-11-04 00:00:00,69,F,Denver,Platinum,0,136,Personal Care,
+502022,2023-11-23 00:00:00,70,M,Columbus,Silver,1,124,Frozen Foods,Value
+502023,2023-10-10 00:00:00,43,F,Portland,Gold,1,128,Snacks,Upscale
+502024,2022-08-07 00:00:00,69,M,Tulsa,Silver,1,111,Dairy,Mainstream
+502025,2024-02-01 00:00:00,47,M,Raleigh,Platinum,1,137,Household,
+502026,2022-04-27 00:00:00,20,M,Spokane,Silver,1,127,Frozen Foods,Mainstream
+502027,2023-04-22 00:00:00,47,M,Austin,Silver,1,126,Personal Care,Mainstream
+502028,2022-12-18 00:00:00,33,F,Spokane,Silver,1,128,Dairy,Upscale
+502029,2021-06-18 00:00:00,59,F,Denver,Silver,1,105,Bakery,Mainstream
+502030,2021-07-27 00:00:00,40,F,Austin,Silver,1,131,Frozen Foods,Mainstream
+502031,2022-10-31 00:00:00,59,M,Nashville,Silver,1,140,Frozen Foods,Value
+502032,2023-02-01 00:00:00,32,M,Nashville,Silver,0,119,Frozen Foods,Mainstream
+502033,2021-09-24 00:00:00,66,F,Spokane,Silver,0,136,Frozen Foods,
+502034,2022-09-13 00:00:00,28,F,Columbus,Gold,1,118,Dairy,Mainstream
+502035,2021-12-22 00:00:00,29,F,Nashville,Silver,1,120,Snacks,Upscale
+502036,2023-12-21 00:00:00,67,F,Tulsa,Silver,0,111,Beverages,Mainstream
+502037,2022-01-21 00:00:00,59,F,Tulsa,Gold,1,129,Dairy,Mainstream
+502038,2022-07-13 00:00:00,19,F,Columbus,Silver,1,120,Produce,Upscale
+502039,2023-08-29 00:00:00,43,M,Austin,Gold,0,112,Snacks,Value
+502040,2021-11-18 00:00:00,28,F,Austin,Silver,1,122,Beverages,Value
+502041,2022-08-14 00:00:00,68,M,Nashville,Silver,1,113,Bakery,Value
+502042,2021-12-29 00:00:00,61,F,Columbus,Gold,1,112,Household,Value
+502043,2021-09-06 00:00:00,61,F,Raleigh,Silver,0,130,Snacks,Mainstream
+502044,2023-07-07 00:00:00,30,F,Austin,Gold,1,123,Snacks,Mainstream
+502045,2021-09-28 00:00:00,59,F,Denver,Silver,0,140,Frozen Foods,Value
+502046,2021-02-27 00:00:00,32,M,Boise,Silver,1,107,Snacks,Value
+502047,2022-09-05 00:00:00,,F,Tulsa,Silver,0,134,Bakery,Value
+502048,2022-01-11 00:00:00,73,F,Columbus,Silver,1,117,Snacks,Upscale
+502049,2021-11-12 00:00:00,63,Other,Nashville,Silver,0,126,Bakery,Mainstream
+502050,2022-12-24 00:00:00,61,M,Nashville,Silver,0,113,Personal Care,Value
+502051,2021-10-03 00:00:00,26,F,Denver,Silver,1,122,Snacks,Value
+502052,2023-01-03 00:00:00,43,F,Columbus,Platinum,1,122,Bakery,Value
+502053,2021-07-02 00:00:00,50,M,Columbus,Silver,1,126,Dairy,Mainstream
+502054,2021-11-03 00:00:00,25,F,Portland,Platinum,1,132,Personal Care,Value
+502055,2022-08-11 00:00:00,53,F,Tulsa,Silver,1,124,Beverages,Value
+502056,2023-10-10 00:00:00,33,F,Portland,Silver,1,102,Household,Upscale
+502057,2021-09-07 00:00:00,74,M,Raleigh,Platinum,0,109,Beverages,
+502058,2022-04-15 00:00:00,73,F,Portland,Gold,1,118,Snacks,Mainstream
+502059,2022-07-04 00:00:00,47,Other,Raleigh,Platinum,1,129,Bakery,Mainstream
+502060,2022-01-12 00:00:00,63,F,Boise,Silver,1,105,Frozen Foods,Mainstream
+502061,2021-02-24 00:00:00,72,F,Raleigh,Silver,1,135,Produce,Mainstream
+502062,2022-09-06 00:00:00,21,F,Austin,Gold,1,115,Beverages,Mainstream
+502063,2023-02-06 00:00:00,29,M,Spokane,Gold,0,123,Bakery,Mainstream
+502064,2021-07-16 00:00:00,58,M,Tulsa,Silver,1,130,Beverages,Mainstream
+502065,2022-04-04 00:00:00,28,F,Tulsa,Silver,1,115,Frozen Foods,Mainstream
+502066,2022-11-01 00:00:00,39,M,Portland,Platinum,0,126,Beverages,Mainstream
+502067,2023-10-03 00:00:00,68,F,Portland,Gold,0,113,Personal Care,Value
+502068,2022-11-06 00:00:00,59,M,Denver,Gold,0,129,Dairy,Mainstream
+502069,2021-05-03 00:00:00,43,F,Nashville,Silver,1,102,Bakery,Upscale
+502070,2023-06-04 00:00:00,34,M,Austin, Platinum ,1,133,Beverages,Value
+502071,2021-04-06 00:00:00,41,F,Nashville,Silver,1,117,Snacks,Upscale
+502072,2021-05-23 00:00:00,25,M,Spokane,Silver,1,114,Produce,Mainstream
+502073,2021-08-17 00:00:00,66,F,Spokane,Silver,1,121,Dairy,Value
+502074,2023-04-28 00:00:00,19,M,Denver,Silver,1,115,Beverages,Mainstream
+502075,2021-10-16 00:00:00,25,F,Raleigh,Silver,0,112,Beverages,Value
+502076,2022-02-09 00:00:00,34,M,Columbus,Gold,1,108,Dairy,Upscale
+502077,2021-06-17 00:00:00,40,M,Austin,Gold,1,129,Bakery,Mainstream
+502078,2023-01-10 00:00:00,67,M,Madison,Silver,1,114,Household,Mainstream
+502079,2022-05-10 00:00:00,60,F,Austin,Silver,1,129,Bakery,Mainstream
+502080,2021-05-04 00:00:00,68,F,Denver,Gold,0,125,Beverages,Value
+502081,2021-05-30 00:00:00,57,Other,Denver,Silver,1,105,Bakery,Mainstream
+502082,2021-04-19 00:00:00,56,F,Columbus,Silver,1,127,Frozen Foods,Mainstream
+502083,2024-01-05 00:00:00,30,F,Columbus,Silver,1,119,Personal Care,Mainstream
+502084,2024-03-28 00:00:00,60,F,Columbus,Silver,1,129,Household,Mainstream
+502085,2024-01-13 00:00:00,,,Columbus,silver,1,106,Personal Care,Upscale
+502086,2021-02-24 00:00:00,29,Other,Madison,Gold,0,122,Produce,Value
+502087,2023-01-01 00:00:00,,F,Madison,Silver,0,132,Frozen Foods,Value
+502088,2022-05-26 00:00:00,38,F,Austin, Silver ,0,103,Produce,Mainstream
+502089,2023-01-01 00:00:00,73,F,Austin,Platinum,1,122,Snacks,Value
+502090,2024-02-06 00:00:00,69,F,Spokane,Silver,1,126,Snacks,Mainstream
+502091,2021-06-01 00:00:00,64,F,Boise,Silver,0,111,Household,Mainstream
+502092,2022-09-29 00:00:00,74,F,Austin,Gold,0,134,Beverages,Value
+502093,2023-05-12 00:00:00,34,F,Austin,Silver,1,119,Dairy,Mainstream
+502094,2024-03-06 00:00:00,43,Other,Raleigh,Platinum,1,135,Snacks,Mainstream
+502095,2023-12-18 00:00:00,29,F,Denver,Silver,1,137,Snacks,Mainstream
+502096,2022-07-30 00:00:00,62,M,Boise,Silver,1,101,Household,Mainstream
+502097,2021-11-16 00:00:00,40,F,Spokane,Silver,1,116,Household,Mainstream
+502098,2023-09-29 00:00:00,,F,Raleigh,Gold,1,116,Frozen Foods,Mainstream
+502099,2022-08-21 00:00:00,26,M,Madison,Silver,1,129,Beverages,Mainstream
+502100,2023-02-27 00:00:00,74,F,Raleigh,Gold,0,120,Produce,Upscale
+502101,2022-03-30 00:00:00,28,F,Madison,Silver,0,132,Frozen Foods,Value
+502102,2023-05-12 00:00:00,34,M,Nashville,Platinum,1,125,Household,Value
+502103,2021-07-03 00:00:00,72,F,Columbus,Silver,1,107,Personal Care,Value
+502104,2022-05-29 00:00:00,55,F,Columbus,Gold,1,132,Dairy,Value
+502105,2023-10-10 00:00:00,44,M,DENVER,Platinum,0,106,Household,Upscale
+502106,2021-09-13 00:00:00,,F,Spokane,Gold,0,102,Snacks,Upscale
+502107,2022-04-09 00:00:00,34,M,Denver,Silver,0,106,Personal Care,Upscale
+502108,2021-05-03 00:00:00,44,F,Nashville,Platinum,0,137,Frozen Foods,Mainstream
+502109,2021-05-19 00:00:00,30,M,Portland,Gold,1,132,Frozen Foods,Value
+502110,2023-04-14 00:00:00,44,F,Tulsa,Silver,1,118,Produce,Mainstream
+502111,2022-02-12 00:00:00,50,,Boise,Platinum,1,115,Produce,Mainstream
+502112,2022-07-06 00:00:00,33,M,Raleigh,Silver,1,139,Bakery,Upscale
+502113,2022-12-12 00:00:00,38,M,Denver,Silver,0,120,Household,Upscale
+502114,2024-04-26 00:00:00,19,F,Spokane,Silver,1,132,Beverages,Value
+502115,2021-09-23 00:00:00,68,M,madison,Gold,0,105,Beverages,Mainstream
+502116,2023-02-22 00:00:00,61,F,Columbus,Silver,0,116,Household,Mainstream
+502117,2024-02-12 00:00:00,74,F,Raleigh,Silver,1,131,Beverages,Mainstream
+502118,2021-04-04 00:00:00,57,F,Austin,Silver,1,139,Frozen Foods,Upscale
+502119,2023-01-20 00:00:00,74,M,Raleigh,Gold,1,119,Household,Mainstream
+502120,2023-12-15 00:00:00,65,M,Madison,Silver,1,119,Frozen Foods,Mainstream
+502121,2022-12-09 00:00:00,28,M,Madison,Gold,1,133,Bakery,Value
+502122,2021-07-20 00:00:00,26,M,Raleigh,Silver,1,105,Frozen Foods,Mainstream
+502123,2021-12-08 00:00:00,55,F,Nashville,Silver,1,115,Beverages,Mainstream
+502124,2022-03-31 00:00:00,31,F,Tulsa,Silver,1,109,Personal Care,Mainstream
+502125,2023-05-21 00:00:00,60,F,Raleigh,Silver,1,140,Dairy,Value
+502126,2023-05-25 00:00:00,51,F,Tulsa,Silver,1,122,Snacks,Value
+502127,2023-06-30 00:00:00,73,M,Spokane,Silver,1,112,Household,Value
+502128,2021-11-04 00:00:00,71,F,Boise,Silver,1,131,Dairy,Mainstream
+502129,2021-10-04 00:00:00,65,M,Boise,Gold,1,118,Personal Care,Mainstream
+502130,2023-05-30 00:00:00,44,M,Madison,Silver,0,113,Personal Care,
+502131,2023-05-16 00:00:00,57,M,Denver,Platinum,0,120,Produce,Upscale
+502132,2021-06-21 00:00:00,29,M,Boise,Silver,1,138,Household,Value
+502133,2021-03-19 00:00:00,70,M,Columbus,Silver,1,120,Beverages,Upscale
+502134,2024-01-27 00:00:00,51,F,Denver,Gold,0,111,Household,Mainstream
+502135,2023-07-08 00:00:00,52,M,Denver,Silver,1,115,Frozen Foods,
+502136,2023-12-15 00:00:00,72,F,Madison,Silver,1,140,Personal Care,Value
+502137,2023-03-10 00:00:00,44,M,Tulsa,Silver,0,121,Bakery,Value
+502138,2021-12-07 00:00:00,67,F,Denver,Gold,0,126,Frozen Foods,Mainstream
+502139,2022-06-16 00:00:00,,M,Raleigh,Gold,1,120,Snacks,Upscale
+502140,2022-11-24 00:00:00,69,F,Madison,Silver,1,130,Beverages,Mainstream
+502141,2023-09-03 00:00:00,25,M,Spokane,Gold,0,117,Produce,Upscale
+502142,2023-11-12 00:00:00,41,M,Denver,Silver,1,116,Dairy,Mainstream
+502143,2021-11-25 00:00:00,52,F,Columbus,Gold,1,114,Snacks,Mainstream
+502144,2022-09-10 00:00:00,32,M,Boise,Gold,1,122,Produce,Value
+502145,2024-04-08 00:00:00,38,M,Columbus,Platinum,0,135,Bakery,Mainstream
+502146,2023-05-21 00:00:00,67,M,Tulsa,Silver,0,115,Bakery,Mainstream
+502147,2022-02-28 00:00:00,68,F,Tulsa,Silver,1,124,Personal Care,Value
+502148,2022-07-30 00:00:00,62,F,Denver,Gold,1,121,Household,Value
+502149,2022-01-01 00:00:00,31,F,Austin,Silver,0,105,Household,Mainstream
+502150,2021-12-14 00:00:00,66,F,Boise,Gold,1,134,Dairy,Value
+502151,2023-12-24 00:00:00,22,M,Madison,GOLD,0,115,Household,Mainstream
+502152,2021-08-04 00:00:00,40,M,Raleigh,Gold,1,131,Bakery,Mainstream
+502153,2022-06-03 00:00:00,23,M,Madison,Silver,1,126,Household,Mainstream
+502154,2024-02-23 00:00:00,34,F,Austin,Gold,0,133,Bakery,Value
+502155,2021-04-09 00:00:00,62,F,Columbus,Silver,1,119,Bakery,Mainstream
+502156,2022-06-09 00:00:00,31,M,Madison,Silver,0,117,Produce,Upscale
+502157,2023-07-29 00:00:00,45,Other,Denver,Silver,0,120,Household,Upscale
+502158,2021-03-09 00:00:00,67,F,Raleigh,Gold,1,112,Beverages,Value
+502159,2024-03-24 00:00:00,33,F,Tulsa,Silver,1,132,Produce,Value
+502160,2022-11-12 00:00:00,70,F,Nashville,Silver,1,124,Household,Value
+502161,2024-03-17 00:00:00,50,Other,Portland,Silver,1,120,Beverages,Upscale
+502162,2021-11-14 00:00:00,38,F,Spokane,Gold,1,139,Frozen Foods,Upscale
+502163,2021-11-08 00:00:00,,M,Madison,Silver,0,106,Produce,Upscale
+502164,2024-01-10 00:00:00,67,M,Columbus,Silver,1,129,Personal Care,Mainstream
+502165,2023-05-27 00:00:00,36,F,Tulsa,Gold,1,132,Personal Care,Value
+502166,2021-07-15 00:00:00,39,M,Austin,Gold,0,110,Bakery,Mainstream
+502167,2023-07-01 00:00:00,22,F,Austin,Gold,1,109,Beverages,Mainstream
+502168,2022-06-21 00:00:00,43,M,Madison,Platinum,1,132,Bakery,Value
+502169,2022-08-05 00:00:00,36,F,Tulsa,Silver,1,129,Frozen Foods,Mainstream
+502170,2021-06-28 00:00:00,50,M,Austin,Silver,0,136,Frozen Foods,Value
+502171,2021-12-13 00:00:00,53,F,Columbus,Silver,0,122,Household,Value
+502172,2021-10-25 00:00:00,30,M,Madison,Silver,1,130,Dairy,Mainstream
+502173,2024-01-18 00:00:00,37,M,Madison,Silver,1,117,Beverages,Upscale
+502174,2021-07-20 00:00:00,33,F,Columbus,Gold,0,130,Beverages,
+502175,2022-11-19 00:00:00,22,Other,AUSTIN,Silver,1,130,Dairy,Mainstream
+502176,2024-02-25 00:00:00,33,F,Madison,Silver,1,128,Personal Care,Upscale
+502177,2024-01-12 00:00:00,56,M,Spokane,Silver,0,137,Snacks,Mainstream
+502178,2022-01-16 00:00:00,32,Other,Nashville,Platinum,0,123,Household,Mainstream
+502179,2021-06-28 00:00:00,41,M,Spokane,Silver,0,140,Bakery,Value
+502180,2023-09-15 00:00:00,47,M,Tulsa,Gold,1,116,Produce,Mainstream
+502181,2023-05-25 00:00:00,18,M,Spokane,Silver,1,106,Beverages,Upscale
+502182,2023-06-27 00:00:00,23,M,Tulsa, Gold ,0,129,Snacks,Mainstream
+502183,2021-06-25 00:00:00,20,F,Raleigh,Silver,1,118,Frozen Foods,Mainstream
+502184,2023-04-19 00:00:00,62,M,Portland,Silver,1,117,Beverages,Upscale
+502185,2022-04-03 00:00:00,34,M,Spokane,Silver,1,130,Personal Care,Mainstream
+502186,2022-06-11 00:00:00,27,M,Raleigh,Silver,0,108,Beverages,Upscale
+502187,2023-01-09 00:00:00,27,F,Austin,Silver,0,112,Dairy,Value
+502188,2022-04-29 00:00:00,43,M,Tulsa,Silver,1,136,Produce,Value
+502189,2023-09-04 00:00:00,23,F,Columbus,SILVER,1,133,Household,Value
+502190,2021-05-09 00:00:00,54,F,Austin,Gold,1,137,Frozen Foods,Mainstream
+502191,2021-05-27 00:00:00,58,F,Denver,Silver,1,134,Beverages,Value
+502192,2024-04-18 00:00:00,25,M,Spokane,Gold,1,106,Beverages,Upscale
+502193,2022-10-16 00:00:00,74,F,Austin,Silver,1,111,Produce,Mainstream
+502194,2023-09-19 00:00:00,41,M,Madison,Silver,1,133,Household,Value
+502195,2022-11-25 00:00:00,65,F,Madison,Silver,1,132,Household,Value
+502196,2023-03-06 00:00:00,50,F,Columbus,Silver,0,125,Personal Care,Value
+502197,2021-07-14 00:00:00,67,M,Raleigh,Platinum,0,133,Personal Care,
+502198,2021-09-18 00:00:00,49,F,Columbus,Silver,1,114,Dairy,Mainstream
+502199,2023-06-01 00:00:00,36,F,Tulsa,Silver,0,106,Snacks,Upscale
+502200,2022-07-29 00:00:00,68,M,Portland,Silver,1,114,Produce,Mainstream
+502201,2023-01-30 00:00:00,69,F,Madison,Silver,1,129,Frozen Foods,Mainstream
+502202,2022-09-11 00:00:00,62,Other,Boise,Silver,1,106,Beverages,Upscale
+502203,2021-06-10 00:00:00,56,F,Raleigh,Gold,0,123,Personal Care,Mainstream
+502204,2021-11-25 00:00:00,24,M,Raleigh,Gold,0,118,Frozen Foods,Mainstream
+502205,2024-03-02 00:00:00,61,F,Austin,Gold,1,135,Personal Care,Mainstream
+502206,2022-03-28 00:00:00,65,M,Portland,Silver,1,109,Frozen Foods,Mainstream
+502207,2021-11-12 00:00:00,54,F,Tulsa,Silver,1,124,Produce,Value
+502208,2023-05-29 00:00:00,49,M,Boise,Silver,1,127,Frozen Foods,Mainstream
+502209,2021-12-18 00:00:00,55,F,Portland,Silver,0,139,Beverages,Upscale
+502210,2024-01-22 00:00:00,56,F,Austin,Gold,0,138,Bakery,Value
+502211,2024-01-14 00:00:00,24,M,Portland,Gold,1,116,Beverages,Mainstream
+502212,2022-11-09 00:00:00,27,M,Boise,Silver,1,112,Frozen Foods,Value
+502213,2023-01-05 00:00:00,33,M,Nashville,Silver,1,129,Bakery,Mainstream
+502214,2021-07-08 00:00:00,44,M,Boise,Silver,1,111,Produce,Mainstream
+502215,2021-09-10 00:00:00,40,F,Austin,Gold,1,115,Personal Care,Mainstream
+502216,2022-06-03 00:00:00,57,F,Austin,Silver,0,121,Dairy,Value
+502217,2022-08-06 00:00:00,52,M,Tulsa,Silver,0,133,Produce,Value
+502218,2024-03-01 00:00:00,63,M,Raleigh,Silver,1,105,Personal Care,Mainstream
+502219,2023-09-24 00:00:00,30,M,Raleigh,Silver,1,134,Dairy,Value
+502220,2022-12-05 00:00:00,63,F,Raleigh,Silver,1,106,Produce,Upscale
+502221,2022-12-22 00:00:00,30,M,Tulsa,Gold,1,111,Personal Care,Mainstream
+502222,2023-02-08 00:00:00,30,F,Spokane,Silver,0,108,Personal Care,Upscale
+502223,2022-09-25 00:00:00,70,M,Portland,Platinum,1,105,Frozen Foods,Mainstream
+502224,2022-06-21 00:00:00,65,F,Columbus,Platinum,1,134,Personal Care,Value
+502225,2023-02-01 00:00:00,23,M,Columbus, Gold ,1,105,Household,Mainstream
+502226,2022-06-16 00:00:00,50,M,Nashville,Silver,0,121,Frozen Foods,Value
+502227,2023-12-29 00:00:00,72,F,Nashville,Platinum,1,139,Produce,Upscale
+502228,2021-04-15 00:00:00,56,M,Spokane,Silver,0,132,Personal Care,Value
+502229,2022-09-04 00:00:00,49,F,Austin,Gold,1,110,Household,Mainstream
+502230,2023-04-03 00:00:00,66,F,austin,Silver,1,134,Household,
+502231,2022-11-30 00:00:00,51,F,Madison,Gold,1,115,Personal Care,Mainstream
+502232,2023-01-11 00:00:00,41,M,Madison,Silver,0,113,Bakery,Value
+502233,2023-06-03 00:00:00,70,F,Denver,Silver,0,115,Personal Care,Mainstream
+502234,2022-05-16 00:00:00,70,M,Portland,Silver,1,108,Produce,Upscale
+502235,2021-06-29 00:00:00,70,F,Raleigh,Silver,0,133,Snacks,Value
+502236,2021-06-30 00:00:00,68,F,Portland,Silver,1,103,Produce,
+502237,2023-10-20 00:00:00,32,F,Austin,Silver,1,102,Snacks,Upscale
+502238,2022-01-27 00:00:00,64,F,Spokane,Gold,0,130,Dairy,Mainstream
+502239,2021-12-02 00:00:00,36,F,Austin,Silver,1,110,Beverages,Mainstream
+502240,2022-10-30 00:00:00,39,F,Portland,Silver,0,122,Dairy,Value
+502241,2022-02-17 00:00:00,51,F,Tulsa,Silver,1,139,Bakery,Upscale
+502242,2021-09-22 00:00:00,48,F, Columbus ,Silver,0,135,Frozen Foods,Mainstream
+502243,2024-01-01 00:00:00,68,M,Boise,Silver,1,108,Snacks,Upscale
+502244,2022-10-13 00:00:00,27,F,Columbus,gold,0,127,Personal Care,Mainstream
+502245,2024-03-27 00:00:00,52,M,Spokane,Gold,1,120,Produce,Upscale
+502246,2021-04-01 00:00:00,61,F,Tulsa,Platinum,0,107,Produce,Value
+502247,2022-08-23 00:00:00,43,F,Spokane,Platinum,0,137,Produce,Mainstream
+502248,2023-06-07 00:00:00,68,F,Tulsa,Silver,0,120,Snacks,Upscale
+502249,2024-02-18 00:00:00,60,F,Columbus,Gold,1,108,Beverages,Upscale
+502250,2023-12-05 00:00:00,27,M,Columbus,Gold,1,117,Personal Care,Upscale
+502251,2023-06-08 00:00:00,26,F,Raleigh,Silver,0,108,Household,Upscale
+502252,2021-09-04 00:00:00,60,F,Nashville,Gold,0,105,Snacks,Mainstream
+502253,2021-03-11 00:00:00,39,F,Spokane,Silver,0,107,Beverages,Value
+502254,2023-05-21 00:00:00,57,M,Columbus,Silver,1,106,Beverages,Upscale
+502255,2023-04-01 00:00:00,,M,Columbus,Gold,1,114,Produce,Mainstream
+502256,2021-08-15 00:00:00,20,M,Madison,Silver,1,129,Frozen Foods,Mainstream
+502257,2024-01-06 00:00:00,58,M,Boise,Silver,0,126,Household,Mainstream
+502258,2022-05-20 00:00:00,70,F,Portland,Gold,1,127,Frozen Foods,Mainstream
+502259,2022-06-01 00:00:00,65,M,Raleigh,Silver,0,122,Beverages,Value
+502260,2022-09-15 00:00:00,45,F,Tulsa,Gold,1,117,Bakery,Upscale
+502261,2021-08-29 00:00:00,45,M,Madison,Silver,1,114,Produce,Mainstream
+502262,2024-01-22 00:00:00,33,F,Spokane,Platinum,1,105,Personal Care,Mainstream
+502263,2023-06-04 00:00:00,46,M,Nashville,Platinum,0,113,Snacks,Value
+502264,2021-10-26 00:00:00,19,,Columbus,Gold,1,111,Snacks,Mainstream
+502265,2023-05-15 00:00:00,28,F,Denver,Gold,0,136,Frozen Foods,Value
+502266,2024-02-15 00:00:00,62,M,Spokane,Gold,1,118,Produce,Mainstream
+502267,2022-11-14 00:00:00,35,M,Boise,Gold,0,103,Personal Care,Mainstream
+502268,2021-03-30 00:00:00,37,F,Nashville,Gold,1,130,Dairy,Mainstream
+502269,2021-10-21 00:00:00,57,F, Madison ,Platinum,1,111,Dairy,
+502270,2021-07-11 00:00:00,47,F,Tulsa,Silver,0,117,Frozen Foods,Upscale
+502271,2023-06-04 00:00:00,43,M,Raleigh,Gold,1,111,Frozen Foods,Mainstream
+502272,2023-05-14 00:00:00,29,M,Columbus,Silver,0,131,Bakery,Mainstream
+502273,2023-11-04 00:00:00,37,F,Austin,Silver,1,137,Bakery,Mainstream
+502274,2023-12-05 00:00:00,52,F,Tulsa,Silver,0,115,Bakery,Mainstream
+502275,2023-06-12 00:00:00,53,F,Austin,Gold,1,116,Household,Mainstream
+502276,2021-07-01 00:00:00,40,M,Boise,Gold,1,125,Frozen Foods,Value
+502277,2022-03-04 00:00:00,56,F,Portland,Platinum,1,133,Household,Value
+502278,2022-10-19 00:00:00,63,,Raleigh,Gold,0,130,Snacks,Mainstream
+502279,2022-10-29 00:00:00,23,M,Denver,Silver,1,114,Dairy,Mainstream
+502280,2023-12-08 00:00:00,55,Other,Madison,Silver,1,117,Frozen Foods,Upscale
+502281,2022-10-07 00:00:00,58,M,Tulsa,Silver,1,113,Personal Care,Value
+502282,2022-09-27 00:00:00,59,F,Nashville,Gold,1,119,Dairy,Mainstream
+502283,2021-11-19 00:00:00,,F,Raleigh,Silver,0,138,Beverages,Value
+502284,2023-07-19 00:00:00,32,M,Denver,Platinum,1,103,Produce,Mainstream
+502285,2021-07-27 00:00:00,42,M,Madison,Silver,0,122,Bakery,Value
+502286,2023-01-11 00:00:00,21,M,Spokane,Platinum,1,105,Frozen Foods,Mainstream
+502287,2024-02-23 00:00:00,35,F,Spokane,Gold,1,121,Beverages,Value
+502288,2022-04-14 00:00:00,68,F,Raleigh,Gold,1,128,Dairy,Upscale
+502289,2022-05-25 00:00:00,65,M,Madison,Gold,1,112,Bakery,Value
+502290,2021-05-28 00:00:00,71,M,Tulsa,Gold,1,104,Frozen Foods,Value
+502291,2022-07-26 00:00:00,19,M,Spokane,Silver,0,121,Bakery,Value
+502292,2021-10-08 00:00:00,54,Other,Raleigh,Gold,0,108,Household,Upscale
+502293,2023-07-27 00:00:00,,Other,Portland,Gold,1,129,Beverages,Mainstream
+502294,2023-10-27 00:00:00,70,M,Denver,Gold,1,120,Personal Care,Upscale
+502295,2022-04-11 00:00:00,47,M,Austin,Gold,1,124,Household,Value
+502296,2022-10-22 00:00:00,58,F,Columbus,Silver,1,138,Dairy,Value
+502297,2021-10-19 00:00:00,31,F,Boise,Silver,0,113,Snacks,Value
+502298,2022-10-05 00:00:00,52,F,Denver,Gold,1,140,Household,Value
+502299,2021-10-14 00:00:00,66,M,Austin,SILVER,0,113,Beverages,Value
+502300,2021-03-02 00:00:00,41,M,Tulsa,Silver,1,131,Personal Care,
+502301,2021-03-27 00:00:00,63,M,Boise,Platinum,0,129,Dairy,Mainstream
+502302,2024-01-22 00:00:00,38,M,Madison,Gold,1,115,Household,Mainstream
+502303,2021-03-25 00:00:00,30,F,Tulsa,Silver,1,135,Household,Mainstream
+502304,2022-09-13 00:00:00,45,,Tulsa,Silver,0,108,Frozen Foods,Upscale
+502305,2023-02-20 00:00:00,56,F,Portland,Gold,0,130,Beverages,Mainstream
+502306,2021-05-29 00:00:00,30,M,Madison,Platinum,1,117,Frozen Foods,Upscale
+502307,2023-10-18 00:00:00,47,M,Tulsa,Silver,0,132,Personal Care,Value
+502308,2023-01-22 00:00:00,42,M,Portland,Gold,0,103,Beverages,Mainstream
+502309,2021-09-01 00:00:00,66,F,Austin,Gold,1,136,Personal Care,Value
+502310,2023-07-01 00:00:00,,F,denver,Silver,0,112,Frozen Foods,Value
+502311,2021-05-05 00:00:00,18,M,Spokane,Gold,1,102,Household,Upscale
+502312,2022-07-22 00:00:00,19,M,Nashville,Platinum,1,129,Household,Mainstream
+502313,2022-09-11 00:00:00,46,M,Spokane,Gold,0,102,Personal Care,Upscale
+502314,2023-04-24 00:00:00,,F,Austin,Platinum,0,125,Frozen Foods,Value
+502315,2023-12-07 00:00:00,21,F,Austin,Silver,1,110,Dairy,Mainstream
+502316,2021-05-14 00:00:00,34,M,portland,GOLD,1,138,Bakery,Value
+502317,2024-04-28 00:00:00,37,M,Columbus,Silver,1,122,Household,Value
+502318,2024-01-24 00:00:00,,F,Columbus,Gold,1,113,Dairy,Value
+502319,2024-02-05 00:00:00,29,F,Denver,Gold,0,122,Household,Value
+502320,2023-09-04 00:00:00,64,F,Austin,Silver,0,117,Bakery,Upscale
+502321,2021-12-25 00:00:00,57,F,Austin,Silver,1,126,Frozen Foods,Mainstream
+502322,2024-01-25 00:00:00,53,F,Tulsa,Silver,0,130,Produce,Mainstream
+502323,2023-11-11 00:00:00,,M,Madison,Platinum,1,108,Household,Upscale
+502324,2022-01-21 00:00:00,55,M,Raleigh,Silver,1,111,Household,Mainstream
+502325,2024-03-24 00:00:00,23,F,Raleigh,Silver,1,103,Produce,Mainstream
+502326,2023-05-26 00:00:00,52,F,Madison,silver,1,110,Frozen Foods,Mainstream
+502327,2021-09-06 00:00:00,29,F,Madison,Silver,1,106,Household,
+502328,2021-06-14 00:00:00,32,M,Spokane,Silver,0,140,Household,Value
+502329,2022-10-01 00:00:00,63,F,Spokane,Silver,1,129,Personal Care,Mainstream
+502330,2021-06-22 00:00:00,39,F,Columbus,Silver,0,114,Frozen Foods,Mainstream
+502331,2021-06-28 00:00:00,62,M,Nashville,Silver,1,121,Bakery,Value
+502332,2021-05-03 00:00:00,66,Other,Spokane,Silver,1,136,Personal Care,Value
+502333,2023-07-18 00:00:00,32,F,Spokane,Silver,1,120,Bakery,Upscale
+502334,2023-07-08 00:00:00,71,Other,Boise,Silver,1,117,Beverages,Upscale
+502335,2022-03-23 00:00:00,43,F,Boise,Silver,0,135,Household,Mainstream
+502336,2024-05-02 00:00:00,28,F,Raleigh,Silver,0,136,Snacks,Value
+502337,2023-06-27 00:00:00,34,Other,Spokane,Silver,1,125,Snacks,Value
+502338,2023-02-04 00:00:00,18,Other,Spokane,Silver,0,134,Bakery,Value
+502339,2021-06-27 00:00:00,27,F,Boise,Gold,1,121,Household,Value
+502340,2021-04-02 00:00:00,72,M,Raleigh,Platinum,0,112,Frozen Foods,
+502341,2023-03-29 00:00:00,26,M,Denver,Gold,0,106,Frozen Foods,Upscale
+502342,2021-11-21 00:00:00,66,F,Denver,Silver,0,103,Frozen Foods,Mainstream
+502343,2022-08-04 00:00:00,55,M,Denver,Gold,0,119,Beverages,Mainstream
+502344,2024-02-23 00:00:00,52,M,Austin,Gold,0,127,Frozen Foods,Mainstream
+502345,2023-01-23 00:00:00,68,F,Columbus,Gold,0,140,Personal Care,Value
+502346,2022-01-31 00:00:00,64,F,Portland,Gold,0,114,Dairy,Mainstream
+502347,2022-01-28 00:00:00,47,,Columbus,Silver,1,110,Bakery,Mainstream
+502348,2021-05-26 00:00:00,51,M,Tulsa,Silver,0,114,Household,Mainstream
+502349,2022-04-29 00:00:00,74,M,Columbus,Silver,0,137,Dairy,Mainstream
+502350,2021-03-27 00:00:00,69,M,Raleigh,Silver,1,129,Beverages,Mainstream
+502351,2022-11-20 00:00:00,37,F,Boise,Silver,1,104,Household,Value
+502352,2022-01-16 00:00:00,31,F,Tulsa,Silver,1,117,Personal Care,Upscale
+502353,2022-05-09 00:00:00,20,F,Denver,Platinum,1,114,Snacks,Mainstream
+502354,2021-07-28 00:00:00,43,M,Denver,gold,0,112,Beverages,
+502355,2021-05-11 00:00:00,53,F,Raleigh,Gold,1,105,Personal Care,
+502356,2021-08-22 00:00:00,56,M,Columbus,Silver,0,135,Produce,Mainstream
+502357,2021-04-10 00:00:00,74,Other,Denver,Gold,1,132,Frozen Foods,Value
+502358,2023-03-10 00:00:00,30,F,Raleigh,Gold,1,132,Dairy,Value
+502359,2021-02-26 00:00:00,46,F,Austin,Silver,0,132,Produce,Value
+502360,2024-01-08 00:00:00,58,F,Tulsa,Silver,0,133,Dairy,Value
+502361,2023-02-28 00:00:00,23,,Raleigh,Silver,1,110,Snacks,Mainstream
+502362,2022-01-02 00:00:00,32,M,Nashville,Silver,1,114,Dairy,Mainstream
+502363,2022-05-09 00:00:00,59,M,Nashville,Silver,1,101,Bakery,
+502364,2023-11-24 00:00:00,58,F,Columbus,Silver,1,140,Dairy,Value
+502365,2022-02-26 00:00:00,29,M,Austin,Gold,0,132,Snacks,Value
+502366,2023-02-08 00:00:00,63,F,Portland,Gold,0,121,Produce,Value
+502367,2021-10-15 00:00:00,67,M,Columbus,Silver,1,108,Dairy,Upscale
+502368,2021-02-22 00:00:00,42,F,Boise,Gold,0,113,Beverages,Value
+502369,2023-09-09 00:00:00,36,M,Madison,Silver,1,127,Dairy,
+502370,2022-07-18 00:00:00,74,F,Boise,Gold,0,106,Frozen Foods,Upscale
+502371,2024-03-31 00:00:00,32,M,Portland,Silver,0,103,Frozen Foods,Mainstream
+502372,2022-08-31 00:00:00,53,M,Columbus,Silver,1,133,Beverages,Value
+502373,2021-08-21 00:00:00,38,M,Spokane,Silver,0,131,Frozen Foods,Mainstream
+502374,2021-04-19 00:00:00,61,M,Spokane,Silver,0,129,Bakery,Mainstream
+502375,2021-10-19 00:00:00,53,F,Madison,Silver,1,138,Frozen Foods,Value
+502376,2023-06-05 00:00:00,19,M,Denver,Platinum,1,138,Frozen Foods,Value
+502377,2023-02-18 00:00:00,21,M,Raleigh,Silver,1,111,Produce,Mainstream
+502378,2021-02-18 00:00:00,24,,Columbus,Platinum,1,104,Frozen Foods,Value
+502379,2021-10-20 00:00:00,74,F,Austin,Silver,1,140,Household,Value
+502380,2021-05-31 00:00:00,,F,Nashville,Gold,1,103,Frozen Foods,Mainstream
+502381,2023-07-19 00:00:00,36,M,Spokane,Silver,0,120,Frozen Foods,Upscale
+502382,2023-03-04 00:00:00,71,M,Madison,platinum,1,136,Produce,Value
+502383,2021-09-10 00:00:00,35,Other,Columbus,Silver,1,130,Frozen Foods,Mainstream
+502384,2023-04-16 00:00:00,53,F,Raleigh,Silver,0,111,Household,Mainstream
+502385,2021-12-02 00:00:00,45,M,Spokane,Silver,1,121,Snacks,Value
+502386,2023-12-06 00:00:00,70,M,Tulsa,Silver,0,114,Dairy,Mainstream
+502387,2024-02-19 00:00:00,45,M,Portland,Silver,1,128,Beverages,Upscale
+502388,2021-05-27 00:00:00,21,M,Spokane,Gold,1,106,Personal Care,Upscale
+502389,2023-05-14 00:00:00,40,M,Nashville,Silver,1,113,Personal Care,Value
+502390,2023-09-28 00:00:00,68,F,Portland,Gold,1,121,Dairy,Value
+502391,2023-07-09 00:00:00,40,F,Tulsa,Silver,0,138,Household,Value
+502392,2024-04-22 00:00:00,68,F,Austin,Platinum,0,109,Bakery,Mainstream
+502393,2021-11-25 00:00:00,,M,Denver,Silver,1,115,Snacks,
+502394,2021-06-26 00:00:00,53,M,Nashville,Silver,1,103,Frozen Foods,Mainstream
+502395,2024-04-13 00:00:00,26,M,Denver,Silver,0,120,Snacks,Upscale
+502396,2022-06-03 00:00:00,42,M,Raleigh,Silver,1,139,Personal Care,Upscale
+502397,2023-03-03 00:00:00,48,M,Boise,Silver,1,113,Dairy,Value
+502398,2022-03-08 00:00:00,58,F,Austin,Gold,0,106,Household,Upscale
+502399,2022-02-03 00:00:00,59,F,Austin,Silver,1,122,Bakery,
+502400,2021-12-27 00:00:00,31,M,Denver,Silver,1,115,Snacks,Mainstream
+502401,2024-03-10 00:00:00,57,M,Denver,Silver,0,112,Bakery,Value
+502402,2024-03-14 00:00:00,56,F,Boise,Gold,1,109,Beverages,Mainstream
+502403,2021-04-23 00:00:00,18,M,Raleigh,Silver,1,104,Personal Care,
+502404,2024-01-16 00:00:00,57,F,Spokane,Silver,1,133,Household,Value
+502405,2022-09-17 00:00:00,71,F,Austin,Gold,0,140,Beverages,Value
+502406,2022-09-26 00:00:00,48,Other,Spokane,Silver,1,132,Snacks,Value
+502407,2023-02-14 00:00:00,,F,Boise,Silver,1,127,Household,Mainstream
+502408,2024-03-05 00:00:00,32,M,Portland,Silver,0,137,Snacks,Mainstream
+502409,2023-10-20 00:00:00,61,F,Tulsa,Platinum,1,128,Personal Care,Upscale
+502410,2022-09-20 00:00:00,,Other,Nashville,Silver,1,119,Dairy,Mainstream
+502411,2023-12-26 00:00:00,27,M,Denver,Gold,1,129,Snacks,Mainstream
+502412,2021-12-23 00:00:00,29,F,Madison,Silver,1,132,Household,Value
+502413,2021-07-31 00:00:00,31,M,Denver,Silver,1,111,Personal Care,Mainstream
+502414,2022-03-25 00:00:00,65,M,Spokane,Gold,0,133,Dairy,Value
+502415,2021-09-05 00:00:00,24,,Madison,Gold,0,124,Frozen Foods,Value
+502416,2022-05-12 00:00:00,30,M,Portland,silver,0,134,Snacks,Value
+502417,2022-02-12 00:00:00,68,F,Spokane,Gold,1,104,Snacks,Value
+502418,2024-03-09 00:00:00,22,F,Spokane,Silver,1,107,Dairy,Value
+502419,2022-08-03 00:00:00,34,F,Austin,Gold,0,125,Snacks,Value
+502420,2023-07-31 00:00:00,32,F,Tulsa,Silver,1,120,Frozen Foods,Upscale
+502421,2023-09-29 00:00:00,63,Other,Columbus,Platinum,1,126,Dairy,Mainstream
+502422,2021-06-17 00:00:00,47,F,Austin,Gold,1,127,Beverages,Mainstream
+502423,2021-09-08 00:00:00,26,F,Columbus,Silver,0,126,Frozen Foods,Mainstream
+502424,2023-12-10 00:00:00,51,F,Nashville,Gold,0,113,Bakery,Value
+502425,2021-03-05 00:00:00,69,M,Raleigh,Gold,0,131,Bakery,Mainstream
+502426,2022-08-18 00:00:00,67,Other,Denver,Silver,0,132,Produce,Value
+502427,2022-05-07 00:00:00,70,M,Tulsa,Gold,0,112,Bakery,
+502428,2024-03-05 00:00:00,66,M,Nashville,Silver,1,126,Personal Care,Mainstream
+502429,2021-07-04 00:00:00,67,F,Boise,Gold,1,110,Snacks,Mainstream
+502430,2021-04-30 00:00:00,73,M,Raleigh,Platinum,1,133,Frozen Foods,Value
+502431,2021-11-17 00:00:00,52,F,Raleigh,Gold,0,114,Snacks,Mainstream
+502432,2023-10-15 00:00:00,68,M,Boise,Gold,0,130,Bakery,Mainstream
+502433,2022-08-26 00:00:00,36,M,Denver,Silver,1,133,Snacks,Value
+502434,2023-01-09 00:00:00,43,F,Portland,Silver,0,118,Beverages,Mainstream
+502435,2023-01-30 00:00:00,36,M,Tulsa,Silver,1,116,Frozen Foods,Mainstream
+502436,2022-08-02 00:00:00,26,M,Tulsa,Silver,1,105,Snacks,Mainstream
+502437,2022-01-17 00:00:00,21,F,Columbus,Silver,1,107,Beverages,
+502438,2022-01-13 00:00:00,72,F,Tulsa,Silver,1,110,Snacks,Mainstream
+502439,2023-07-25 00:00:00,56,M,Portland,Silver,0,102,Beverages,
+502440,2021-05-02 00:00:00,31,F,Raleigh,Gold,1,120,Household,
+502441,2022-12-08 00:00:00,37,M,Madison,Gold,1,104,Personal Care,Value
+502442,2021-12-23 00:00:00,,F,Tulsa,Gold,0,139,Personal Care,Upscale
+502443,2021-07-23 00:00:00,25,M,Tulsa,Gold,1,109,Produce,Mainstream
+502444,2023-03-23 00:00:00,33,F,Nashville,Gold,1,109,Personal Care,Mainstream
+502445,2021-08-03 00:00:00,23,M,Tulsa,Gold,1,133,Frozen Foods,Value
+502446,2024-02-04 00:00:00,64,M,Tulsa,Silver,1,133,Bakery,Value
+502447,2023-05-19 00:00:00,39,M,Austin,SILVER,0,115,Frozen Foods,Mainstream
+502448,2022-01-26 00:00:00,29,M,Nashville,Silver,0,111,Beverages,Mainstream
+502449,2021-12-02 00:00:00,28,F,Columbus,Silver,1,110,Snacks,Mainstream
+502450,2021-03-22 00:00:00,41,M,Spokane,Gold,0,124,Bakery,Value
+502451,2022-12-26 00:00:00,57,F,COLUMBUS,Silver,1,133,Snacks,Value
+502452,2024-04-13 00:00:00,30,F,Austin,Gold,1,137,Bakery,Mainstream
+502453,2022-11-30 00:00:00,29,F,Spokane,Silver,1,102,Produce,Upscale
+502454,2021-11-08 00:00:00,67,F,Madison,Silver,1,118,Dairy,Mainstream
+502455,2023-12-19 00:00:00,18,M,Madison,Gold,1,116,Household,Mainstream
+502456,2023-10-09 00:00:00,53,M,Boise,Gold,1,109,Beverages,Mainstream
+502457,2023-01-05 00:00:00,18,F,Nashville,Platinum,1,129,Dairy,Mainstream
+502458,2022-11-11 00:00:00,53,M,Denver,Silver,1,113,Snacks,Value
+502459,2022-12-08 00:00:00,33,M,Portland,Platinum,1,117,Personal Care,Upscale
+502460,2022-08-30 00:00:00,,M,Boise,Silver,0,130,Produce,Mainstream
+502461,2022-05-16 00:00:00,46,M,Portland,Silver,1,101,Dairy,Mainstream
+502462,2022-05-15 00:00:00,28,M,PORTLAND,Silver,0,127,Snacks,Mainstream
+502463,2023-01-07 00:00:00,59,F, Spokane ,Gold,0,134,Household,Value
+502464,2021-03-02 00:00:00,66,Other,Raleigh,Gold,1,126,Bakery,Mainstream
+502465,2022-10-08 00:00:00,42,F,Columbus,Gold,1,110,Snacks,Mainstream
+502466,2022-02-18 00:00:00,61,F, Raleigh ,Platinum,0,109,Bakery,Mainstream
+502467,2022-03-15 00:00:00,61,M,Madison,Silver,1,125,Snacks,Value
+502468,2023-01-29 00:00:00,59,,Boise,Silver,0,131,Personal Care,Mainstream
+502469,2022-04-14 00:00:00,61,F,Raleigh,Silver,1,139,Personal Care,Upscale
+502470,2022-01-17 00:00:00,74,F,Nashville,Platinum,1,134,Household,Value
+502471,2022-10-17 00:00:00,31,F,Boise,Silver,1,114,Dairy,Mainstream
+502472,2022-11-03 00:00:00,49,F,Tulsa,Silver,0,119,Bakery,Mainstream
+502473,2022-06-03 00:00:00,72,F,Madison,Silver,0,120,Snacks,Upscale
+502474,2023-01-05 00:00:00,28,F,Columbus,Gold,0,112,Personal Care,Value
+502475,2021-11-28 00:00:00,37,M,Raleigh,Gold,1,105,Frozen Foods,Mainstream
+502476,2023-03-02 00:00:00,52,F,Denver,Platinum,1,125,Frozen Foods,Value
+502477,2024-01-13 00:00:00,22,F,Tulsa,Gold,1,104,Frozen Foods,Value
+502478,2022-10-03 00:00:00,34,M,Tulsa,Gold,1,132,Personal Care,Value
+502479,2021-06-12 00:00:00,35,F,Austin,GOLD,1,106,Household,Upscale
+502480,2023-06-09 00:00:00,47,F,Spokane,Gold,1,119,Bakery,Mainstream
+502481,2023-05-05 00:00:00,49,M,Boise,Gold,1,130,Produce,Mainstream
+502482,2023-07-24 00:00:00,44,F,Denver,Platinum,1,123,Household,Mainstream
+502483,2021-05-12 00:00:00,64,F,Spokane,Gold,1,115,Frozen Foods,Mainstream
+502484,2023-11-11 00:00:00,50,F,Spokane,Silver,1,130,Snacks,Mainstream
+502485,2022-12-01 00:00:00,60,F,Denver,Silver,1,116,Produce,Mainstream
+502486,2022-12-04 00:00:00,70,F,Portland,Platinum,1,137,Snacks,Mainstream
+502487,2022-07-13 00:00:00,50,F,Tulsa,gold,0,115,Personal Care,Mainstream
+502488,2023-05-25 00:00:00,64,F,Tulsa,Silver,1,104,Bakery,Value
+502489,2021-11-22 00:00:00,44,F,Raleigh,Platinum,1,126,Frozen Foods,Mainstream
+502490,2021-08-27 00:00:00,41,M,Columbus,Silver,1,128,Bakery,Upscale
+502491,2022-12-10 00:00:00,20,F,Spokane,Silver,1,127,Produce,Mainstream
+502492,2021-08-14 00:00:00,64,F,Tulsa,Silver,1,103,Frozen Foods,Mainstream
+502493,2023-12-13 00:00:00,22,F,Columbus,Silver,0,107,Snacks,Value
+502494,2023-03-27 00:00:00,67,F,Nashville,Silver,0,111,Snacks,Mainstream
+502495,2021-07-01 00:00:00,26,F,Denver,silver,1,106,Dairy,Upscale
+502496,2022-05-09 00:00:00,62,M,Boise,Silver,0,128,Bakery,Upscale
+502497,2023-10-15 00:00:00,73,M,Denver,Silver,0,137,Frozen Foods,Mainstream
+502498,2021-06-12 00:00:00,49,M,Columbus,Gold,1,107,Snacks,Value
+502499,2021-07-11 00:00:00,61,F,columbus,Silver,1,140,Beverages,Value
+502500,2023-03-09 00:00:00,69,M,Portland,Gold,1,127,Snacks,Mainstream
+502501,2023-09-26 00:00:00,65,M,Nashville,Platinum,0,127,Bakery,Mainstream
+502502,2022-07-23 00:00:00,46,M,Tulsa,Gold,1,132,Bakery,Value
+502503,2022-06-17 00:00:00,70,M,Austin,Gold,1,115,Household,Mainstream
+502504,2022-12-01 00:00:00,,F,Austin,Gold,1,128,Household,Upscale
+502505,2022-01-20 00:00:00,23,M,Denver,Silver,0,126,Personal Care,Mainstream
+502506,2022-04-03 00:00:00,33,M,Spokane,Platinum,0,133,Household,Value
+502507,2021-10-26 00:00:00,74,M,Austin,Silver,0,108,Household,Upscale
+502508,2021-04-06 00:00:00,55,M,TULSA,Silver,0,125,Household,Value
+502509,2021-12-04 00:00:00,28,F,Madison,Gold,1,133,Household,Value
+502510,2023-11-22 00:00:00,39,M,Spokane,Silver,1,121,Personal Care,Value
+502511,2024-04-24 00:00:00,18,F,Nashville,Silver,1,117,Produce,Upscale
+502512,2021-03-30 00:00:00,42,F,Austin,Silver,1,140,Frozen Foods,Value
+502513,2021-10-01 00:00:00,52,M,Tulsa,Platinum,0,135,Beverages,Mainstream
+502514,2022-03-16 00:00:00,40,M,Boise,Silver,1,114,Frozen Foods,Mainstream
+502515,2023-07-12 00:00:00,46,F,Raleigh,Silver,1,138,Household,Value
+502516,2021-10-14 00:00:00,28,M,Columbus,Platinum,1,107,Household,Value
+502517,2023-12-27 00:00:00,21,F,Madison,Gold,1,106,Snacks,Upscale
+502518,2022-04-20 00:00:00,23,F,Denver,Gold,1,120,Frozen Foods,Upscale
+502519,2023-02-17 00:00:00,56,F,Nashville,Gold,0,139,Personal Care,Upscale
+502520,2021-07-19 00:00:00,20,M,Nashville,Gold,1,124,Frozen Foods,Value
+502521,2022-02-25 00:00:00,28,F,Raleigh,Silver,1,130,Bakery,Mainstream
+502522,2023-04-17 00:00:00,56,M,NASHVILLE,Silver,1,115,Bakery,Mainstream
+502523,2021-10-21 00:00:00,63,F,Nashville,Silver,1,102,Dairy,Upscale
+502524,2022-01-25 00:00:00,36,F,Raleigh,Gold,0,139,Snacks,Upscale
+502525,2023-07-13 00:00:00,46,F,Columbus,Silver,0,120,Beverages,Upscale
+502526,2023-06-28 00:00:00,44,F,Nashville,Silver,1,114,Snacks,Mainstream
+502527,2023-02-05 00:00:00,61,M,Tulsa,Gold,1,102,Snacks,Upscale
+502528,2022-09-15 00:00:00,71,Other,Austin,Platinum,1,108,Snacks,Upscale
+502529,2023-06-14 00:00:00,65,M,Madison,Gold,0,137,Frozen Foods,Mainstream
+502530,2022-02-25 00:00:00,53,F,Tulsa,Silver,0,122,Produce,Value
+502531,2022-08-28 00:00:00,60,M,Tulsa,Platinum,0,128,Personal Care,Upscale
+502532,2023-09-10 00:00:00,64,F,Columbus,Silver,1,109,Snacks,Mainstream
+502533,2022-02-01 00:00:00,66,F,Spokane,Platinum,1,105,Household,Mainstream
+502534,2024-02-21 00:00:00,61,M,Columbus,Gold,1,126,Personal Care,Mainstream
+502535,2021-05-11 00:00:00,58,F,Madison,Platinum,1,130,Beverages,Mainstream
+502536,2021-10-20 00:00:00,72,F,Boise,Platinum,0,112,Beverages,Value
+502537,2024-01-18 00:00:00,38,M,Spokane,Silver,1,134,Personal Care,Value
+502538,2021-09-29 00:00:00,,F,Tulsa,Silver,1,115,Household,Mainstream
+502539,2023-04-10 00:00:00,46,M,Spokane,Platinum,1,129,Frozen Foods,Mainstream
+502540,2022-03-16 00:00:00,39,F,Boise,Silver,0,128,Household,Upscale
+502541,2023-07-31 00:00:00,20,F,Nashville,silver,0,129,Produce,Mainstream
+502542,2023-04-22 00:00:00,72,F,Spokane,Silver,0,128,Household,Upscale
+502543,2024-04-15 00:00:00,73,F,Raleigh,Silver,1,130,Snacks,Mainstream
+502544,2022-03-24 00:00:00,44,F,Madison,Silver,1,102,Produce,
+502545,2022-06-13 00:00:00,59,F,Denver,Silver,0,134,Household,Value
+502546,2024-01-25 00:00:00,72,F,Columbus,Silver,1,123,Snacks,Mainstream
+502547,2023-06-15 00:00:00,45,F,Nashville,Platinum,0,108,Beverages,Upscale
+502548,2022-03-19 00:00:00,28,F,Spokane,Platinum,0,123,Household,Mainstream
+502549,2021-10-12 00:00:00,24,Other,Nashville,Platinum,1,132,Frozen Foods,Value
+502550,2022-06-28 00:00:00,21,M,Raleigh,Gold,0,115,Dairy,Mainstream
+502551,2023-10-23 00:00:00,21,M,Columbus,Gold,0,128,Dairy,Upscale
+502552,2022-05-11 00:00:00,69,F,Raleigh,Silver,1,115,Frozen Foods,Mainstream
+502553,2023-08-15 00:00:00,58,M,Spokane,Gold,0,115,Dairy,Mainstream
+502554,2022-11-27 00:00:00,41,M,Columbus,Silver,0,125,Frozen Foods,Value
+502555,2022-10-20 00:00:00,72,M,Madison,Silver,1,114,Household,Mainstream
+502556,2023-08-13 00:00:00,46,F,Portland,Silver,0,132,Beverages,Value
+502557,2021-09-23 00:00:00,39,F,Raleigh,Silver,1,130,Frozen Foods,Mainstream
+502558,2022-01-04 00:00:00,71,F,Raleigh,Silver,1,132,Frozen Foods,Value
+502559,2023-12-26 00:00:00,59,F,Madison,Gold,0,115,Frozen Foods,Mainstream
+502560,2022-11-06 00:00:00,30,M,Denver,Silver,0,134,Bakery,Value
+502561,2023-12-21 00:00:00,57,F,Denver,Gold,1,140,Frozen Foods,Value
+502562,2021-12-12 00:00:00,73,M,Boise,Silver,1,122,Snacks,Value
+502563,2023-02-07 00:00:00,40,M,Nashville,Gold,0,112,Produce,Value
+502564,2023-03-03 00:00:00,40,M,Portland,Gold,1,111,Frozen Foods,Mainstream
+502565,2023-07-19 00:00:00,48,F,Spokane,Gold,1,139,Personal Care,Upscale
+502566,2024-01-21 00:00:00,32,F,Tulsa,Silver,1,130,Produce,Mainstream
+502567,2023-11-27 00:00:00,71,M,Denver,Silver,0,134,Produce,Value
+502568,2022-08-07 00:00:00,31,F,Boise,Silver,1,107,Beverages,Value
+502569,2022-01-05 00:00:00,63,F,Raleigh,Silver,0,134,Frozen Foods,Value
+502570,2022-05-05 00:00:00,47,M,Tulsa,Silver,0,101,Snacks,Mainstream
+502571,2023-08-12 00:00:00,55,M,austin,Platinum,1,129,Frozen Foods,Mainstream
+502572,2021-05-20 00:00:00,44,M,Denver,Platinum,1,106,Snacks,Upscale
+502573,2022-04-02 00:00:00,57,M,Nashville,Silver,1,113,Frozen Foods,Value
+502574,2021-06-29 00:00:00,68,M,Raleigh,Silver,1,103,Snacks,Mainstream
+502575,2024-04-27 00:00:00,49,F,Tulsa,Silver,1,126,Personal Care,Mainstream
+502576,2024-02-26 00:00:00,20,F, Portland ,Silver,1,117,Beverages,Upscale
+502577,2024-02-23 00:00:00,59,M,Austin,Silver,1,113,Beverages,Value
+502578,2021-11-11 00:00:00,20,F,Boise,Silver,0,116,Frozen Foods,Mainstream
+502579,2023-02-28 00:00:00,49,M,Madison,Gold,1,140,Frozen Foods,Value
+502580,2023-07-02 00:00:00,26,F,Boise,Silver,0,139,Produce,Upscale
+502581,2022-06-06 00:00:00,64,F,Austin,Silver,1,124,Bakery,Value
+502582,2022-02-07 00:00:00,52,Other,Raleigh,Silver,1,135,Bakery,Mainstream
+502583,2022-11-26 00:00:00,54,F,Spokane,Gold,1,140,Dairy,Value
+502584,2023-02-14 00:00:00,62,M,Boise,Silver,0,134,Household,Value
+502585,2023-02-04 00:00:00,32,F,Portland,Gold,1,103,Bakery,Mainstream
+502586,2023-04-22 00:00:00,45,Other,Austin,Silver,0,130,Beverages,Mainstream
+502587,2023-02-13 00:00:00,29,F,Nashville,Silver,1,122,Frozen Foods,Value
+502588,2022-10-09 00:00:00,52,M,Madison,Gold,1,108,Household,Upscale
+502589,2023-04-17 00:00:00,41,M,Columbus,Gold,1,122,Personal Care,Value
+502590,2022-08-21 00:00:00,54,F,Spokane,Silver,1,107,Personal Care,Value
+502591,2022-04-06 00:00:00,52,F,Raleigh,Silver,1,128,Personal Care,Upscale
+502592,2022-02-10 00:00:00,19,F,Spokane,Platinum,0,133,Personal Care,Value
+502593,2024-04-22 00:00:00,29,F,Columbus,Gold,1,126,Snacks,Mainstream
+502594,2022-04-17 00:00:00,32,M,Madison,Silver,0,131,Dairy,Mainstream
+502595,2023-04-28 00:00:00,39,M,columbus,Silver,0,114,Beverages,Mainstream
+502596,2022-03-01 00:00:00,74,M,Nashville,Gold,0,102,Bakery,Upscale
+502597,2021-04-04 00:00:00,44,M,Austin,Silver,0,111,Beverages,Mainstream
+502598,2023-02-08 00:00:00,36,M,Spokane,Silver,1,117,Beverages,Upscale
+502599,2023-12-23 00:00:00,66,F,Raleigh,Silver,1,107,Bakery,Value
+502600,2022-03-02 00:00:00,71,F,Raleigh,Silver,1,111,Produce,Mainstream

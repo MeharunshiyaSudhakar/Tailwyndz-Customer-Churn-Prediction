@@ -1,0 +1,38 @@
+PHASE 11 — SHAP EXPLANATIONS
+============================================================
+Training customers used to fit model: 1781
+Held-out customers explained: 446
+Raw predictors: 36
+Transformed predictors: 58
+SHAP values explain the fitted model's output in transformed feature space.
+They are not causal effects and do not prove the model is leakage-free.
+This is a refitted logistic model on the same training split, not a
+serialized copy of the original Phase 9 model.
+
+TOP 20 FEATURES BY MEAN ABSOLUTE SHAP
+------------------------------------------------------------
+1. numeric__MONTHS_SINCE_LAST_OBSERVED_ACTIVITY: mean_abs_shap=2.920533; mean_shap=0.187297
+2. numeric__LATE_PERIOD_TRANSACTIONS: mean_abs_shap=1.196835; mean_shap=0.039530
+3. numeric__OBSERVED_FEATURE_MONTHS: mean_abs_shap=0.847181; mean_shap=-0.115243
+4. numeric__TOTAL_EMAILS_OPENED_PRE_APR2024: mean_abs_shap=0.803245; mean_shap=0.073557
+5. numeric__EARLY_PERIOD_SUPPORT_TICKETS: mean_abs_shap=0.716329; mean_shap=-0.011627
+6. numeric__LATE_PERIOD_APP_SESSIONS: mean_abs_shap=0.576062; mean_shap=0.087920
+7. numeric__TOTAL_SPEND_PRE_APR2024: mean_abs_shap=0.529764; mean_shap=-0.097663
+8. numeric__TOTAL_SUPPORT_TICKETS_PRE_APR2024: mean_abs_shap=0.527393; mean_shap=0.022379
+9. numeric__EARLY_PERIOD_SPEND: mean_abs_shap=0.509891; mean_shap=0.015437
+10. numeric__LATE_PERIOD_SUPPORT_TICKETS: mean_abs_shap=0.466917; mean_shap=-0.034462
+11. numeric__EARLY_PERIOD_TRANSACTIONS: mean_abs_shap=0.437662; mean_shap=-0.033477
+12. numeric__LATE_PERIOD_SPEND: mean_abs_shap=0.359037; mean_shap=0.032957
+13. numeric__TOTAL_TRANSACTIONS_PRE_APR2024: mean_abs_shap=0.349452; mean_shap=-0.063143
+14. numeric__MEDIAN_MONTHLY_SPEND_OBSERVED: mean_abs_shap=0.345391; mean_shap=0.073509
+15. numeric__MEAN_MONTHLY_SPEND_OBSERVED: mean_abs_shap=0.273106; mean_shap=-0.046236
+16. numeric__MARKETING_OPT_IN: mean_abs_shap=0.243995; mean_shap=-0.007514
+17. numeric__APP_TREND_LATE_MINUS_EARLY: mean_abs_shap=0.243473; mean_shap=0.069514
+18. numeric__TENURE_DAYS_AT_CUTOFF: mean_abs_shap=0.220701; mean_shap=0.012741
+19. numeric__TOTAL_COUPONS_REDEEMED_PRE_APR2024: mean_abs_shap=0.210818; mean_shap=0.025733
+20. numeric__SUPPORT_TREND_LATE_MINUS_EARLY: mean_abs_shap=0.189673; mean_shap=0.052815
+
+OUTPUT FILES
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_shap_customer_feature_values.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_shap_summary.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_shap_report.txt

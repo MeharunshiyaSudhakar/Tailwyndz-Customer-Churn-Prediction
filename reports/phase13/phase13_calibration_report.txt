@@ -1,0 +1,38 @@
+PHASE 13 — HELD-OUT PROBABILITY CALIBRATION AUDIT
+=================================================================
+Customers evaluated: 446
+Observed churn rate: 29.8206%
+Mean predicted probability: 32.8931%
+Absolute gap between mean probability and observed rate: 3.0725%
+Brier score (lower is better): 0.059036
+Log loss (lower is better): 0.219438
+Minimum predicted probability: 0.00000235
+Maximum predicted probability: 0.99994074
+
+EQUAL-COUNT CALIBRATION BINS, LOW TO HIGH RISK
+-----------------------------------------------------------------
+Bin 1: n=45, mean predicted=0.0197%, observed churn=0.0000%, observed-minus-predicted=-0.0197%
+Bin 2: n=45, mean predicted=0.1415%, observed churn=0.0000%, observed-minus-predicted=-0.1415%
+Bin 3: n=44, mean predicted=0.5469%, observed churn=6.8182%, observed-minus-predicted=6.2713%
+Bin 4: n=45, mean predicted=1.5721%, observed churn=0.0000%, observed-minus-predicted=-1.5721%
+Bin 5: n=44, mean predicted=4.7529%, observed churn=4.5455%, observed-minus-predicted=-0.2074%
+Bin 6: n=45, mean predicted=12.7381%, observed churn=8.8889%, observed-minus-predicted=-3.8492%
+Bin 7: n=44, mean predicted=32.8806%, observed churn=15.9091%, observed-minus-predicted=-16.9715%
+Bin 8: n=45, mean predicted=77.4836%, observed churn=68.8889%, observed-minus-predicted=-8.5947%
+Bin 9: n=44, mean predicted=99.0347%, observed churn=95.4545%, observed-minus-predicted=-3.5802%
+Bin 10: n=45, mean predicted=99.8862%, observed churn=97.7778%, observed-minus-predicted=-2.1084%
+
+INTERPRETATION
+-----------------------------------------------------------------
+1. Brier score and log loss assess probabilistic predictions; lower is better.
+2. Calibration bins compare mean predicted risk with observed churn.
+3. Bin estimates can be noisy because each bin contains a limited number of customers.
+4. Good aggregate calibration does not prove calibration within every segment.
+5. This is one random held-out sample, not a future-time validation.
+6. Calibration cannot rule out target leakage.
+7. Do not claim an intervention will prevent churn without experimental evidence.
+
+OUTPUT FILES
+C:\Tailwyndz_Churn_Prediction\reports\phase13\phase13_calibration_metrics.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase13\phase13_calibration_bins.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase13\phase13_calibration_report.txt

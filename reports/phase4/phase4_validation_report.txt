@@ -1,0 +1,24 @@
+PHASE 4: JOIN TABLES AND VALIDATION REPORT
+==================================================
+Customer profile rows: 2600
+Monthly activity source rows: 28015
+Churn label rows: 2600
+Feature-window activity rows: 23252
+Customers with aggregated feature-window activity: 2481
+Final joined rows: 2600
+Final unique customer IDs: 2600
+Profile customers matched to feature activity: 2481
+Profile customers without feature-window activity: 119
+Profile customers matched to churn labels: 2600
+Profile customers without churn labels: 0
+Repeated customer-month rows in source activity: 4
+Eligible customers (history sufficient and valid label): 2227
+CHURNED label counts: {0: 1782, 1: 818}
+
+Leakage control: aggregated activity features use Jan 2023-Mar 2024 only.
+April-June 2024 activity was excluded from feature aggregation.
+Repeated customer-month rows in source activity: 4 rows across 2 groups.
+April 2023 conflict for customer 502065: both rows excluded from feature aggregation; source values were not altered.
+May 2024 conflict for customer 501780: outside the feature window; not used for predictive features.
+Missing activity is preserved as missing, not automatically treated as zero.
+Excluded duplicate-month groups must be documented as a data limitation.

@@ -1,0 +1,4 @@
+MEMBERSHIP_TIER,customers,churned_customers,churn_rate,churn_rate_pct
+Silver,1269,390,0.3073286052009456,30.73
+Platinum,260,77,0.29615384615384616,29.62
+Gold,698,195,0.2793696275071633,27.94

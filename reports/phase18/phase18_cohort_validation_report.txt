@@ -1,0 +1,40 @@
+PHASE 18 - COHORT-BASED (TIME-ORDERED) PRIMARY VALIDATION
+================================================================
+Train      : signups 2021Q1-2022Q4  n=1384  churn=35.3%
+Validation : signups 2023Q1-2023Q2  n=358  churn=33.0%
+Final test : signups 2023Q3-2024Q1  n=485  churn=11.3% (55 churners)
+
+Later cohorts have shorter tenure and a lower churn rate, so the test set is a
+harder, shifted population. PR-AUC should be read against the test prevalence
+(0.113), which is the score of a no-skill model.
+
+VALIDATION PR-AUC (model selection)
+----------------------------------------------------------------
+Gradient Boosting: 0.9764
+Random Forest: 0.9614
+Logistic Regression: 0.9427
+
+Chosen model: Gradient Boosting   |   threshold tuned on validation (max F1): 0.4240
+
+FINAL TEST RESULTS (chosen model, validation-tuned threshold)
+----------------------------------------------------------------
+F1=0.5101 precision=0.4043 recall=0.6909 ROC-AUC=0.8618 PR-AUC=0.6543
+Confusion matrix: TN=374 FP=56 FN=17 TP=38
+95% bootstrap intervals: PRECISION 0.309-0.500; RECALL 0.558-0.810; F1 0.409-0.599; ROC_AUC 0.800-0.914; PR_AUC 0.530-0.765
+
+All models on the test cohort (threshold 0.50 unless val-tuned)
+----------------------------------------------------------------
+Dummy baseline [0.50]: F1=0.0000 precision=0.0000 recall=0.0000 ROC-AUC=0.5000 PR-AUC=0.1134
+Rule: months since last activity >= 1 [0.50]: F1=0.5455 precision=0.6136 recall=0.4909 ROC-AUC=0.7257 PR-AUC=0.3590
+Logistic Regression [0.50]: F1=0.2689 precision=0.1554 recall=1.0000 ROC-AUC=0.8340 PR-AUC=0.4649
+Logistic Regression [val-tuned]: F1=0.2764 precision=0.1624 recall=0.9273 ROC-AUC=0.8340 PR-AUC=0.4649
+Random Forest [0.50]: F1=0.2595 precision=0.1509 recall=0.9273 ROC-AUC=0.8485 PR-AUC=0.6329
+Random Forest [val-tuned]: F1=0.4054 precision=0.2695 recall=0.8182 ROC-AUC=0.8485 PR-AUC=0.6329
+Gradient Boosting [0.50]: F1=0.5846 precision=0.5067 recall=0.6909 ROC-AUC=0.8618 PR-AUC=0.6543
+Gradient Boosting [val-tuned]: F1=0.5101 precision=0.4043 recall=0.6909 ROC-AUC=0.8618 PR-AUC=0.6543
+
+NOTES
+- Test cohort used once, after model and threshold were fixed on validation.
+- Single outcome window (Apr-Jun 2024): this is a signup-cohort split, which tests
+  generalisation to newer members, not to a later calendar period.
+- Metrics are associations in this dataset; see README limitations.

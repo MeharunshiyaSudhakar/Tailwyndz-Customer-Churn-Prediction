@@ -1,0 +1,28 @@
+PHASE 5 — LEAKAGE-SAFE FEATURE ENGINEERING VALIDATION
+==========================================================
+Feature window start: 2023-01-01
+Feature window end: 2024-03-31
+Post-cutoff activity used: NO
+Post-cutoff window excluded: 2024-04-01 through 2024-06-30
+
+Profile rows: 2600
+Monthly source rows: 28011
+Rows in feature window: 23252
+Customers with observed feature-window activity: 2481
+Customers with no observed feature-window activity: 119
+Final feature rows: 2600
+Final unique customer IDs: 2600
+Eligible labeled customers: 2227
+Missing churn labels: 0
+Missing history flags: 0
+Maximum feature activity month: 2024-03-01
+
+IMPORTANT INTERPRETATION
+- Missing monthly records were not filled with zero purchases.
+- TOTAL_SPEND is an observed-record aggregate; data-quality issues from earlier phases remain documented.
+- Mean PROMO_TXN_PCT is an unweighted mean across observed months.
+- Trend values compare observed early and late period totals; they are not normalized for missing months.
+- CHURNED and INSUFFICIENT_HISTORY_FLAG are labels/eligibility fields, not predictors.
+
+OUTPUT
+C:\Tailwyndz_Churn_Prediction\data\processed\customer_features_pre_apr2024.csv

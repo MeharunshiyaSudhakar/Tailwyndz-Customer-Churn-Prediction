@@ -1,0 +1,19 @@
+PHASE 11 FINAL EXPLAINABILITY AND LEAKAGE AUDIT
+====================================================
+Feature table rows: 2600
+Feature table duplicate customer IDs: 0
+Label rows: 2600
+Activity rows: 28015
+Predictor table contains forbidden exact columns: ['CHURNED', 'CUSTOMER_ID', 'INSUFFICIENT_HISTORY_FLAG', 'NO_OBSERVED_FEATURE_ACTIVITY']
+Label evidence audit saved: C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_label_activity_evidence_audit.csv
+
+INTERPRETATION
+- Date-boundary checks do not by themselves prove absence of target proxies.
+- MONTHS_SINCE_LAST_OBSERVED_ACTIVITY has previously shown a high univariate AUC (~0.92).
+- Nine investigated customers showed discrepancies between labels and available activity evidence.
+- Original labels are preserved; no automatic relabelling was performed.
+- SHAP results from the Phase 11 refit are not identical to explanations for the Phase 9 model.
+- Model performance and feature effects remain provisional pending source-level label clarification.
+
+NEXT ACTION
+Verify the precise target construction and investigate recency-related predictors before operational use.

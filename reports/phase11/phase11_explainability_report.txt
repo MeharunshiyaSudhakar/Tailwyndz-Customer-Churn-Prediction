@@ -1,0 +1,111 @@
+PHASE 11 — EXPLAINABILITY AND SEGMENT-RISK ANALYSIS
+=================================================================
+Eligible training customers: 1781
+Predictor columns before encoding: 33
+Numeric predictors: 31
+Categorical predictors: 2
+Held-out customers summarized: 446
+
+TOP 20 LOGISTIC REGRESSION COEFFICIENTS
+-----------------------------------------------------------------
+Positive coefficients indicate higher predicted churn odds;
+negative coefficients indicate lower predicted churn odds,
+conditional on the other encoded model features.
+Absolute coefficient magnitude is not a causal effect and is
+not directly comparable across every feature type.
+
+ 1. numeric__MONTHS_SINCE_LAST_OBSERVED_ACTIVITY: coef=4.240768; abs=4.240768; Higher predicted churn odds
+ 2. numeric__LATE_PERIOD_TRANSACTIONS: coef=-1.641646; abs=1.641646; Lower predicted churn odds
+ 3. numeric__EARLY_PERIOD_SUPPORT_TICKETS: coef=-1.001328; abs=1.001328; Lower predicted churn odds
+ 4. numeric__OBSERVED_FEATURE_MONTHS: coef=0.905132; abs=0.905132; Higher predicted churn odds
+ 5. numeric__TOTAL_EMAILS_OPENED_PRE_APR2024: coef=-0.845288; abs=0.845288; Lower predicted churn odds
+ 6. numeric__LATE_PERIOD_APP_SESSIONS: coef=-0.755814; abs=0.755814; Lower predicted churn odds
+ 7. numeric__TOTAL_SPEND_PRE_APR2024: coef=0.716534; abs=0.716534; Higher predicted churn odds
+ 8. numeric__EARLY_PERIOD_SPEND: coef=-0.703265; abs=0.703265; Lower predicted churn odds
+ 9. numeric__TOTAL_SUPPORT_TICKETS_PRE_APR2024: coef=0.686702; abs=0.686702; Higher predicted churn odds
+10. numeric__LATE_PERIOD_SUPPORT_TICKETS: coef=0.574182; abs=0.574182; Higher predicted churn odds
+11. numeric__EARLY_PERIOD_TRANSACTIONS: coef=0.552311; abs=0.552311; Higher predicted churn odds
+12. numeric__MEDIAN_MONTHLY_SPEND_OBSERVED: coef=-0.479273; abs=0.479273; Lower predicted churn odds
+13. numeric__LATE_PERIOD_SPEND: coef=-0.478817; abs=0.478817; Lower predicted churn odds
+14. numeric__TOTAL_TRANSACTIONS_PRE_APR2024: coef=0.433482; abs=0.433482; Higher predicted churn odds
+15. numeric__APP_TREND_LATE_MINUS_EARLY: coef=-0.388569; abs=0.388569; Lower predicted churn odds
+16. categorical__PREFERRED_CATEGORY_Beverages: coef=0.381484; abs=0.381484; Higher predicted churn odds
+17. numeric__MEAN_MONTHLY_SPEND_OBSERVED: coef=0.371929; abs=0.371929; Higher predicted churn odds
+18. categorical__PREFERRED_CATEGORY_Personal Care: coef=-0.312574; abs=0.312574; Lower predicted churn odds
+19. numeric__SUPPORT_TREND_LATE_MINUS_EARLY: coef=-0.307809; abs=0.307809; Lower predicted churn odds
+20. numeric__TOTAL_COUPONS_REDEEMED_PRE_APR2024: coef=-0.258253; abs=0.258253; Lower predicted churn odds
+
+HELD-OUT SEGMENT RISK
+-----------------------------------------------------------------
+Actual churn rates are descriptive results for this random held-out
+sample; they do not establish future-period performance or causation.
+
+MEMBERSHIP_TIER=Gold: n=156, actual churn=28.2051%, mean predicted risk=0.3147
+MEMBERSHIP_TIER=Platinum: n=46, actual churn=32.6087%, mean predicted risk=0.3689
+MEMBERSHIP_TIER=Silver: n=244, actual churn=30.3279%, mean predicted risk=0.3305
+CITY=Austin: n=42, actual churn=35.7143%, mean predicted risk=0.4209
+CITY=Boise: n=47, actual churn=31.9149%, mean predicted risk=0.3030
+CITY=Columbus: n=43, actual churn=34.8837%, mean predicted risk=0.4102
+CITY=Denver: n=44, actual churn=27.2727%, mean predicted risk=0.2911
+CITY=Madison: n=50, actual churn=26.0000%, mean predicted risk=0.2969
+CITY=Nashville: n=40, actual churn=35.0000%, mean predicted risk=0.3662
+CITY=Portland: n=39, actual churn=15.3846%, mean predicted risk=0.2595
+CITY=Raleigh: n=41, actual churn=31.7073%, mean predicted risk=0.2930
+CITY=Spokane: n=46, actual churn=26.0870%, mean predicted risk=0.3147
+CITY=Tulsa: n=54, actual churn=33.3333%, mean predicted risk=0.3378
+HOME_STORE_PRICE_TIER=Mainstream: n=181, actual churn=30.9392%, mean predicted risk=0.3397
+HOME_STORE_PRICE_TIER=Missing: n=20, actual churn=30.0000%, mean predicted risk=0.2645
+HOME_STORE_PRICE_TIER=Upscale: n=84, actual churn=25.0000%, mean predicted risk=0.2795
+HOME_STORE_PRICE_TIER=Value: n=161, actual churn=31.0559%, mean predicted risk=0.3506
+
+SIGNUP COHORT RISK
+-----------------------------------------------------------------
+Cohort 2021Q1: n=21, actual churn=38.0952%, mean predicted risk=0.3900
+Cohort 2021Q2: n=30, actual churn=16.6667%, mean predicted risk=0.2328
+Cohort 2021Q3: n=42, actual churn=30.9524%, mean predicted risk=0.3200
+Cohort 2021Q4: n=43, actual churn=37.2093%, mean predicted risk=0.4058
+Cohort 2022Q1: n=34, actual churn=44.1176%, mean predicted risk=0.4315
+Cohort 2022Q2: n=35, actual churn=48.5714%, mean predicted risk=0.4279
+Cohort 2022Q3: n=39, actual churn=35.8974%, mean predicted risk=0.3681
+Cohort 2022Q4: n=39, actual churn=30.7692%, mean predicted risk=0.3149
+Cohort 2023Q1: n=31, actual churn=45.1613%, mean predicted risk=0.4529
+Cohort 2023Q2: n=35, actual churn=31.4286%, mean predicted risk=0.4047
+Cohort 2023Q3: n=39, actual churn=10.2564%, mean predicted risk=0.1655
+Cohort 2023Q4: n=32, actual churn=12.5000%, mean predicted risk=0.1446
+Cohort 2024Q1: n=26, actual churn=0.0000%, mean predicted risk=0.1952
+
+UNIVARIATE AUC LEAKAGE SCREEN
+-----------------------------------------------------------------
+Features with very high univariate AUC need investigation, but
+high AUC alone does not prove target leakage.
+MONTHS_SINCE_LAST_OBSERVED_ACTIVITY: AUC=0.9200, rows=1779
+LATE_PERIOD_TRANSACTIONS: AUC=0.0993, rows=1494
+LATE_PERIOD_SPEND: AUC=0.1140, rows=1494
+LATE_PERIOD_APP_SESSIONS: AUC=0.1190, rows=1494
+TRANSACTION_TREND_LATE_MINUS_EARLY: AUC=0.1766, rows=1013
+SPEND_TREND_LATE_MINUS_EARLY: AUC=0.1821, rows=1013
+APP_TREND_LATE_MINUS_EARLY: AUC=0.2070, rows=1013
+TOTAL_APP_SESSIONS_PRE_APR2024: AUC=0.2250, rows=1779
+MEAN_MONTHLY_SPEND_OBSERVED: AUC=0.2281, rows=1779
+MEDIAN_MONTHLY_SPEND_OBSERVED: AUC=0.2286, rows=1779
+TOTAL_TRANSACTIONS_PRE_APR2024: AUC=0.2295, rows=1779
+TOTAL_SPEND_PRE_APR2024: AUC=0.2407, rows=1779
+MEAN_DISTINCT_CATEGORIES: AUC=0.2625, rows=1779
+TOTAL_COUPONS_REDEEMED_PRE_APR2024: AUC=0.2818, rows=1779
+EARLY_PERIOD_APP_SESSIONS: AUC=0.2960, rows=1292
+
+IMPORTANT LIMITATIONS
+-----------------------------------------------------------------
+1. Importance uses a logistic regression fitted to training customers.
+2. Segment summaries use the saved held-out predictions and labels.
+3. The holdout is a random customer split, not a true future-time holdout.
+4. Segment differences are associations, not causal explanations.
+5. Check suspicious predictors and label-generation rules before deployment.
+6. Coefficients are not SHAP values.
+
+OUTPUT FILES
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_feature_importance.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_segment_risk.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_signup_cohort_risk.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_univariate_auc_screen.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_explainability_report.txt

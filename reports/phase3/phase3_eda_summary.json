@@ -1,0 +1,39 @@
+{
+    "overview": {
+        "profile_rows": 2600,
+        "profile_unique_customers": 2600,
+        "activity_rows": 28015,
+        "activity_unique_customers": 2594,
+        "churn_rows": 2600,
+        "churn_unique_customers": 2600,
+        "activity_first_month": "2023-01-01 00:00:00",
+        "activity_last_month": "2024-06-01 00:00:00",
+        "activity_missing_month_values": 0,
+        "exact_duplicate_rows_profile": 0,
+        "exact_duplicate_rows_activity": 0,
+        "exact_duplicate_rows_churn": 0
+    },
+    "anomalies": {
+        "zero_transactions": 2330,
+        "zero_spend": 2350,
+        "negative_spend": 24,
+        "zero_spend_positive_transactions": 20,
+        "positive_spend_zero_transactions": 0,
+        "negative_transactions": 0
+    },
+    "spending": {
+        "count": 28015,
+        "mean": 134.6327765078617,
+        "median": 116.39,
+        "minimum": -249.21,
+        "maximum": 3731.416790107143,
+        "q1": 58.765,
+        "q3": 188.175,
+        "iqr_lower_bound": -135.35000000000002,
+        "iqr_upper_bound": 382.2900000000001,
+        "iqr_outlier_rows": 667
+    },
+    "customers_with_no_activity": 6,
+    "customers_with_missing_months": 2200,
+    "customers_with_all_18_months": 400
+}

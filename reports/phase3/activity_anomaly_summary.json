@@ -1,0 +1,8 @@
+{
+    "zero_transactions": 2330,
+    "zero_spend": 2350,
+    "negative_spend": 24,
+    "zero_spend_positive_transactions": 20,
+    "positive_spend_zero_transactions": 0,
+    "negative_transactions": 0
+}

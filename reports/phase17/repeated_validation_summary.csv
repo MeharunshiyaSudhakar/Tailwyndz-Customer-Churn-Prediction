@@ -1,0 +1,4 @@
+experiment,accuracy_mean,accuracy_std,balanced_accuracy_mean,balanced_accuracy_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std,roc_auc_mean,roc_auc_std,pr_auc_average_precision_mean,pr_auc_average_precision_std
+existing_observed_activity_recency,0.9345,0.0129,0.9244,0.0139,0.8839,0.029,0.8992,0.0203,0.8913,0.0205,0.9747,0.0091,0.9584,0.0153
+no_recency_feature,0.8601,0.0206,0.8601,0.0231,0.7234,0.0312,0.8602,0.0294,0.7858,0.0305,0.9364,0.0179,0.8832,0.0238
+positive_transaction_recency_in_window,0.9422,0.0094,0.9328,0.012,0.8977,0.0157,0.9098,0.0192,0.9036,0.0158,0.9772,0.0091,0.9649,0.012

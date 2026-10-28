@@ -1,0 +1,32 @@
+{
+    "workbook": "FreshBasket_Loyalty_Churn_Dataset.xlsx",
+    "sheets": [
+        "Glossary",
+        "fb Customer Profile",
+        "fb Monthly Activity",
+        "fb Churn Label",
+        "Data Dictionary"
+    ],
+    "table_shapes": {
+        "customer_profile": {
+            "rows": 2608,
+            "columns": 10
+        },
+        "monthly_activity": {
+            "rows": 28073,
+            "columns": 12
+        },
+        "churn_label": {
+            "rows": 2605,
+            "columns": 6
+        }
+    },
+    "profile_unique_ids": 2600,
+    "activity_unique_ids": 2594,
+    "churn_unique_ids": 2600,
+    "activity_start": "2023-01-01 00:00:00",
+    "activity_end": "2024-06-01 00:00:00",
+    "activity_exact_duplicates": 58,
+    "duplicate_customer_month_rows": 120,
+    "missing_last_purchase_dates": 120
+}

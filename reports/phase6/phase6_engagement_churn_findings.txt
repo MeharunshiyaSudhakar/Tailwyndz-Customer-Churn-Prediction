@@ -1,0 +1,99 @@
+PHASE 6 — ENGAGEMENT AND SUPPORT VS. CHURN
+=======================================================
+Input: C:\Tailwyndz_Churn_Prediction\data\processed\customer_features_pre_apr2024.csv
+Feature cutoff: 2024-03-31
+Eligible customers: 2227
+Non-churned customers: 1565
+Churned customers: 662
+Eligible-cohort churn rate: 29.73%
+
+NUMERIC FEATURE COMPARISON
+Means and medians are descriptive, not causal evidence.
+
+TOTAL_TRANSACTIONS_PRE_APR2024:
+  Not churned: n=1565, non-missing=1563, mean=51.164, median=51.000
+  Churned: n=662, non-missing=662, mean=23.453, median=19.000
+
+TOTAL_SPEND_PRE_APR2024:
+  Not churned: n=1565, non-missing=1563, mean=1655.947, median=1538.460
+  Churned: n=662, non-missing=662, mean=749.212, median=589.485
+
+TOTAL_APP_SESSIONS_PRE_APR2024:
+  Not churned: n=1565, non-missing=1563, mean=25.353, median=25.000
+  Churned: n=662, non-missing=662, mean=10.861, median=8.000
+
+TOTAL_EMAILS_OPENED_PRE_APR2024:
+  Not churned: n=1565, non-missing=1563, mean=12.093, median=9.000
+  Churned: n=662, non-missing=662, mean=6.775, median=5.000
+
+TOTAL_COUPONS_REDEEMED_PRE_APR2024:
+  Not churned: n=1565, non-missing=1563, mean=6.630, median=7.000
+  Churned: n=662, non-missing=662, mean=3.903, median=3.000
+
+TOTAL_SUPPORT_TICKETS_PRE_APR2024:
+  Not churned: n=1565, non-missing=1563, mean=1.330, median=1.000
+  Churned: n=662, non-missing=662, mean=2.014, median=2.000
+
+MEAN_PROMO_TXN_PCT:
+  Not churned: n=1565, non-missing=1563, mean=0.276, median=0.276
+  Churned: n=662, non-missing=662, mean=0.240, median=0.245
+
+OBSERVED_FEATURE_MONTHS:
+  Not churned: n=1565, non-missing=1563, mean=11.023, median=14.000
+  Churned: n=662, non-missing=662, mean=8.379, median=8.000
+
+MONTHS_SINCE_LAST_OBSERVED_ACTIVITY:
+  Not churned: n=1565, non-missing=1563, mean=0.072, median=0.000
+  Churned: n=662, non-missing=662, mean=5.003, median=5.000
+
+SPEND_TREND_LATE_MINUS_EARLY:
+  Not churned: n=1565, non-missing=1035, mean=61.534, median=31.070
+  Churned: n=662, non-missing=231, mean=-318.993, median=-268.150
+
+TRANSACTION_TREND_LATE_MINUS_EARLY:
+  Not churned: n=1565, non-missing=1035, mean=1.651, median=1.000
+  Churned: n=662, non-missing=231, mean=-10.087, median=-9.000
+
+APP_TREND_LATE_MINUS_EARLY:
+  Not churned: n=1565, non-missing=1035, mean=0.815, median=1.000
+  Churned: n=662, non-missing=231, mean=-4.554, median=-4.000
+
+SUPPORT_TREND_LATE_MINUS_EARLY:
+  Not churned: n=1565, non-missing=1035, mean=0.079, median=0.000
+  Churned: n=662, non-missing=231, mean=0.710, median=1.000
+
+ANY_COMPLAINT:
+  Not churned: n=1565, non-missing=1563, mean=0.315, median=0.000
+  Churned: n=662, non-missing=662, mean=0.417, median=0.000
+
+SEGMENT CHURN RATES
+Descriptive comparisons only; segment sizes are shown.
+
+MEMBERSHIP_TIER:
+  Silver: customers=1269, churned=390, churn_rate=30.73%
+  Platinum: customers=260, churned=77, churn_rate=29.62%
+  Gold: customers=698, churned=195, churn_rate=27.94%
+
+CITY:
+  Austin: customers=222, churned=80, churn_rate=36.04%
+  Columbus: customers=223, churned=76, churn_rate=34.08%
+  Nashville: customers=207, churned=63, churn_rate=30.43%
+  Raleigh: customers=255, churned=77, churn_rate=30.20%
+  Boise: customers=209, churned=62, churn_rate=29.67%
+  Denver: customers=226, churned=65, churn_rate=28.76%
+  Tulsa: customers=253, churned=72, churn_rate=28.46%
+  Madison: customers=220, churned=61, churn_rate=27.73%
+  Portland: customers=205, churned=54, churn_rate=26.34%
+  Spokane: customers=207, churned=52, churn_rate=25.12%
+
+INTERPRETATION AND LIMITATIONS
+- This is descriptive analysis, not a causal test.
+- All predictor features use pre-April 2024 activity.
+- Missing monthly records were not treated as zero purchases.
+- Feature totals reflect observed records and may be affected by unequal history.
+- Support ticket counts and complaint indicators do not establish why a customer churned.
+- Segment differences may reflect other customer characteristics.
+
+OUTPUTS
+C:\Tailwyndz_Churn_Prediction\reports\phase6\phase6_engagement_churn_summary.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase6\phase6_engagement_churn_findings.txt

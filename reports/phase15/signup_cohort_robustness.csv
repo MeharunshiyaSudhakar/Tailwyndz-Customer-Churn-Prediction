@@ -1,0 +1,2 @@
+validation_type,train_cohorts,test_cohorts,train_customers,test_customers,train_churn_rate,test_churn_rate,status,accuracy,balanced_accuracy,precision,recall,f1,roc_auc,pr_auc_average_precision
+signup_cohort_robustness_not_true_temporal_validation,"2021Q1,2021Q2,2021Q3,2021Q4,2022Q1,2022Q2,2022Q3,2022Q4","2023Q1,2023Q2",1384,358,0.35332369942196534,0.329608938547486,completed_exploratory_cohort_check,0.9134078212290503,0.9246468926553673,0.8129496402877698,0.9576271186440678,0.8793774319066148,0.9815677966101695,0.97065527469659

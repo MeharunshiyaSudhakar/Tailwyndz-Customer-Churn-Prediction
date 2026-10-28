@@ -1,0 +1,39 @@
+PHASE 11 — FEATURE LEAKAGE SCREEN
+=================================================================
+Eligible training customers screened: 1781
+Only training-split labels were used for univariate screening.
+
+FEATURE SCREEN
+-----------------------------------------------------------------
+MONTHS_SINCE_LAST_OBSERVED_ACTIVITY: AUC=0.9200, nonmissing=1779, missing=2, review_flag=True
+OBSERVED_FEATURE_MONTHS: AUC=0.2984, nonmissing=1779, missing=2, review_flag=False
+TOTAL_TRANSACTIONS_PRE_APR2024: AUC=0.2295, nonmissing=1779, missing=2, review_flag=False
+TOTAL_SPEND_PRE_APR2024: AUC=0.2407, nonmissing=1779, missing=2, review_flag=False
+LATE_PERIOD_TRANSACTIONS: AUC=0.0993, nonmissing=1494, missing=287, review_flag=True
+LATE_PERIOD_SPEND: AUC=0.1140, nonmissing=1494, missing=287, review_flag=False
+LATE_PERIOD_APP_SESSIONS: AUC=0.1190, nonmissing=1494, missing=287, review_flag=False
+LATE_PERIOD_SUPPORT_TICKETS: AUC=0.6829, nonmissing=1494, missing=287, review_flag=False
+TRANSACTION_TREND_LATE_MINUS_EARLY: AUC=0.1766, nonmissing=1013, missing=768, review_flag=False
+SPEND_TREND_LATE_MINUS_EARLY: AUC=0.1821, nonmissing=1013, missing=768, review_flag=False
+APP_TREND_LATE_MINUS_EARLY: AUC=0.2070, nonmissing=1013, missing=768, review_flag=False
+SUPPORT_TREND_LATE_MINUS_EARLY: AUC=0.6416, nonmissing=1013, missing=768, review_flag=False
+
+DATE CHECKS
+-----------------------------------------------------------------
+FIRST_FEATURE_MONTH_AFTER_CUTOFF: count=0
+LAST_FEATURE_MONTH_AFTER_CUTOFF: count=0
+EXPECTED_FEATURE_CUTOFF: count=0
+
+INTERPRETATION AND LIMITATIONS
+-----------------------------------------------------------------
+1. This is a screening report, not proof that leakage exists or is absent.
+2. High univariate AUC can reflect real signal, label construction, or leakage.
+3. Confirm the precise churn-label definition and observation window.
+4. Check that every predictor was available at the intended prediction date.
+5. Missingness itself may encode history length or data-collection processes.
+6. Date checks do not establish when the underlying measurements became available.
+
+OUTPUT FILES
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_leakage_feature_screen.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_leakage_date_checks.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase11\phase11_leakage_audit_report.txt

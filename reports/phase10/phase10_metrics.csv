@@ -1,0 +1,22 @@
+METRIC,VALUE
+Customers evaluated,446.0
+Actual churned,133.0
+Actual not churned,313.0
+Predicted churned,134.0
+Predicted not churned,312.0
+Actual churn rate,0.2982062780269058
+Predicted churn rate,0.3004484304932735
+Mean predicted churn probability,0.32893092320627804
+Accuracy,0.9260089686098655
+Precision,0.8731343283582089
+Recall / sensitivity,0.8796992481203008
+Specificity,0.9456869009584664
+F1-score,0.8764044943820225
+Balanced accuracy,0.9126930745393835
+ROC-AUC,0.9628143842033198
+PR-AUC / average precision,0.9382832020979653
+Matthews correlation coefficient,0.8236173177438085
+Majority baseline accuracy,0.7017937219730942
+Majority baseline precision,0.0
+Majority baseline recall,0.0
+Majority baseline F1-score,0.0

@@ -1,0 +1,55 @@
+PHASE 7 — VALIDATION STRATEGY REPORT
+================================================
+Input: C:\Tailwyndz_Churn_Prediction\data\processed\customer_features_pre_apr2024.csv
+Eligible customers: 2227
+Train customers: 1781
+Test customers: 446
+Random state: 42
+Test size: 20%
+Split method: stratified random customer-level split
+Feature cutoff: 2024-03-31
+Label window: 2024-04-01 through 2024-06-30
+
+CLASS DISTRIBUTION BY SPLIT
+test: customers=446, churned=133, not_churned=313, churn_rate=29.82%
+train: customers=1781, churned=529, not_churned=1252, churn_rate=29.70%
+
+SIGNUP COHORT DISTRIBUTION BY SPLIT
+test | 2021Q1: customers=21, churned=8, churn_rate=38.10%
+test | 2021Q2: customers=30, churned=5, churn_rate=16.67%
+test | 2021Q3: customers=42, churned=13, churn_rate=30.95%
+test | 2021Q4: customers=43, churned=16, churn_rate=37.21%
+test | 2022Q1: customers=34, churned=15, churn_rate=44.12%
+test | 2022Q2: customers=35, churned=17, churn_rate=48.57%
+test | 2022Q3: customers=39, churned=14, churn_rate=35.90%
+test | 2022Q4: customers=39, churned=12, churn_rate=30.77%
+test | 2023Q1: customers=31, churned=14, churn_rate=45.16%
+test | 2023Q2: customers=35, churned=11, churn_rate=31.43%
+test | 2023Q3: customers=39, churned=4, churn_rate=10.26%
+test | 2023Q4: customers=32, churned=4, churn_rate=12.50%
+test | 2024Q1: customers=26, churned=0, churn_rate=0.00%
+train | 2021Q1: customers=51, churned=19, churn_rate=37.25%
+train | 2021Q2: customers=167, churned=63, churn_rate=37.72%
+train | 2021Q3: customers=151, churned=54, churn_rate=35.76%
+train | 2021Q4: customers=172, churned=58, churn_rate=33.72%
+train | 2022Q1: customers=148, churned=46, churn_rate=31.08%
+train | 2022Q2: customers=131, churned=55, churn_rate=41.98%
+train | 2022Q3: customers=137, churned=49, churn_rate=35.77%
+train | 2022Q4: customers=144, churned=45, churn_rate=31.25%
+train | 2023Q1: customers=145, churned=46, churn_rate=31.72%
+train | 2023Q2: customers=147, churned=47, churn_rate=31.97%
+train | 2023Q3: customers=138, churned=28, churn_rate=20.29%
+train | 2023Q4: customers=155, churned=18, churn_rate=11.61%
+train | 2024Q1: customers=95, churned=1, churn_rate=1.05%
+
+LIMITATIONS
+- This is a stratified random customer-level split, not a true future-time holdout.
+- Signup cohort is reported to inspect distribution; it is not the split mechanism.
+- Use the test set only for final evaluation after model and preprocessing choices are fixed.
+- Fit imputers, encoders, scalers, feature selection, and models on training data only.
+- CUSTOMER_ID, DATA_SPLIT, SIGNUP_COHORT, CHURNED, and history eligibility flags are not predictors.
+- All predictor features must remain limited to information available by 2024-03-31.
+
+OUTPUT
+C:\Tailwyndz_Churn_Prediction\reports\phase7\phase7_customer_split.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase7\phase7_validation_report.txt

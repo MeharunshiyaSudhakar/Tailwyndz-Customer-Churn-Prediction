@@ -1,0 +1,45 @@
+PHASE 12 — FEATURE ABLATION STUDY
+=================================================================
+Eligible Phase 7 training-pool customers: 1781
+Internal training customers: 1424
+Internal validation customers: 357
+Internal validation churn rate: 29.6919%
+Original feature count: 36
+Recency features removed: ['MONTHS_SINCE_LAST_OBSERVED_ACTIVITY']
+Late-period/trend features removed: ['APP_TREND_LATE_MINUS_EARLY', 'LATE_PERIOD_APP_SESSIONS', 'LATE_PERIOD_SPEND', 'LATE_PERIOD_SUPPORT_TICKETS', 'LATE_PERIOD_TRANSACTIONS', 'SPEND_TREND_LATE_MINUS_EARLY', 'SUPPORT_TREND_LATE_MINUS_EARLY', 'TRANSACTION_TREND_LATE_MINUS_EARLY']
+
+RESULTS SORTED BY PR-AUC
+-----------------------------------------------------------------
+BEHAVIOUR_ONLY: features=27, accuracy=0.9468, precision=0.9307, recall=0.8868, F1=0.9082, ROC-AUC=0.9868, PR-AUC=0.9787
+ALL_FEATURES: features=36, accuracy=0.9356, precision=0.9109, recall=0.8679, F1=0.8889, ROC-AUC=0.9873, PR-AUC=0.9773
+WITHOUT_LATE_PERIOD_AND_TRENDS: features=28, accuracy=0.9496, precision=0.9681, recall=0.8585, F1=0.9100, ROC-AUC=0.9778, PR-AUC=0.9608
+WITHOUT_RECENCY: features=35, accuracy=0.9160, precision=0.8878, recall=0.8208, F1=0.8529, ROC-AUC=0.9574, PR-AUC=0.9071
+WITHOUT_RECENCY_LATE_PERIOD_AND_TRENDS: features=27, accuracy=0.8796, precision=0.8387, recall=0.7358, F1=0.7839, ROC-AUC=0.9279, PR-AUC=0.8390
+PROFILE_ONLY: features=9, accuracy=0.6807, precision=0.2143, recall=0.0283, F1=0.0500, ROC-AUC=0.5708, PR-AUC=0.3436
+
+INTERPRETATION
+-----------------------------------------------------------------
+1. Compare each ablation with ALL_FEATURES on the same internal split.
+2. A large performance drop after removal suggests those features
+   contribute predictive information in this validation sample.
+3. A small drop suggests the removed group may add limited incremental value.
+4. This does not prove that a feature is leakage-free or causal.
+5. Very strong results still require checking label-generation rules.
+6. The Phase 7 test customers were not used for this ablation comparison.
+7. Threshold is fixed at 0.5; no threshold tuning was performed.
+
+OUTPUT FILES
+C:\Tailwyndz_Churn_Prediction\reports\phase12\phase12_ablation_results.csv
+C:\Tailwyndz_Churn_Prediction\reports\phase12\phase12_ablation_report.txt
+
+## Final Interpretation and Limitations
+
+The behaviour-only feature set achieved the highest PR-AUC (0.9787), slightly exceeding the all-feature model (0.9773). The profile-only model performed poorly (PR-AUC 0.3436), suggesting that the tested profile features alone provided limited discrimination.
+
+Removing recency reduced PR-AUC to 0.9071. Removing recency together with late-period and trend features reduced it further to 0.8390. This indicates that these feature groups carry substantial predictive information in the current validation setup.
+
+However, the high scores and strong recency signal require caution. The Phase 11 audit identified unresolved discrepancies between churn labels and available activity records, and the relationship between recency features and target construction has not been conclusively resolved. The ablation results therefore establish predictive associations within the current experiment, not causal effects or proven future-period performance.
+
+The experiments used a single internal validation split and should be repeated with a defensible time-based holdout after the label definition and feature timing have been verified. The original churn labels were preserved. No feature group should be declared leakage-free solely from these ablation results.
+
+**Conclusion:** Behavioural features are promising candidates for further validation, while profile-only features appear insufficient. The current ranking is provisional and should not be used to justify operational retention decisions until the leakage and label-consistency concerns are resolved.

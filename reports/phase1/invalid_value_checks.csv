@@ -1,0 +1,6 @@
+table,column,issue,affected_rows
+customer_profile,AGE,Age outside 0 to 120,0
+monthly_activity,TOTAL_SPEND,Negative total spend,24
+monthly_activity,TRANSACTIONS,Negative transaction count,0
+monthly_activity,PROMO_TXN_PCT,Promotion proportion outside 0 to 1,0
+churn_label,CHURNED,Churn label outside 0 or 1,0
